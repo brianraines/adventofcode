@@ -1,0 +1,5013 @@
+$ php run.php
+Combined pairs: Array
+(
+    [oneight] => 18
+    [twone] => 21
+    [threeight] => 38
+    [fiveight] => 58
+    [sevenine] => 79
+    [eightwo] => 82
+    [eighthree] => 83
+    [nineight] => 98
+)
+
+------------------------------------------------------------
+Processing: threerznlrhtkjp23mtflmbrzq395three
+Only numbers: 3233953
+Line Number: 33
+Total: 33
+------------------------------------------------------------
+Processing: 9sevenvlttm
+Only numbers: 97
+Line Number: 97
+Total: 130
+------------------------------------------------------------
+Processing: 3twochzbv
+Only numbers: 32
+Line Number: 32
+Total: 162
+------------------------------------------------------------
+Processing: mdxdlh5six5nqfld9bqzxdqxfour
+Only numbers: 56594
+Line Number: 54
+Total: 216
+------------------------------------------------------------
+Processing: 422268
+Only numbers: 422268
+Line Number: 48
+Total: 264
+------------------------------------------------------------
+Processing: vdctljvnj2jpgdfnbpfjv1
+Only numbers: 21
+Line Number: 21
+Total: 285
+------------------------------------------------------------
+Processing: tshl7foureightvzvzdcgt
+Only numbers: 748
+Line Number: 78
+Total: 363
+------------------------------------------------------------
+Processing: 1fourrj
+Only numbers: 14
+Line Number: 14
+Total: 377
+------------------------------------------------------------
+Processing: 6mfbqtzbprqfive
+Only numbers: 65
+Line Number: 65
+Total: 442
+------------------------------------------------------------
+Processing: 4sevens34
+Only numbers: 4734
+Line Number: 44
+Total: 486
+------------------------------------------------------------
+Processing: fourfourpsckl47xdbncvndrthree
+Only numbers: 44473
+Line Number: 43
+Total: 529
+------------------------------------------------------------
+Processing: 7ltsp1seventhreesix
+Only numbers: 71736
+Line Number: 76
+Total: 605
+------------------------------------------------------------
+Processing: 8sixnmm85
+Only numbers: 8685
+Line Number: 85
+Total: 690
+------------------------------------------------------------
+Processing: 11three
+Only numbers: 113
+Line Number: 13
+Total: 703
+------------------------------------------------------------
+Processing: fourvninelccgtkjzhhdqjmnxjbbkdsnine6two
+Only numbers: 49962
+Line Number: 42
+Total: 745
+------------------------------------------------------------
+Processing: three8seven
+Only numbers: 387
+Line Number: 37
+Total: 782
+------------------------------------------------------------
+Processing: oneonefour7193eight
+Only numbers: 11471938
+Line Number: 18
+Total: 800
+------------------------------------------------------------
+Processing: 8jmqfhmzf7
+Only numbers: 87
+Line Number: 87
+Total: 887
+------------------------------------------------------------
+Processing: 5nine8
+Only numbers: 598
+Line Number: 58
+Total: 945
+------------------------------------------------------------
+Processing: eight1qlfzvdtseven1threefour
+Only numbers: 817134
+Line Number: 84
+Total: 1029
+------------------------------------------------------------
+Processing: 5slbnsevenmz
+Only numbers: 57
+Line Number: 57
+Total: 1086
+------------------------------------------------------------
+Processing: 8sixnzfctpblt
+Only numbers: 86
+Line Number: 86
+Total: 1172
+------------------------------------------------------------
+Processing: xthzlbsjvz4dlg9fiveseven7seven
+Only numbers: 495777
+Line Number: 47
+Total: 1219
+------------------------------------------------------------
+Processing: fzqeightwothree1qhjtmfdsmsf
+Only numbers: 8231
+Line Number: 81
+Total: 1300
+------------------------------------------------------------
+Processing: 74ninesixfivermkvh
+Only numbers: 74965
+Line Number: 75
+Total: 1375
+------------------------------------------------------------
+Processing: five7xshrvvxbjtwo
+Only numbers: 572
+Line Number: 52
+Total: 1427
+------------------------------------------------------------
+Processing: 22threepdtqbceightninesevenvrsct
+Only numbers: 223897
+Line Number: 27
+Total: 1454
+------------------------------------------------------------
+Processing: 4ttbxqm76fiveqcpdptn2
+Only numbers: 47652
+Line Number: 42
+Total: 1496
+------------------------------------------------------------
+Processing: five3nrftzlzrqpkrxgtwoqplpgf
+Only numbers: 532
+Line Number: 52
+Total: 1548
+------------------------------------------------------------
+Processing: threethreeptz4
+Only numbers: 334
+Line Number: 34
+Total: 1582
+------------------------------------------------------------
+Processing: 755hhmsrseven
+Only numbers: 7557
+Line Number: 77
+Total: 1659
+------------------------------------------------------------
+Processing: sevenone1
+Only numbers: 711
+Line Number: 71
+Total: 1730
+------------------------------------------------------------
+Processing: two7bsnxknseven
+Only numbers: 277
+Line Number: 27
+Total: 1757
+------------------------------------------------------------
+Processing: threezdbbhkrnrq4seven
+Only numbers: 347
+Line Number: 37
+Total: 1794
+------------------------------------------------------------
+Processing: eighttwosix71xb
+Only numbers: 82671
+Line Number: 81
+Total: 1875
+------------------------------------------------------------
+Processing: fourtwo86one4
+Only numbers: 428614
+Line Number: 44
+Total: 1919
+------------------------------------------------------------
+Processing: nxsvfqlpbtmjnjn9zkvhdn2zpn
+Only numbers: 92
+Line Number: 92
+Total: 2011
+------------------------------------------------------------
+Processing: 37five4mrkcjgtpldsixtwo
+Only numbers: 375462
+Line Number: 32
+Total: 2043
+------------------------------------------------------------
+Processing: cjbhbxx7v
+Only numbers: 7
+Line Number: 77
+Total: 2120
+------------------------------------------------------------
+Processing: 911lvreightfour
+Only numbers: 91184
+Line Number: 94
+Total: 2214
+------------------------------------------------------------
+Processing: 6qptwo36onefour
+Only numbers: 623614
+Line Number: 64
+Total: 2278
+------------------------------------------------------------
+Processing: fscrbckvp8threemrjmgvcfknfourseven8
+Only numbers: 83478
+Line Number: 88
+Total: 2366
+------------------------------------------------------------
+Processing: four48718hfour
+Only numbers: 4487184
+Line Number: 44
+Total: 2410
+------------------------------------------------------------
+Processing: kbzfourdfxdjmmn9onefourhcxbgnlthree
+Only numbers: 49143
+Line Number: 43
+Total: 2453
+------------------------------------------------------------
+Processing: ktvnxthree6pltdv8hqhkcmcnfj
+Only numbers: 368
+Line Number: 38
+Total: 2491
+------------------------------------------------------------
+Processing: 9qgnmdf
+Only numbers: 9
+Line Number: 99
+Total: 2590
+------------------------------------------------------------
+Processing: ninefive2
+Only numbers: 952
+Line Number: 92
+Total: 2682
+------------------------------------------------------------
+Processing: twobrcdbnninefour85
+Only numbers: 29485
+Line Number: 25
+Total: 2707
+------------------------------------------------------------
+Processing: 4qsst9pnvtxfcrpbgt4
+Only numbers: 494
+Line Number: 44
+Total: 2751
+------------------------------------------------------------
+Processing: 65cdxrjxqhbr86fourvvjvsdgl3
+Only numbers: 658643
+Line Number: 63
+Total: 2814
+------------------------------------------------------------
+Processing: mpfsmd7five
+Only numbers: 75
+Line Number: 75
+Total: 2889
+------------------------------------------------------------
+Processing: 2krzxbvdgmfourthreeseven6onesevensix
+Only numbers: 24376176
+Line Number: 26
+Total: 2915
+------------------------------------------------------------
+Processing: eightone16
+Only numbers: 8116
+Line Number: 86
+Total: 3001
+------------------------------------------------------------
+Processing: zcslhb6hfsixnine
+Only numbers: 669
+Line Number: 69
+Total: 3070
+------------------------------------------------------------
+Processing: four44mrtqqsixtwo
+Only numbers: 44462
+Line Number: 42
+Total: 3112
+------------------------------------------------------------
+Processing: two9gqfsk2six1
+Only numbers: 29261
+Line Number: 21
+Total: 3133
+------------------------------------------------------------
+Processing: 1zrkpqvtfhm3five4
+Only numbers: 1354
+Line Number: 14
+Total: 3147
+------------------------------------------------------------
+Processing: 375threethree
+Only numbers: 37533
+Line Number: 33
+Total: 3180
+------------------------------------------------------------
+Processing: dmnjsjbqcvvqqseven3twoonesixcrdjglhdl
+Only numbers: 73216
+Line Number: 76
+Total: 3256
+------------------------------------------------------------
+Processing: kpkhplpf8seven
+Only numbers: 87
+Line Number: 87
+Total: 3343
+------------------------------------------------------------
+Processing: zhk9ninesixbsfrg
+Only numbers: 996
+Line Number: 96
+Total: 3439
+------------------------------------------------------------
+Processing: 34four
+Only numbers: 344
+Line Number: 34
+Total: 3473
+------------------------------------------------------------
+Processing: sevenseven8
+Only numbers: 778
+Line Number: 78
+Total: 3551
+------------------------------------------------------------
+Processing: tlppzmxvgjnine9sixtxkpdone
+Only numbers: 9961
+Line Number: 91
+Total: 3642
+------------------------------------------------------------
+Processing: drrzvjcgdxqmtmxffrftkthhfbqrpxmfiveseven32
+Only numbers: 5732
+Line Number: 52
+Total: 3694
+------------------------------------------------------------
+Processing: eight4mscvrpr7
+Only numbers: 847
+Line Number: 87
+Total: 3781
+------------------------------------------------------------
+Processing: sixqmndjctlnxs9q1three
+Only numbers: 6913
+Line Number: 63
+Total: 3844
+------------------------------------------------------------
+Processing: 41mfqk81eight55
+Only numbers: 4181855
+Line Number: 45
+Total: 3889
+------------------------------------------------------------
+Processing: jhmhqzcsxfsdxkx5oneseventhree2z1
+Only numbers: 517321
+Line Number: 51
+Total: 3940
+------------------------------------------------------------
+Processing: 6three6k
+Only numbers: 636
+Line Number: 66
+Total: 4006
+------------------------------------------------------------
+Processing: 6nine887
+Only numbers: 69887
+Line Number: 67
+Total: 4073
+------------------------------------------------------------
+Processing: hdrtcqn7zrsnrsbpxgbbsjzd
+Only numbers: 7
+Line Number: 77
+Total: 4150
+------------------------------------------------------------
+Processing: hxdvfnxd1sevensixthree1eight8six
+Only numbers: 17631886
+Line Number: 16
+Total: 4166
+------------------------------------------------------------
+Processing: eightn2
+Only numbers: 82
+Line Number: 82
+Total: 4248
+------------------------------------------------------------
+Processing: sevenqlcf2fiveseven6266
+Only numbers: 72576266
+Line Number: 76
+Total: 4324
+------------------------------------------------------------
+Processing: ttwone4vgtsrcds
+Only numbers: 214
+Line Number: 24
+Total: 4348
+------------------------------------------------------------
+Processing: four36
+Only numbers: 436
+Line Number: 46
+Total: 4394
+------------------------------------------------------------
+Processing: 52zlhmm22seven
+Only numbers: 52227
+Line Number: 57
+Total: 4451
+------------------------------------------------------------
+Processing: lpblvxfivethreebfslbtfour6eightone4
+Only numbers: 5346814
+Line Number: 54
+Total: 4505
+------------------------------------------------------------
+Processing: 4cbr15two3
+Only numbers: 41523
+Line Number: 43
+Total: 4548
+------------------------------------------------------------
+Processing: 4bvxjzhbdvmjgxlqhk5cxklkx5
+Only numbers: 455
+Line Number: 45
+Total: 4593
+------------------------------------------------------------
+Processing: d392qsfpkbvhlz1jkcfkcjnsdvdknqbd
+Only numbers: 3921
+Line Number: 31
+Total: 4624
+------------------------------------------------------------
+Processing: zffmdgmqzzsmzdqbhgjt8hhxzqvgflff22cfrnnq
+Only numbers: 822
+Line Number: 82
+Total: 4706
+------------------------------------------------------------
+Processing: 555onebpttwothreessdtlhkzfk
+Only numbers: 555123
+Line Number: 53
+Total: 4759
+------------------------------------------------------------
+Processing: 7jsvkktn
+Only numbers: 7
+Line Number: 77
+Total: 4836
+------------------------------------------------------------
+Processing: pxslsbnlhj6fivesqdf3nhkmzzgdkckfsbxvgh
+Only numbers: 653
+Line Number: 63
+Total: 4899
+------------------------------------------------------------
+Processing: snjqcmpqf1threevxj
+Only numbers: 13
+Line Number: 13
+Total: 4912
+------------------------------------------------------------
+Processing: 5jkcvtsgtwo49
+Only numbers: 5249
+Line Number: 59
+Total: 4971
+------------------------------------------------------------
+Processing: blbsmtgjhthree9glgchhmrlnrvcvf
+Only numbers: 39
+Line Number: 39
+Total: 5010
+------------------------------------------------------------
+Processing: jpdvqhxrrdonebmgdbpkcj8sixfourrkrllrcv
+Only numbers: 1864
+Line Number: 14
+Total: 5024
+------------------------------------------------------------
+Processing: 6five3smn3nine
+Only numbers: 65339
+Line Number: 69
+Total: 5093
+------------------------------------------------------------
+Processing: kptrrdzxcninesevenfiveeight458
+Only numbers: 9758458
+Line Number: 98
+Total: 5191
+------------------------------------------------------------
+Processing: fourfour171twobfqcvdpx6one
+Only numbers: 44171261
+Line Number: 41
+Total: 5232
+------------------------------------------------------------
+Processing: pqrzsmqls294
+Only numbers: 294
+Line Number: 24
+Total: 5256
+------------------------------------------------------------
+Processing: bx7
+Only numbers: 7
+Line Number: 77
+Total: 5333
+------------------------------------------------------------
+Processing: 8eightthree71fourtksmgxcz2
+Only numbers: 8837142
+Line Number: 82
+Total: 5415
+------------------------------------------------------------
+Processing: eighttwosix8mtpv
+Only numbers: 8268
+Line Number: 88
+Total: 5503
+------------------------------------------------------------
+Processing: 8ninedrjxsbvhrsqvdpbrl97tdkxdjmq9six
+Only numbers: 899796
+Line Number: 86
+Total: 5589
+------------------------------------------------------------
+Processing: 59twonine7ninenineninehsbqqzlr
+Only numbers: 59297999
+Line Number: 59
+Total: 5648
+------------------------------------------------------------
+Processing: five11
+Only numbers: 511
+Line Number: 51
+Total: 5699
+------------------------------------------------------------
+Processing: 6cmxnnmzmsk4lqclspone
+Only numbers: 641
+Line Number: 61
+Total: 5760
+------------------------------------------------------------
+Processing: grzqrbgtb2hztgffpzqflsqhzzdlzmktqbnjone
+Only numbers: 21
+Line Number: 21
+Total: 5781
+------------------------------------------------------------
+Processing: mrmvfive37two
+Only numbers: 5372
+Line Number: 52
+Total: 5833
+------------------------------------------------------------
+Processing: three5ccvghbkp3mjrsfkbpn
+Only numbers: 353
+Line Number: 33
+Total: 5866
+------------------------------------------------------------
+Processing: three94oneonethree
+Only numbers: 394113
+Line Number: 33
+Total: 5899
+------------------------------------------------------------
+Processing: mhoneightfivemdggmcjqgv7tlqkmhhxrjh
+Only numbers: 1857
+Line Number: 17
+Total: 5916
+------------------------------------------------------------
+Processing: twodfbnnsfgnjc7fivetwo
+Only numbers: 2752
+Line Number: 22
+Total: 5938
+------------------------------------------------------------
+Processing: sevensix8vfvkrxninedlxdjjmlvp
+Only numbers: 7689
+Line Number: 79
+Total: 6017
+------------------------------------------------------------
+Processing: 258
+Only numbers: 258
+Line Number: 28
+Total: 6045
+------------------------------------------------------------
+Processing: phl9nine2fivefivenzzdckxdgpzrzqbkx
+Only numbers: 99255
+Line Number: 95
+Total: 6140
+------------------------------------------------------------
+Processing: sfmfive46one
+Only numbers: 5461
+Line Number: 51
+Total: 6191
+------------------------------------------------------------
+Processing: fourtwo6zjtjmtdkfzmltxdhltdzrtqp
+Only numbers: 426
+Line Number: 46
+Total: 6237
+------------------------------------------------------------
+Processing: 429
+Only numbers: 429
+Line Number: 49
+Total: 6286
+------------------------------------------------------------
+Processing: one3bzzthqjgl1skhmqvrtffpzqch
+Only numbers: 131
+Line Number: 11
+Total: 6297
+------------------------------------------------------------
+Processing: one7118
+Only numbers: 17118
+Line Number: 18
+Total: 6315
+------------------------------------------------------------
+Processing: fourninefivexzsgonefrmxpjx9svccseven
+Only numbers: 495197
+Line Number: 47
+Total: 6362
+------------------------------------------------------------
+Processing: vqs3fourninenine
+Only numbers: 3499
+Line Number: 39
+Total: 6401
+------------------------------------------------------------
+Processing: scchxmzbhqptt5
+Only numbers: 5
+Line Number: 55
+Total: 6456
+------------------------------------------------------------
+Processing: seven3threetwo3
+Only numbers: 73323
+Line Number: 73
+Total: 6529
+------------------------------------------------------------
+Processing: gqdbqxbctkdbxf9zonevk6
+Only numbers: 916
+Line Number: 96
+Total: 6625
+------------------------------------------------------------
+Processing: one5dxhfrsrsz7fivesevenseven
+Only numbers: 157577
+Line Number: 17
+Total: 6642
+------------------------------------------------------------
+Processing: 51m
+Only numbers: 51
+Line Number: 51
+Total: 6693
+------------------------------------------------------------
+Processing: twoninedfdshzcqrgvrkdrjmlqvqjhsmxlmfrhcdtbc713
+Only numbers: 29713
+Line Number: 23
+Total: 6716
+------------------------------------------------------------
+Processing: twofivethree9bccssbgqnthreethree
+Only numbers: 253933
+Line Number: 23
+Total: 6739
+------------------------------------------------------------
+Processing: three76hpkzttdhgj
+Only numbers: 376
+Line Number: 36
+Total: 6775
+------------------------------------------------------------
+Processing: 7dsseven1six9lggkdzrmjtwo
+Only numbers: 771692
+Line Number: 72
+Total: 6847
+------------------------------------------------------------
+Processing: dpxg7threexfvxjsqzx
+Only numbers: 73
+Line Number: 73
+Total: 6920
+------------------------------------------------------------
+Processing: 9191eightninekfcspxskthreethree
+Only numbers: 91918933
+Line Number: 93
+Total: 7013
+------------------------------------------------------------
+Processing: seven5five9hrvznqxn9qtqxghtgp9
+Only numbers: 755999
+Line Number: 79
+Total: 7092
+------------------------------------------------------------
+Processing: gm8threefiverpbqkf5
+Only numbers: 8355
+Line Number: 85
+Total: 7177
+------------------------------------------------------------
+Processing: 8three3eightdgn
+Only numbers: 8338
+Line Number: 88
+Total: 7265
+------------------------------------------------------------
+Processing: 27nineeightninej
+Only numbers: 27989
+Line Number: 29
+Total: 7294
+------------------------------------------------------------
+Processing: 43fiveprxftkhpszrgsevenninebncn
+Only numbers: 43579
+Line Number: 49
+Total: 7343
+------------------------------------------------------------
+Processing: threeone7drmqtjnine2ninerjbrhtbzfkone
+Only numbers: 3179291
+Line Number: 31
+Total: 7374
+------------------------------------------------------------
+Processing: zcplmpnbm3
+Only numbers: 3
+Line Number: 33
+Total: 7407
+------------------------------------------------------------
+Processing: gllplmbp57one8fxpqbhgbln
+Only numbers: 5718
+Line Number: 58
+Total: 7465
+------------------------------------------------------------
+Processing: xlxfkgjvnnpbvcclcf18oneseight6
+Only numbers: 18186
+Line Number: 16
+Total: 7481
+------------------------------------------------------------
+Processing: 51pvmcdzbnxtsevenqrvmmfhchthree
+Only numbers: 5173
+Line Number: 53
+Total: 7534
+------------------------------------------------------------
+Processing: nine6fdzrjone
+Only numbers: 961
+Line Number: 91
+Total: 7625
+------------------------------------------------------------
+Processing: 77sixbvlsfninegjq
+Only numbers: 7769
+Line Number: 79
+Total: 7704
+------------------------------------------------------------
+Processing: 7hstqmscrqseven95ninerqjb
+Only numbers: 77959
+Line Number: 79
+Total: 7783
+------------------------------------------------------------
+Processing: fourthree8jfnqbbztqsevennbllxgflc5
+Only numbers: 43875
+Line Number: 45
+Total: 7828
+------------------------------------------------------------
+Processing: four2threedrdqcqsbrnsix
+Only numbers: 4236
+Line Number: 46
+Total: 7874
+------------------------------------------------------------
+Processing: one5onedplktrfb3mphprnfbcnineeighttlb
+Only numbers: 151398
+Line Number: 18
+Total: 7892
+------------------------------------------------------------
+Processing: 8five1mscqbplsltllmqjkkcfzkh9
+Only numbers: 8519
+Line Number: 89
+Total: 7981
+------------------------------------------------------------
+Processing: 73nine
+Only numbers: 739
+Line Number: 79
+Total: 8060
+------------------------------------------------------------
+Processing: one98hmlkqlnbrnbzxjd
+Only numbers: 198
+Line Number: 18
+Total: 8078
+------------------------------------------------------------
+Processing: three8onesixmckhzrlbssxhoneonexftkn
+Only numbers: 381611
+Line Number: 31
+Total: 8109
+------------------------------------------------------------
+Processing: 6pthmtsixeightnine8one
+Only numbers: 668981
+Line Number: 61
+Total: 8170
+------------------------------------------------------------
+Processing: h516nine16
+Only numbers: 516916
+Line Number: 56
+Total: 8226
+------------------------------------------------------------
+Processing: six83zsqd4lxqzqgcpd7twonehlj
+Only numbers: 6834721
+Line Number: 61
+Total: 8287
+------------------------------------------------------------
+Processing: threeseven4five35eightwont
+Only numbers: 37453582
+Line Number: 32
+Total: 8319
+------------------------------------------------------------
+Processing: sevenfour3
+Only numbers: 743
+Line Number: 73
+Total: 8392
+------------------------------------------------------------
+Processing: 275779
+Only numbers: 275779
+Line Number: 29
+Total: 8421
+------------------------------------------------------------
+Processing: pftjgl25
+Only numbers: 25
+Line Number: 25
+Total: 8446
+------------------------------------------------------------
+Processing: eight5oneights
+Only numbers: 8518
+Line Number: 88
+Total: 8534
+------------------------------------------------------------
+Processing: oneeighteight8nsnzphnmspkjxzdxhvhkgrl
+Only numbers: 1888
+Line Number: 18
+Total: 8552
+------------------------------------------------------------
+Processing: 9ninekzhkh2lfdseventwo
+Only numbers: 99272
+Line Number: 92
+Total: 8644
+------------------------------------------------------------
+Processing: 6two81fivethree
+Only numbers: 628153
+Line Number: 63
+Total: 8707
+------------------------------------------------------------
+Processing: sixblhfvjfnm1mfmnpvqqnqshthreepjlzvfour9
+Only numbers: 61349
+Line Number: 69
+Total: 8776
+------------------------------------------------------------
+Processing: 45spmbfdgdhljpdoneqclcqzccjndhqkthree6
+Only numbers: 45136
+Line Number: 46
+Total: 8822
+------------------------------------------------------------
+Processing: 34jhrxkrtxf
+Only numbers: 34
+Line Number: 34
+Total: 8856
+------------------------------------------------------------
+Processing: 83mgdntfnhdj
+Only numbers: 83
+Line Number: 83
+Total: 8939
+------------------------------------------------------------
+Processing: sixdtzllvpkppvlxhpkfive8sevenmdzpbnlcnfpcltg3
+Only numbers: 65873
+Line Number: 63
+Total: 9002
+------------------------------------------------------------
+Processing: 8krd
+Only numbers: 8
+Line Number: 88
+Total: 9090
+------------------------------------------------------------
+Processing: threeqxcx8
+Only numbers: 38
+Line Number: 38
+Total: 9128
+------------------------------------------------------------
+Processing: mtrssgmf85onesevenbtpmvptmjk5
+Only numbers: 85175
+Line Number: 85
+Total: 9213
+------------------------------------------------------------
+Processing: cgjlmfljxm98three4
+Only numbers: 9834
+Line Number: 94
+Total: 9307
+------------------------------------------------------------
+Processing: threehggmbtmzjceight11
+Only numbers: 3811
+Line Number: 31
+Total: 9338
+------------------------------------------------------------
+Processing: mxhhvvptm95two
+Only numbers: 952
+Line Number: 92
+Total: 9430
+------------------------------------------------------------
+Processing: 8oneqcht3
+Only numbers: 813
+Line Number: 83
+Total: 9513
+------------------------------------------------------------
+Processing: zjbfive6vvrr
+Only numbers: 56
+Line Number: 56
+Total: 9569
+------------------------------------------------------------
+Processing: 1mbxsvmlveight7six645crtjb
+Only numbers: 1876645
+Line Number: 15
+Total: 9584
+------------------------------------------------------------
+Processing: 6vptgkghfgzfourrsleightfive2five
+Only numbers: 648525
+Line Number: 65
+Total: 9649
+------------------------------------------------------------
+Processing: onejcqbtfivesixeighttwo8
+Only numbers: 156828
+Line Number: 18
+Total: 9667
+------------------------------------------------------------
+Processing: 2eight2kqmmbsbjvxtvjhponesixtwonesn
+Only numbers: 2821621
+Line Number: 21
+Total: 9688
+------------------------------------------------------------
+Processing: 8pqeight
+Only numbers: 88
+Line Number: 88
+Total: 9776
+------------------------------------------------------------
+Processing: 38mfhtq95ntvbmpthreexxg
+Only numbers: 38953
+Line Number: 33
+Total: 9809
+------------------------------------------------------------
+Processing: six2zhzb4dhf7threeseven
+Only numbers: 624737
+Line Number: 67
+Total: 9876
+------------------------------------------------------------
+Processing: jskqfbsct51seven8fourn
+Only numbers: 51784
+Line Number: 54
+Total: 9930
+------------------------------------------------------------
+Processing: jmlgbbsqtwosklzkz6five
+Only numbers: 265
+Line Number: 25
+Total: 9955
+------------------------------------------------------------
+Processing: spngmplhchpqtfcksix1
+Only numbers: 61
+Line Number: 61
+Total: 10016
+------------------------------------------------------------
+Processing: fiveqvsjlmlqmjzzhktkstwoeight3five
+Only numbers: 52835
+Line Number: 55
+Total: 10071
+------------------------------------------------------------
+Processing: threenbf6zhtwo95nine
+Only numbers: 362959
+Line Number: 39
+Total: 10110
+------------------------------------------------------------
+Processing: 9ltqfqqxdlv
+Only numbers: 9
+Line Number: 99
+Total: 10209
+------------------------------------------------------------
+Processing: two6threeseven
+Only numbers: 2637
+Line Number: 27
+Total: 10236
+------------------------------------------------------------
+Processing: xbgzgqfvgone4fs
+Only numbers: 14
+Line Number: 14
+Total: 10250
+------------------------------------------------------------
+Processing: fourfivedljcgdjrjzqmjbqqrctdvdnbjszszgpfour1
+Only numbers: 4541
+Line Number: 41
+Total: 10291
+------------------------------------------------------------
+Processing: 82foureighteightqfmxfkvvmr
+Only numbers: 82488
+Line Number: 88
+Total: 10379
+------------------------------------------------------------
+Processing: 991pfoursjb
+Only numbers: 9914
+Line Number: 94
+Total: 10473
+------------------------------------------------------------
+Processing: deightwo7sixbtxpv5qjfhkh3
+Only numbers: 827653
+Line Number: 83
+Total: 10556
+------------------------------------------------------------
+Processing: 482nineznmhcqhmrmbxztgkdfour9five
+Only numbers: 4829495
+Line Number: 45
+Total: 10601
+------------------------------------------------------------
+Processing: four9threefiveeight2eightgcm
+Only numbers: 4935828
+Line Number: 48
+Total: 10649
+------------------------------------------------------------
+Processing: 738
+Only numbers: 738
+Line Number: 78
+Total: 10727
+------------------------------------------------------------
+Processing: 6tfive9sixtwofour
+Only numbers: 659624
+Line Number: 64
+Total: 10791
+------------------------------------------------------------
+Processing: two9fourone8
+Only numbers: 29418
+Line Number: 28
+Total: 10819
+------------------------------------------------------------
+Processing: 5gfnine996zgsnvjn
+Only numbers: 59996
+Line Number: 56
+Total: 10875
+------------------------------------------------------------
+Processing: 8hpgkrndtfourtwofive
+Only numbers: 8425
+Line Number: 85
+Total: 10960
+------------------------------------------------------------
+Processing: sbvxxctttjmkchhlbnine8seven
+Only numbers: 987
+Line Number: 97
+Total: 11057
+------------------------------------------------------------
+Processing: l9
+Only numbers: 9
+Line Number: 99
+Total: 11156
+------------------------------------------------------------
+Processing: hm6xdmone5jzhppnlcs
+Only numbers: 615
+Line Number: 65
+Total: 11221
+------------------------------------------------------------
+Processing: five664
+Only numbers: 5664
+Line Number: 54
+Total: 11275
+------------------------------------------------------------
+Processing: gxthreemvrm5nine
+Only numbers: 359
+Line Number: 39
+Total: 11314
+------------------------------------------------------------
+Processing: tjknbthreegjs8ckrrqmffhfour7
+Only numbers: 3847
+Line Number: 37
+Total: 11351
+------------------------------------------------------------
+Processing: two5bbcszdzvtpprsgkmteightfive
+Only numbers: 2585
+Line Number: 25
+Total: 11376
+------------------------------------------------------------
+Processing: plbtlpktcslgggpznine8sevenonejmsvg1
+Only numbers: 98711
+Line Number: 91
+Total: 11467
+------------------------------------------------------------
+Processing: 87two85seven
+Only numbers: 872857
+Line Number: 87
+Total: 11554
+------------------------------------------------------------
+Processing: 5fxdb5sevenseven9
+Only numbers: 55779
+Line Number: 59
+Total: 11613
+------------------------------------------------------------
+Processing: zgpbndt6one
+Only numbers: 61
+Line Number: 61
+Total: 11674
+------------------------------------------------------------
+Processing: 7239pztpqfkf
+Only numbers: 7239
+Line Number: 79
+Total: 11753
+------------------------------------------------------------
+Processing: 768threetwocfzcvc4sx
+Only numbers: 768324
+Line Number: 74
+Total: 11827
+------------------------------------------------------------
+Processing: pbvc34sevenone47
+Only numbers: 347147
+Line Number: 37
+Total: 11864
+------------------------------------------------------------
+Processing: 68nine
+Only numbers: 689
+Line Number: 69
+Total: 11933
+------------------------------------------------------------
+Processing: kqfxgjpnttwo84one
+Only numbers: 2841
+Line Number: 21
+Total: 11954
+------------------------------------------------------------
+Processing: eighttxk2psqlfzf
+Only numbers: 82
+Line Number: 82
+Total: 12036
+------------------------------------------------------------
+Processing: sevenshrqgptpfj88fhxgmkkz
+Only numbers: 788
+Line Number: 78
+Total: 12114
+------------------------------------------------------------
+Processing: 7three17one2
+Only numbers: 731712
+Line Number: 72
+Total: 12186
+------------------------------------------------------------
+Processing: pfmxggfx8lgvvln
+Only numbers: 8
+Line Number: 88
+Total: 12274
+------------------------------------------------------------
+Processing: 39tsix7bkbfzqqx
+Only numbers: 3967
+Line Number: 37
+Total: 12311
+------------------------------------------------------------
+Processing: gtmvx3485mjtrdmsfxl9
+Only numbers: 34859
+Line Number: 39
+Total: 12350
+------------------------------------------------------------
+Processing: 7twosevenfour9seveneight65
+Only numbers: 727497865
+Line Number: 75
+Total: 12425
+------------------------------------------------------------
+Processing: ninehscl531
+Only numbers: 9531
+Line Number: 91
+Total: 12516
+------------------------------------------------------------
+Processing: 82rseventkhksixj
+Only numbers: 8276
+Line Number: 86
+Total: 12602
+------------------------------------------------------------
+Processing: vzjtwo6ztbtjpllptmznhxcnljf
+Only numbers: 26
+Line Number: 26
+Total: 12628
+------------------------------------------------------------
+Processing: xrjnql792
+Only numbers: 792
+Line Number: 72
+Total: 12700
+------------------------------------------------------------
+Processing: 53twofourtnbfdhhr2xbsh
+Only numbers: 53242
+Line Number: 52
+Total: 12752
+------------------------------------------------------------
+Processing: twogrhgmvhkgcsj2two
+Only numbers: 222
+Line Number: 22
+Total: 12774
+------------------------------------------------------------
+Processing: bxlgbpnvpkrphcp54pqjhndjfmf7
+Only numbers: 547
+Line Number: 57
+Total: 12831
+------------------------------------------------------------
+Processing: hszmjxgjfcnine7
+Only numbers: 97
+Line Number: 97
+Total: 12928
+------------------------------------------------------------
+Processing: sixsix2
+Only numbers: 662
+Line Number: 62
+Total: 12990
+------------------------------------------------------------
+Processing: 688qmpnj1vsfiveeightmfrd
+Only numbers: 688158
+Line Number: 68
+Total: 13058
+------------------------------------------------------------
+Processing: one2sixmhmlmbghfeight3
+Only numbers: 12683
+Line Number: 13
+Total: 13071
+------------------------------------------------------------
+Processing: 5two4six1twosix
+Only numbers: 5246126
+Line Number: 56
+Total: 13127
+------------------------------------------------------------
+Processing: 58459nine3fourseven
+Only numbers: 584599347
+Line Number: 57
+Total: 13184
+------------------------------------------------------------
+Processing: 72nineonedtz88eight
+Only numbers: 7291888
+Line Number: 78
+Total: 13262
+------------------------------------------------------------
+Processing: 4lgjq
+Only numbers: 4
+Line Number: 44
+Total: 13306
+------------------------------------------------------------
+Processing: lvstjk3twoninefh
+Only numbers: 329
+Line Number: 39
+Total: 13345
+------------------------------------------------------------
+Processing: eight161652xczvqcjhtvxgc
+Only numbers: 8161652
+Line Number: 82
+Total: 13427
+------------------------------------------------------------
+Processing: 1seven5zrkchldlfxvzrqjgzg8bl
+Only numbers: 1758
+Line Number: 18
+Total: 13445
+------------------------------------------------------------
+Processing: ngfkczcrbrfvnsevenf4
+Only numbers: 74
+Line Number: 74
+Total: 13519
+------------------------------------------------------------
+Processing: six9fiveseven21fourfour
+Only numbers: 69572144
+Line Number: 64
+Total: 13583
+------------------------------------------------------------
+Processing: onecsix1
+Only numbers: 161
+Line Number: 11
+Total: 13594
+------------------------------------------------------------
+Processing: 8fiverpnktj
+Only numbers: 85
+Line Number: 85
+Total: 13679
+------------------------------------------------------------
+Processing: 5eightfourmjkhskllbrb83eightkrtn
+Only numbers: 584838
+Line Number: 58
+Total: 13737
+------------------------------------------------------------
+Processing: hqrkbrcccd5
+Only numbers: 5
+Line Number: 55
+Total: 13792
+------------------------------------------------------------
+Processing: sixjlcncnfivexqhqdbkqfour8
+Only numbers: 6548
+Line Number: 68
+Total: 13860
+------------------------------------------------------------
+Processing: 72two
+Only numbers: 722
+Line Number: 72
+Total: 13932
+------------------------------------------------------------
+Processing: one8sevenfivefour
+Only numbers: 18754
+Line Number: 14
+Total: 13946
+------------------------------------------------------------
+Processing: drgznqtjdfive3
+Only numbers: 53
+Line Number: 53
+Total: 13999
+------------------------------------------------------------
+Processing: 2vgpfdhseveneight43thtnthree
+Only numbers: 278433
+Line Number: 23
+Total: 14022
+------------------------------------------------------------
+Processing: 2kfgbh17seven5
+Only numbers: 21775
+Line Number: 25
+Total: 14047
+------------------------------------------------------------
+Processing: bclqfgsdvfour9five
+Only numbers: 495
+Line Number: 45
+Total: 14092
+------------------------------------------------------------
+Processing: seven48oneeightwon
+Only numbers: 748182
+Line Number: 72
+Total: 14164
+------------------------------------------------------------
+Processing: sixthhzzffourfivervssxzncxcthree9
+Only numbers: 64539
+Line Number: 69
+Total: 14233
+------------------------------------------------------------
+Processing: ninefive8
+Only numbers: 958
+Line Number: 98
+Total: 14331
+------------------------------------------------------------
+Processing: 49sixnine73cvzgvnvvjqzmht
+Only numbers: 496973
+Line Number: 43
+Total: 14374
+------------------------------------------------------------
+Processing: sttbtlxgxfd69threeoneqbsmdsbpbfzpfpmf8
+Only numbers: 69318
+Line Number: 68
+Total: 14442
+------------------------------------------------------------
+Processing: zmxffive57
+Only numbers: 557
+Line Number: 57
+Total: 14499
+------------------------------------------------------------
+Processing: dncfqshnpgmfmnpqfiveone4br2threeeight
+Only numbers: 514238
+Line Number: 58
+Total: 14557
+------------------------------------------------------------
+Processing: 8fivetworps
+Only numbers: 852
+Line Number: 82
+Total: 14639
+------------------------------------------------------------
+Processing: two2twoeightnine6
+Only numbers: 222896
+Line Number: 26
+Total: 14665
+------------------------------------------------------------
+Processing: kttfsevenfrspkpsn8cscqgvthreetwo
+Only numbers: 7832
+Line Number: 72
+Total: 14737
+------------------------------------------------------------
+Processing: sphvhseven1mcone8
+Only numbers: 7118
+Line Number: 78
+Total: 14815
+------------------------------------------------------------
+Processing: qmtlxml2onetxsjdnprxlcd7jfncngfsv
+Only numbers: 217
+Line Number: 27
+Total: 14842
+------------------------------------------------------------
+Processing: onetxjrzhnb1fxnlncstxthreelsixjlqhrnjhgt
+Only numbers: 1136
+Line Number: 16
+Total: 14858
+------------------------------------------------------------
+Processing: tdftgntv83433
+Only numbers: 83433
+Line Number: 83
+Total: 14941
+------------------------------------------------------------
+Processing: sfq4dvgbmrseven6nsmxfgzfh
+Only numbers: 476
+Line Number: 46
+Total: 14987
+------------------------------------------------------------
+Processing: fourmvsgfvnrpp7one36hkfcmd
+Only numbers: 47136
+Line Number: 46
+Total: 15033
+------------------------------------------------------------
+Processing: 528dfbr4six9
+Only numbers: 528469
+Line Number: 59
+Total: 15092
+------------------------------------------------------------
+Processing: threesevenfiveddpmf9five1four
+Only numbers: 3759514
+Line Number: 34
+Total: 15126
+------------------------------------------------------------
+Processing: 76ninehfivejseventhree
+Only numbers: 769573
+Line Number: 73
+Total: 15199
+------------------------------------------------------------
+Processing: 7ninelkkdgqzgksixlhdsmvvhvseven5
+Only numbers: 79675
+Line Number: 75
+Total: 15274
+------------------------------------------------------------
+Processing: hrjgpzlggnine4two7
+Only numbers: 9427
+Line Number: 97
+Total: 15371
+------------------------------------------------------------
+Processing: 2sixsixjnsfztffone7tb1
+Only numbers: 266171
+Line Number: 21
+Total: 15392
+------------------------------------------------------------
+Processing: 6pjxcpkpdh
+Only numbers: 6
+Line Number: 66
+Total: 15458
+------------------------------------------------------------
+Processing: 84jsnmmllbzsseven
+Only numbers: 847
+Line Number: 87
+Total: 15545
+------------------------------------------------------------
+Processing: 2three572ninekn1rjqg
+Only numbers: 2357291
+Line Number: 21
+Total: 15566
+------------------------------------------------------------
+Processing: sseightwofivenineonesixsix3gqxcnztsveight
+Only numbers: 825916638
+Line Number: 88
+Total: 15654
+------------------------------------------------------------
+Processing: nm18sxsrgmkqsfrrcqs
+Only numbers: 18
+Line Number: 18
+Total: 15672
+------------------------------------------------------------
+Processing: xsvgrddftfmt1nnmzndpc
+Only numbers: 1
+Line Number: 11
+Total: 15683
+------------------------------------------------------------
+Processing: lx5jlnbzmfeighteight
+Only numbers: 588
+Line Number: 58
+Total: 15741
+------------------------------------------------------------
+Processing: fdfjhnrhdbpskcpgqjhbfjxsx7
+Only numbers: 7
+Line Number: 77
+Total: 15818
+------------------------------------------------------------
+Processing: twokxnskxseventwo2xlmrtphhkvhznp
+Only numbers: 2722
+Line Number: 22
+Total: 15840
+------------------------------------------------------------
+Processing: two3mbfczdreightmxfr85
+Only numbers: 23885
+Line Number: 25
+Total: 15865
+------------------------------------------------------------
+Processing: rqtmx2qrhhqfmvonefour
+Only numbers: 214
+Line Number: 24
+Total: 15889
+------------------------------------------------------------
+Processing: 59fourjsblcnbrzmbcgdzpnrqcptn
+Only numbers: 594
+Line Number: 54
+Total: 15943
+------------------------------------------------------------
+Processing: 4ninexpjzqsjsznqtbclcplftnfour13six
+Only numbers: 494136
+Line Number: 46
+Total: 15989
+------------------------------------------------------------
+Processing: onekmj58kzvs8v
+Only numbers: 1588
+Line Number: 18
+Total: 16007
+------------------------------------------------------------
+Processing: five2nineseven
+Only numbers: 5297
+Line Number: 57
+Total: 16064
+------------------------------------------------------------
+Processing: 1two6jhdzt
+Only numbers: 126
+Line Number: 16
+Total: 16080
+------------------------------------------------------------
+Processing: 2n
+Only numbers: 2
+Line Number: 22
+Total: 16102
+------------------------------------------------------------
+Processing: tlsbhsr1lhnjhbthz3hkgrlglzsix8l
+Only numbers: 1368
+Line Number: 18
+Total: 16120
+------------------------------------------------------------
+Processing: sevensevenngkc7
+Only numbers: 777
+Line Number: 77
+Total: 16197
+------------------------------------------------------------
+Processing: 4rxnlbqs
+Only numbers: 4
+Line Number: 44
+Total: 16241
+------------------------------------------------------------
+Processing: jlsg8ftfpmmlthk3fourzqmrcrx
+Only numbers: 834
+Line Number: 84
+Total: 16325
+------------------------------------------------------------
+Processing: twosixtwo94
+Only numbers: 26294
+Line Number: 24
+Total: 16349
+------------------------------------------------------------
+Processing: 825tpltn1ssszdsdklbrjn9qtz
+Only numbers: 82519
+Line Number: 89
+Total: 16438
+------------------------------------------------------------
+Processing: seven96seventllvlfxddqjvtft58six
+Only numbers: 7967586
+Line Number: 76
+Total: 16514
+------------------------------------------------------------
+Processing: seven9ndsdnone
+Only numbers: 791
+Line Number: 71
+Total: 16585
+------------------------------------------------------------
+Processing: rrdmxl1
+Only numbers: 1
+Line Number: 11
+Total: 16596
+------------------------------------------------------------
+Processing: fjhlhhmmsklmfhrrjhvgblgqqhtvhfpzlgshcgvh445
+Only numbers: 445
+Line Number: 45
+Total: 16641
+------------------------------------------------------------
+Processing: 6threetrsp75twoddj5
+Only numbers: 637525
+Line Number: 65
+Total: 16706
+------------------------------------------------------------
+Processing: gslbmxjn9twofivefourkbvdcpxrz4fivejbzhxjk
+Only numbers: 925445
+Line Number: 95
+Total: 16801
+------------------------------------------------------------
+Processing: hp6vplls1pvhscqflc
+Only numbers: 61
+Line Number: 61
+Total: 16862
+------------------------------------------------------------
+Processing: one91oneeight9ninesixtwo
+Only numbers: 191189962
+Line Number: 12
+Total: 16874
+------------------------------------------------------------
+Processing: vxntwofour1
+Only numbers: 241
+Line Number: 21
+Total: 16895
+------------------------------------------------------------
+Processing: fivexbslqmnsixq8
+Only numbers: 568
+Line Number: 58
+Total: 16953
+------------------------------------------------------------
+Processing: 8eight8two2
+Only numbers: 88822
+Line Number: 82
+Total: 17035
+------------------------------------------------------------
+Processing: 524
+Only numbers: 524
+Line Number: 54
+Total: 17089
+------------------------------------------------------------
+Processing: 8five8rlkbjdsixfbqznnfive
+Only numbers: 85865
+Line Number: 85
+Total: 17174
+------------------------------------------------------------
+Processing: threeseven2fourkkmhgmt
+Only numbers: 3724
+Line Number: 34
+Total: 17208
+------------------------------------------------------------
+Processing: sbsr2nine52seven6
+Only numbers: 295276
+Line Number: 26
+Total: 17234
+------------------------------------------------------------
+Processing: hxqqhcxzfour2tpbkkzpndpkthreefourfour
+Only numbers: 42344
+Line Number: 44
+Total: 17278
+------------------------------------------------------------
+Processing: eightnbtthbztdtdv87oneonetwo
+Only numbers: 887112
+Line Number: 82
+Total: 17360
+------------------------------------------------------------
+Processing: eightninesevennqdx5
+Only numbers: 8975
+Line Number: 85
+Total: 17445
+------------------------------------------------------------
+Processing: ptmpmmh6
+Only numbers: 6
+Line Number: 66
+Total: 17511
+------------------------------------------------------------
+Processing: 5svmgf1
+Only numbers: 51
+Line Number: 51
+Total: 17562
+------------------------------------------------------------
+Processing: 2mhlmtbfive
+Only numbers: 25
+Line Number: 25
+Total: 17587
+------------------------------------------------------------
+Processing: sixfour883
+Only numbers: 64883
+Line Number: 63
+Total: 17650
+------------------------------------------------------------
+Processing: x4eight239fivesl
+Only numbers: 482395
+Line Number: 45
+Total: 17695
+------------------------------------------------------------
+Processing: kqjzgkfs4txmfmn
+Only numbers: 4
+Line Number: 44
+Total: 17739
+------------------------------------------------------------
+Processing: twonine6hjfzkdk
+Only numbers: 296
+Line Number: 26
+Total: 17765
+------------------------------------------------------------
+Processing: cntncrvfour4mnd
+Only numbers: 44
+Line Number: 44
+Total: 17809
+------------------------------------------------------------
+Processing: fourhnnsksgkskq11two4
+Only numbers: 41124
+Line Number: 44
+Total: 17853
+------------------------------------------------------------
+Processing: eightdhnine25
+Only numbers: 8925
+Line Number: 85
+Total: 17938
+------------------------------------------------------------
+Processing: two7lhbqh
+Only numbers: 27
+Line Number: 27
+Total: 17965
+------------------------------------------------------------
+Processing: jbjgqt5threefour44threegcn
+Only numbers: 534443
+Line Number: 53
+Total: 18018
+------------------------------------------------------------
+Processing: 37eightpkhjshdg
+Only numbers: 378
+Line Number: 38
+Total: 18056
+------------------------------------------------------------
+Processing: 1seven9pqmnsix
+Only numbers: 1796
+Line Number: 16
+Total: 18072
+------------------------------------------------------------
+Processing: 361rqvcqhv5zqzshvrffjqp4
+Only numbers: 36154
+Line Number: 34
+Total: 18106
+------------------------------------------------------------
+Processing: lbptzzf2ninezninesix7
+Only numbers: 29967
+Line Number: 27
+Total: 18133
+------------------------------------------------------------
+Processing: xvqgxhhn4694vjfdmnnine
+Only numbers: 46949
+Line Number: 49
+Total: 18182
+------------------------------------------------------------
+Processing: rhqjjxbn68
+Only numbers: 68
+Line Number: 68
+Total: 18250
+------------------------------------------------------------
+Processing: zdoneightone3tldkfzzpbqblm12three
+Only numbers: 1813123
+Line Number: 13
+Total: 18263
+------------------------------------------------------------
+Processing: sixnine7vss8fflxfxvvj
+Only numbers: 6978
+Line Number: 68
+Total: 18331
+------------------------------------------------------------
+Processing: kmpsffxpsxjbdkphpfour8cseven
+Only numbers: 487
+Line Number: 47
+Total: 18378
+------------------------------------------------------------
+Processing: 5hhdbthreefivepfmonesix
+Only numbers: 53516
+Line Number: 56
+Total: 18434
+------------------------------------------------------------
+Processing: 7six13gmqvfcxrbsix
+Only numbers: 76136
+Line Number: 76
+Total: 18510
+------------------------------------------------------------
+Processing: twoxtqbsbsxtdjcdzqfourrrtgs86
+Only numbers: 2486
+Line Number: 26
+Total: 18536
+------------------------------------------------------------
+Processing: 52zdbph3kdtmpl
+Only numbers: 523
+Line Number: 53
+Total: 18589
+------------------------------------------------------------
+Processing: 959threethree
+Only numbers: 95933
+Line Number: 93
+Total: 18682
+------------------------------------------------------------
+Processing: bckxnxxvmhbz923fourthree
+Only numbers: 92343
+Line Number: 93
+Total: 18775
+------------------------------------------------------------
+Processing: seven2lsjr
+Only numbers: 72
+Line Number: 72
+Total: 18847
+------------------------------------------------------------
+Processing: xvspjhcvpnine8sevenqjvzmjbzseven1zone
+Only numbers: 987711
+Line Number: 91
+Total: 18938
+------------------------------------------------------------
+Processing: twogxgz2onefive
+Only numbers: 2215
+Line Number: 25
+Total: 18963
+------------------------------------------------------------
+Processing: 9qmstrkqpgqzkxbbprbsixjk3sixsevenone
+Only numbers: 963671
+Line Number: 91
+Total: 19054
+------------------------------------------------------------
+Processing: 4vzrjdvbkmlhtwo6mdkhsixfour
+Only numbers: 42664
+Line Number: 44
+Total: 19098
+------------------------------------------------------------
+Processing: oneone2eight9zszpvnfgn3one
+Only numbers: 1128931
+Line Number: 11
+Total: 19109
+------------------------------------------------------------
+Processing: httbg6nztnlpgdgf
+Only numbers: 6
+Line Number: 66
+Total: 19175
+------------------------------------------------------------
+Processing: qlxrnfclphthree5zbzsrszbc6
+Only numbers: 356
+Line Number: 36
+Total: 19211
+------------------------------------------------------------
+Processing: ctcvnkckxtgsg1ninefivecrpnqmngqvnhmqcvn
+Only numbers: 195
+Line Number: 15
+Total: 19226
+------------------------------------------------------------
+Processing: 9sevenfivefour
+Only numbers: 9754
+Line Number: 94
+Total: 19320
+------------------------------------------------------------
+Processing: 6pkvvone3
+Only numbers: 613
+Line Number: 63
+Total: 19383
+------------------------------------------------------------
+Processing: 6nine2sixeightthree4
+Only numbers: 6926834
+Line Number: 64
+Total: 19447
+------------------------------------------------------------
+Processing: 9qfivedrpfmxfbskhfstwofivergqcg
+Only numbers: 9525
+Line Number: 95
+Total: 19542
+------------------------------------------------------------
+Processing: 955mztjrdmlstwo5onedcrzz
+Only numbers: 955251
+Line Number: 91
+Total: 19633
+------------------------------------------------------------
+Processing: sevenrxbnlfpm6twozg7
+Only numbers: 7627
+Line Number: 77
+Total: 19710
+------------------------------------------------------------
+Processing: four1oneseven34three3
+Only numbers: 41173433
+Line Number: 43
+Total: 19753
+------------------------------------------------------------
+Processing: ninerhc5qninefivebndtqdjrd25
+Only numbers: 959525
+Line Number: 95
+Total: 19848
+------------------------------------------------------------
+Processing: lsbx5bhlrjfdrmblnkl41576
+Only numbers: 541576
+Line Number: 56
+Total: 19904
+------------------------------------------------------------
+Processing: dvzbqqbd4615fourbjsmpvhllhjpzc
+Only numbers: 46154
+Line Number: 44
+Total: 19948
+------------------------------------------------------------
+Processing: 657
+Only numbers: 657
+Line Number: 67
+Total: 20015
+------------------------------------------------------------
+Processing: 4ldkzjvdjfone
+Only numbers: 41
+Line Number: 41
+Total: 20056
+------------------------------------------------------------
+Processing: nine49seven
+Only numbers: 9497
+Line Number: 97
+Total: 20153
+------------------------------------------------------------
+Processing: 4kx2rnmpjnheighthjkxpdstb557
+Only numbers: 428557
+Line Number: 47
+Total: 20200
+------------------------------------------------------------
+Processing: threeeight34three59
+Only numbers: 3834359
+Line Number: 39
+Total: 20239
+------------------------------------------------------------
+Processing: twofourrv48fivetwosevenddcdm
+Only numbers: 2448527
+Line Number: 27
+Total: 20266
+------------------------------------------------------------
+Processing: gkpzqjk89
+Only numbers: 89
+Line Number: 89
+Total: 20355
+------------------------------------------------------------
+Processing: 341
+Only numbers: 341
+Line Number: 31
+Total: 20386
+------------------------------------------------------------
+Processing: two5pnbbmp
+Only numbers: 25
+Line Number: 25
+Total: 20411
+------------------------------------------------------------
+Processing: nine3btkkdn6
+Only numbers: 936
+Line Number: 96
+Total: 20507
+------------------------------------------------------------
+Processing: 339
+Only numbers: 339
+Line Number: 39
+Total: 20546
+------------------------------------------------------------
+Processing: 5gxcktphmzxjdtsb8
+Only numbers: 58
+Line Number: 58
+Total: 20604
+------------------------------------------------------------
+Processing: 8dhfzjf832
+Only numbers: 8832
+Line Number: 82
+Total: 20686
+------------------------------------------------------------
+Processing: bqlv7klbrbsfcbdhpcb1eightone
+Only numbers: 7181
+Line Number: 71
+Total: 20757
+------------------------------------------------------------
+Processing: fourcpl5mnbtzmrgdjhfl
+Only numbers: 45
+Line Number: 45
+Total: 20802
+------------------------------------------------------------
+Processing: 22hfmg1
+Only numbers: 221
+Line Number: 21
+Total: 20823
+------------------------------------------------------------
+Processing: fiveqxtkfivethreesix5mzhj
+Only numbers: 55365
+Line Number: 55
+Total: 20878
+------------------------------------------------------------
+Processing: qfmfvbks1three3foureight1
+Only numbers: 133481
+Line Number: 11
+Total: 20889
+------------------------------------------------------------
+Processing: twoseven8ntkbkjmtxrb33
+Only numbers: 27833
+Line Number: 23
+Total: 20912
+------------------------------------------------------------
+Processing: 5ninensvcbfb
+Only numbers: 59
+Line Number: 59
+Total: 20971
+------------------------------------------------------------
+Processing: nine2839kffmnbgvpzflmbvfpg
+Only numbers: 92839
+Line Number: 99
+Total: 21070
+------------------------------------------------------------
+Processing: 34six2fivebdvzlbdqkl
+Only numbers: 34625
+Line Number: 35
+Total: 21105
+------------------------------------------------------------
+Processing: 7three8five
+Only numbers: 7385
+Line Number: 75
+Total: 21180
+------------------------------------------------------------
+Processing: ndfrcqjrn3foureightfour
+Only numbers: 3484
+Line Number: 34
+Total: 21214
+------------------------------------------------------------
+Processing: one8pfpnpqxt49fourcspbbhlpszkxd
+Only numbers: 18494
+Line Number: 14
+Total: 21228
+------------------------------------------------------------
+Processing: qrmxsvjsnv2szlxhfour
+Only numbers: 24
+Line Number: 24
+Total: 21252
+------------------------------------------------------------
+Processing: mpjninesixsixmngjcrphthreeseven6two
+Only numbers: 9663762
+Line Number: 92
+Total: 21344
+------------------------------------------------------------
+Processing: vmponeightfour5
+Only numbers: 1845
+Line Number: 15
+Total: 21359
+------------------------------------------------------------
+Processing: 776
+Only numbers: 776
+Line Number: 76
+Total: 21435
+------------------------------------------------------------
+Processing: 22twov7354one
+Only numbers: 22273541
+Line Number: 21
+Total: 21456
+------------------------------------------------------------
+Processing: ninexffxsqrfourcsvhgj8eightthree
+Only numbers: 94883
+Line Number: 93
+Total: 21549
+------------------------------------------------------------
+Processing: nghjjvxldbznlqdeight96vhhgslrddvfmc6
+Only numbers: 8966
+Line Number: 86
+Total: 21635
+------------------------------------------------------------
+Processing: 3sixbjfvtgqp4
+Only numbers: 364
+Line Number: 34
+Total: 21669
+------------------------------------------------------------
+Processing: rrqlrfksk9zpvmfqqsgdonesixseven
+Only numbers: 9167
+Line Number: 97
+Total: 21766
+------------------------------------------------------------
+Processing: six1fourqhvggsfdzfckntmfbrhthree
+Only numbers: 6143
+Line Number: 63
+Total: 21829
+------------------------------------------------------------
+Processing: one47onesmdhrtjhjk
+Only numbers: 1471
+Line Number: 11
+Total: 21840
+------------------------------------------------------------
+Processing: seventwoptwo7gtfzvgknbone8
+Only numbers: 722718
+Line Number: 78
+Total: 21918
+------------------------------------------------------------
+Processing: foureighttwo2nnnxljzt2seven
+Only numbers: 482227
+Line Number: 47
+Total: 21965
+------------------------------------------------------------
+Processing: nine66threemshnrl
+Only numbers: 9663
+Line Number: 93
+Total: 22058
+------------------------------------------------------------
+Processing: 9tbtkz98lhlprtwonevn
+Only numbers: 99821
+Line Number: 91
+Total: 22149
+------------------------------------------------------------
+Processing: two6two9867
+Only numbers: 2629867
+Line Number: 27
+Total: 22176
+------------------------------------------------------------
+Processing: 8foureightvflcsxxblgzcjmdkllblvt1
+Only numbers: 8481
+Line Number: 81
+Total: 22257
+------------------------------------------------------------
+Processing: fourzlcneight5
+Only numbers: 485
+Line Number: 45
+Total: 22302
+------------------------------------------------------------
+Processing: tltmpnhmrbhnntmjpfkfourtnxtmtqnhrsone9
+Only numbers: 419
+Line Number: 49
+Total: 22351
+------------------------------------------------------------
+Processing: 838lqcmbqqrdgsix
+Only numbers: 8386
+Line Number: 86
+Total: 22437
+------------------------------------------------------------
+Processing: sixthreeeight9grr5nine8
+Only numbers: 6389598
+Line Number: 68
+Total: 22505
+------------------------------------------------------------
+Processing: oneeight4six68
+Only numbers: 184668
+Line Number: 18
+Total: 22523
+------------------------------------------------------------
+Processing: rppnht6gdrztq14five
+Only numbers: 6145
+Line Number: 65
+Total: 22588
+------------------------------------------------------------
+Processing: 4xvgv72threev
+Only numbers: 4723
+Line Number: 43
+Total: 22631
+------------------------------------------------------------
+Processing: fournine2onenine2two
+Only numbers: 4921922
+Line Number: 42
+Total: 22673
+------------------------------------------------------------
+Processing: 9dhksjxmct23ninempcqhroneeight3
+Only numbers: 9239183
+Line Number: 93
+Total: 22766
+------------------------------------------------------------
+Processing: eightvhgtlfft4threethreecgnpzjf
+Only numbers: 8433
+Line Number: 83
+Total: 22849
+------------------------------------------------------------
+Processing: sfslpsixthreeeightcqnlpsplvtseven7nine2
+Only numbers: 6387792
+Line Number: 62
+Total: 22911
+------------------------------------------------------------
+Processing: drr2
+Only numbers: 2
+Line Number: 22
+Total: 22933
+------------------------------------------------------------
+Processing: twossevenhtffztninehkgzvnmgrn7one
+Only numbers: 27971
+Line Number: 21
+Total: 22954
+------------------------------------------------------------
+Processing: three4fourthree6eightthree
+Only numbers: 3443683
+Line Number: 33
+Total: 22987
+------------------------------------------------------------
+Processing: eightpkgknqhfour6
+Only numbers: 846
+Line Number: 86
+Total: 23073
+------------------------------------------------------------
+Processing: 28onethree25
+Only numbers: 281325
+Line Number: 25
+Total: 23098
+------------------------------------------------------------
+Processing: 1sevennine6vkrqnxct
+Only numbers: 1796
+Line Number: 16
+Total: 23114
+------------------------------------------------------------
+Processing: 786ptjbkbf1
+Only numbers: 7861
+Line Number: 71
+Total: 23185
+------------------------------------------------------------
+Processing: ninetjvnxqkphrltpeightthree514four
+Only numbers: 9835144
+Line Number: 94
+Total: 23279
+------------------------------------------------------------
+Processing: 376mgfkztqseven
+Only numbers: 3767
+Line Number: 37
+Total: 23316
+------------------------------------------------------------
+Processing: 3threeqqvqxtvsnjvdkvpnvhk
+Only numbers: 33
+Line Number: 33
+Total: 23349
+------------------------------------------------------------
+Processing: 8rqxcrxmkxczzfkqkffvzcstwosrtmfnzmbf5eighttwo
+Only numbers: 82582
+Line Number: 82
+Total: 23431
+------------------------------------------------------------
+Processing: two93
+Only numbers: 293
+Line Number: 23
+Total: 23454
+------------------------------------------------------------
+Processing: 854
+Only numbers: 854
+Line Number: 84
+Total: 23538
+------------------------------------------------------------
+Processing: 29fourhnmjvlseightnvkfbn61
+Only numbers: 294861
+Line Number: 21
+Total: 23559
+------------------------------------------------------------
+Processing: 6zslckzztm3eight
+Only numbers: 638
+Line Number: 68
+Total: 23627
+------------------------------------------------------------
+Processing: sixfive1
+Only numbers: 651
+Line Number: 61
+Total: 23688
+------------------------------------------------------------
+Processing: xzmlzvhcfk6seven8fiveeightpxbgkcl
+Only numbers: 67858
+Line Number: 68
+Total: 23756
+------------------------------------------------------------
+Processing: seven33bdrzdtwotvseven
+Only numbers: 73327
+Line Number: 77
+Total: 23833
+------------------------------------------------------------
+Processing: seven7oneeightthree
+Only numbers: 77183
+Line Number: 73
+Total: 23906
+------------------------------------------------------------
+Processing: j6sevenzjbf5eighttwo
+Only numbers: 67582
+Line Number: 62
+Total: 23968
+------------------------------------------------------------
+Processing: onegjeighteightttmknmgrmx1oneqxxfgone
+Only numbers: 188111
+Line Number: 11
+Total: 23979
+------------------------------------------------------------
+Processing: fljrjlk4sixone7five
+Only numbers: 46175
+Line Number: 45
+Total: 24024
+------------------------------------------------------------
+Processing: sevenbvqxrx27five9eight
+Only numbers: 727598
+Line Number: 78
+Total: 24102
+------------------------------------------------------------
+Processing: bhdfblngngtkq4
+Only numbers: 4
+Line Number: 44
+Total: 24146
+------------------------------------------------------------
+Processing: 3sevenfivekpgnine9
+Only numbers: 37599
+Line Number: 39
+Total: 24185
+------------------------------------------------------------
+Processing: nineonelqppbgtgsnine6five
+Only numbers: 91965
+Line Number: 95
+Total: 24280
+------------------------------------------------------------
+Processing: fdmqs1two3twothree7qdhbmkqxf
+Only numbers: 123237
+Line Number: 17
+Total: 24297
+------------------------------------------------------------
+Processing: 176pfmhfrgvsseveneight
+Only numbers: 17678
+Line Number: 18
+Total: 24315
+------------------------------------------------------------
+Processing: one974fourdhvbbvfive8
+Only numbers: 1974458
+Line Number: 18
+Total: 24333
+------------------------------------------------------------
+Processing: crlfbone3sevencjcsix
+Only numbers: 1376
+Line Number: 16
+Total: 24349
+------------------------------------------------------------
+Processing: rdgone8lrkhggmkttlmhvvxhvxpgkkjfllq1
+Only numbers: 181
+Line Number: 11
+Total: 24360
+------------------------------------------------------------
+Processing: 7xtlstglgnqoneeightfive
+Only numbers: 7185
+Line Number: 75
+Total: 24435
+------------------------------------------------------------
+Processing: onerjcplltnd1seven
+Only numbers: 117
+Line Number: 17
+Total: 24452
+------------------------------------------------------------
+Processing: gsqtjxhd8nndrkjxgmhzdmflslthreetwotwo
+Only numbers: 8322
+Line Number: 82
+Total: 24534
+------------------------------------------------------------
+Processing: jrspjndsvk1seven4hx
+Only numbers: 174
+Line Number: 14
+Total: 24548
+------------------------------------------------------------
+Processing: 5lks
+Only numbers: 5
+Line Number: 55
+Total: 24603
+------------------------------------------------------------
+Processing: one935onecmfrqxjxqq
+Only numbers: 19351
+Line Number: 11
+Total: 24614
+------------------------------------------------------------
+Processing: 9npxbtsfives2
+Only numbers: 952
+Line Number: 92
+Total: 24706
+------------------------------------------------------------
+Processing: 9one7bghdxtv1
+Only numbers: 9171
+Line Number: 91
+Total: 24797
+------------------------------------------------------------
+Processing: 1khgbtlhxnsevensznknbbdrvgfgpfour
+Only numbers: 174
+Line Number: 14
+Total: 24811
+------------------------------------------------------------
+Processing: 2sixrzlcqcrmgsxsxv
+Only numbers: 26
+Line Number: 26
+Total: 24837
+------------------------------------------------------------
+Processing: sixthreezqbrlnngnpbbzp6
+Only numbers: 636
+Line Number: 66
+Total: 24903
+------------------------------------------------------------
+Processing: eighteightrkjphnngh4lhrrdfhbx
+Only numbers: 884
+Line Number: 84
+Total: 24987
+------------------------------------------------------------
+Processing: cqbsglsixfiveonetwonvzclvsdgnmmkmchrml9
+Only numbers: 65129
+Line Number: 69
+Total: 25056
+------------------------------------------------------------
+Processing: 7gsqfourpht3two
+Only numbers: 7432
+Line Number: 72
+Total: 25128
+------------------------------------------------------------
+Processing: sixsevenfoursixnine2ninemrgnlmqd9
+Only numbers: 67469299
+Line Number: 69
+Total: 25197
+------------------------------------------------------------
+Processing: 9eight2eightsixfkzlmrzqgt
+Only numbers: 98286
+Line Number: 96
+Total: 25293
+------------------------------------------------------------
+Processing: onethreeseven4
+Only numbers: 1374
+Line Number: 14
+Total: 25307
+------------------------------------------------------------
+Processing: 6seveneight
+Only numbers: 678
+Line Number: 68
+Total: 25375
+------------------------------------------------------------
+Processing: 7rq
+Only numbers: 7
+Line Number: 77
+Total: 25452
+------------------------------------------------------------
+Processing: jmlbxtsxj265qssfhtlgx9
+Only numbers: 2659
+Line Number: 29
+Total: 25481
+------------------------------------------------------------
+Processing: three22fiveeightfdpfthree
+Only numbers: 322583
+Line Number: 33
+Total: 25514
+------------------------------------------------------------
+Processing: fiveninerflxggpvflnine5dvgcl
+Only numbers: 5995
+Line Number: 55
+Total: 25569
+------------------------------------------------------------
+Processing: 2q2twolxksmntbxrbt6
+Only numbers: 2226
+Line Number: 26
+Total: 25595
+------------------------------------------------------------
+Processing: c6mvlmhgbztpjhlsm2bhgnxtb65
+Only numbers: 6265
+Line Number: 65
+Total: 25660
+------------------------------------------------------------
+Processing: 4six3six4twoonecchglvpf
+Only numbers: 4636421
+Line Number: 41
+Total: 25701
+------------------------------------------------------------
+Processing: 1eightvvhtdtwofltvfx
+Only numbers: 182
+Line Number: 12
+Total: 25713
+------------------------------------------------------------
+Processing: bfnfhrlznxzszzdfoursljone922five
+Only numbers: 419225
+Line Number: 45
+Total: 25758
+------------------------------------------------------------
+Processing: g9
+Only numbers: 9
+Line Number: 99
+Total: 25857
+------------------------------------------------------------
+Processing: hczxfzlhjntwo7ninesix35
+Only numbers: 279635
+Line Number: 25
+Total: 25882
+------------------------------------------------------------
+Processing: 8ddh3
+Only numbers: 83
+Line Number: 83
+Total: 25965
+------------------------------------------------------------
+Processing: 3pjxlfour3
+Only numbers: 343
+Line Number: 33
+Total: 25998
+------------------------------------------------------------
+Processing: 84tcc2oneightdz
+Only numbers: 84218
+Line Number: 88
+Total: 26086
+------------------------------------------------------------
+Processing: two96
+Only numbers: 296
+Line Number: 26
+Total: 26112
+------------------------------------------------------------
+Processing: 8mrxsdltwo41onesix6
+Only numbers: 8241166
+Line Number: 86
+Total: 26198
+------------------------------------------------------------
+Processing: four1cjqeightvpghbd9qtdkjfzmmjcslv
+Only numbers: 4189
+Line Number: 49
+Total: 26247
+------------------------------------------------------------
+Processing: oneeight3svkfzqh38threetqsxqz
+Only numbers: 183383
+Line Number: 13
+Total: 26260
+------------------------------------------------------------
+Processing: four1dfhhhnhjcsdzhqdrthreethreeqxmjsdnv
+Only numbers: 4133
+Line Number: 43
+Total: 26303
+------------------------------------------------------------
+Processing: 99eightsixone3three
+Only numbers: 9986133
+Line Number: 93
+Total: 26396
+------------------------------------------------------------
+Processing: 995432
+Only numbers: 995432
+Line Number: 92
+Total: 26488
+------------------------------------------------------------
+Processing: onez6five
+Only numbers: 165
+Line Number: 15
+Total: 26503
+------------------------------------------------------------
+Processing: 6sixtwo
+Only numbers: 662
+Line Number: 62
+Total: 26565
+------------------------------------------------------------
+Processing: xhsmjfkgpninesevenfive2onepnfivefive
+Only numbers: 9752155
+Line Number: 95
+Total: 26660
+------------------------------------------------------------
+Processing: 3xvfdxnfzkvmnfvvrqjqzkkq6vrxdeight
+Only numbers: 368
+Line Number: 38
+Total: 26698
+------------------------------------------------------------
+Processing: fourfiveseven386
+Only numbers: 457386
+Line Number: 46
+Total: 26744
+------------------------------------------------------------
+Processing: 272pcvttjzdzzonegtsxqntflkppfive
+Only numbers: 27215
+Line Number: 25
+Total: 26769
+------------------------------------------------------------
+Processing: tone4mlskzchk9xgcht
+Only numbers: 149
+Line Number: 19
+Total: 26788
+------------------------------------------------------------
+Processing: xqrkhzhghptwo18
+Only numbers: 218
+Line Number: 28
+Total: 26816
+------------------------------------------------------------
+Processing: two25
+Only numbers: 225
+Line Number: 25
+Total: 26841
+------------------------------------------------------------
+Processing: seveneight9
+Only numbers: 789
+Line Number: 79
+Total: 26920
+------------------------------------------------------------
+Processing: 86three6bfmdkslfmxnbqrzjltwo7
+Only numbers: 863627
+Line Number: 87
+Total: 27007
+------------------------------------------------------------
+Processing: 6vclgmphzt7twovmvvshtslgkng6
+Only numbers: 6726
+Line Number: 66
+Total: 27073
+------------------------------------------------------------
+Processing: twofourfive2nine34rmljd
+Only numbers: 2452934
+Line Number: 24
+Total: 27097
+------------------------------------------------------------
+Processing: two2cjjhrtxtvxntdzxstmcsixrfnzfsdmsninejkl
+Only numbers: 2269
+Line Number: 29
+Total: 27126
+------------------------------------------------------------
+Processing: 5ninenine9two6
+Only numbers: 599926
+Line Number: 56
+Total: 27182
+------------------------------------------------------------
+Processing: threegsmgz4three86seven
+Only numbers: 343867
+Line Number: 37
+Total: 27219
+------------------------------------------------------------
+Processing: five8tkdqvkmjqhdrnv9
+Only numbers: 589
+Line Number: 59
+Total: 27278
+------------------------------------------------------------
+Processing: gsjhgthfqpcglnbpgfk83three2vnnhlr
+Only numbers: 8332
+Line Number: 82
+Total: 27360
+------------------------------------------------------------
+Processing: 1three8lxqzdcjsix46oneightjhb
+Only numbers: 13864618
+Line Number: 18
+Total: 27378
+------------------------------------------------------------
+Processing: rhlbq9txlkxvninesl
+Only numbers: 99
+Line Number: 99
+Total: 27477
+------------------------------------------------------------
+Processing: six4zldvvgjhzhszrqcdhrm9
+Only numbers: 649
+Line Number: 69
+Total: 27546
+------------------------------------------------------------
+Processing: hlsqmddjmeightlfcrqkkbnssnxthree6four5
+Only numbers: 83645
+Line Number: 85
+Total: 27631
+------------------------------------------------------------
+Processing: gps5eighttwo93
+Only numbers: 58293
+Line Number: 53
+Total: 27684
+------------------------------------------------------------
+Processing: 6four3eighthvhlknbxdpseven4
+Only numbers: 643874
+Line Number: 64
+Total: 27748
+------------------------------------------------------------
+Processing: threespxdrjqsevenseven75pxxmphbqfhvvdtp
+Only numbers: 37775
+Line Number: 35
+Total: 27783
+------------------------------------------------------------
+Processing: four8nhlsqdlgnone2seven
+Only numbers: 48127
+Line Number: 47
+Total: 27830
+------------------------------------------------------------
+Processing: vjcxsixthree2hspmmpqnhrddseven
+Only numbers: 6327
+Line Number: 67
+Total: 27897
+------------------------------------------------------------
+Processing: 1tmrz8xfgtvtqmcrninedbpt739
+Only numbers: 189739
+Line Number: 19
+Total: 27916
+------------------------------------------------------------
+Processing: knjtcfive1eightknnbxgmsix
+Only numbers: 5186
+Line Number: 56
+Total: 27972
+------------------------------------------------------------
+Processing: qbj9
+Only numbers: 9
+Line Number: 99
+Total: 28071
+------------------------------------------------------------
+Processing: fivefsrtdfcddfourtwojxdlmxczkljltbrct8
+Only numbers: 5428
+Line Number: 58
+Total: 28129
+------------------------------------------------------------
+Processing: jnggmc4fourbtblkhzfnnplggfive
+Only numbers: 445
+Line Number: 45
+Total: 28174
+------------------------------------------------------------
+Processing: 96seven641
+Only numbers: 967641
+Line Number: 91
+Total: 28265
+------------------------------------------------------------
+Processing: pvvqsmtqf3fourdgqrxrtxlslsone59five
+Only numbers: 341595
+Line Number: 35
+Total: 28300
+------------------------------------------------------------
+Processing: five567
+Only numbers: 5567
+Line Number: 57
+Total: 28357
+------------------------------------------------------------
+Processing: two6nmhbffour38
+Only numbers: 26438
+Line Number: 28
+Total: 28385
+------------------------------------------------------------
+Processing: rhppzxndqrhmrxlvhn58fnseven
+Only numbers: 587
+Line Number: 57
+Total: 28442
+------------------------------------------------------------
+Processing: ctgjbnine9ninebkbone4nine
+Only numbers: 999149
+Line Number: 99
+Total: 28541
+------------------------------------------------------------
+Processing: threeone2sixpldcvhfpfourz3
+Only numbers: 312643
+Line Number: 33
+Total: 28574
+------------------------------------------------------------
+Processing: jxxgfvzglzrzpfk7stplphbdone8eight1
+Only numbers: 71881
+Line Number: 71
+Total: 28645
+------------------------------------------------------------
+Processing: 3zvpstzgnz4gnfzdhnvvl
+Only numbers: 34
+Line Number: 34
+Total: 28679
+------------------------------------------------------------
+Processing: eightthree88sixtwosixbrr
+Only numbers: 8388626
+Line Number: 86
+Total: 28765
+------------------------------------------------------------
+Processing: seveneightqjncs4vdqllkvmfr
+Only numbers: 784
+Line Number: 74
+Total: 28839
+------------------------------------------------------------
+Processing: 1five653sixonethree
+Only numbers: 15653613
+Line Number: 13
+Total: 28852
+------------------------------------------------------------
+Processing: ninehkdxcqrhszdxbgvjjkcvfmzzbq5seventhree
+Only numbers: 9573
+Line Number: 93
+Total: 28945
+------------------------------------------------------------
+Processing: bttqsrsz6four5tdjkmrkcqb
+Only numbers: 645
+Line Number: 65
+Total: 29010
+------------------------------------------------------------
+Processing: 23one35three
+Only numbers: 231353
+Line Number: 23
+Total: 29033
+------------------------------------------------------------
+Processing: nine4five
+Only numbers: 945
+Line Number: 95
+Total: 29128
+------------------------------------------------------------
+Processing: 8jhvnq1foureightsixctfxnine
+Only numbers: 814869
+Line Number: 89
+Total: 29217
+------------------------------------------------------------
+Processing: mscdbpkzfptqvpxd7
+Only numbers: 7
+Line Number: 77
+Total: 29294
+------------------------------------------------------------
+Processing: 7bmfvmtmjm
+Only numbers: 7
+Line Number: 77
+Total: 29371
+------------------------------------------------------------
+Processing: five66btxzbjmxhqljqclkponeqxcq
+Only numbers: 5661
+Line Number: 51
+Total: 29422
+------------------------------------------------------------
+Processing: 5jpsnjbz
+Only numbers: 5
+Line Number: 55
+Total: 29477
+------------------------------------------------------------
+Processing: sptwone4ffcqgfvzmsevensix
+Only numbers: 21476
+Line Number: 26
+Total: 29503
+------------------------------------------------------------
+Processing: 27sevenqxccm
+Only numbers: 277
+Line Number: 27
+Total: 29530
+------------------------------------------------------------
+Processing: bpttwonine1vrkhxkxlvd
+Only numbers: 291
+Line Number: 21
+Total: 29551
+------------------------------------------------------------
+Processing: six6rpqxbhdlgm4
+Only numbers: 664
+Line Number: 64
+Total: 29615
+------------------------------------------------------------
+Processing: 3threeppmfsix1one
+Only numbers: 33611
+Line Number: 31
+Total: 29646
+------------------------------------------------------------
+Processing: dnhbjkmhbcbzkcncmjcrmkrhmhtwo2qxblfsgtwo
+Only numbers: 222
+Line Number: 22
+Total: 29668
+------------------------------------------------------------
+Processing: mpztn5
+Only numbers: 5
+Line Number: 55
+Total: 29723
+------------------------------------------------------------
+Processing: 8hkdnzqqs52
+Only numbers: 852
+Line Number: 82
+Total: 29805
+------------------------------------------------------------
+Processing: szfsgbgxmlthreefourtwo43six1
+Only numbers: 3424361
+Line Number: 31
+Total: 29836
+------------------------------------------------------------
+Processing: two5lb
+Only numbers: 25
+Line Number: 25
+Total: 29861
+------------------------------------------------------------
+Processing: mv1three3d
+Only numbers: 133
+Line Number: 13
+Total: 29874
+------------------------------------------------------------
+Processing: gfqn45
+Only numbers: 45
+Line Number: 45
+Total: 29919
+------------------------------------------------------------
+Processing: 87brnjzx
+Only numbers: 87
+Line Number: 87
+Total: 30006
+------------------------------------------------------------
+Processing: zzfszvk6five
+Only numbers: 65
+Line Number: 65
+Total: 30071
+------------------------------------------------------------
+Processing: 3shknsmbksrxtkqdls6fivegfive
+Only numbers: 3655
+Line Number: 35
+Total: 30106
+------------------------------------------------------------
+Processing: 5xtgdxhflbnrq
+Only numbers: 5
+Line Number: 55
+Total: 30161
+------------------------------------------------------------
+Processing: onelbrxfour6
+Only numbers: 146
+Line Number: 16
+Total: 30177
+------------------------------------------------------------
+Processing: one3six
+Only numbers: 136
+Line Number: 16
+Total: 30193
+------------------------------------------------------------
+Processing: 95vqkfive
+Only numbers: 955
+Line Number: 95
+Total: 30288
+------------------------------------------------------------
+Processing: lnsl6sevengxlbqqrlpdxmhjbnc
+Only numbers: 67
+Line Number: 67
+Total: 30355
+------------------------------------------------------------
+Processing: vkglhnqxbffll6pseveneightninelgkqv
+Only numbers: 6789
+Line Number: 69
+Total: 30424
+------------------------------------------------------------
+Processing: sevendsix3ghjrlkhlkqztkksvvsrqvhfthree
+Only numbers: 7633
+Line Number: 73
+Total: 30497
+------------------------------------------------------------
+Processing: ssfive8vmfdbfivend1xjpnjfbxxtwo
+Only numbers: 58512
+Line Number: 52
+Total: 30549
+------------------------------------------------------------
+Processing: 8eighttwodxpjeightvzqzpltldclmbkj
+Only numbers: 8828
+Line Number: 88
+Total: 30637
+------------------------------------------------------------
+Processing: 817rmdzceight3seven
+Only numbers: 817837
+Line Number: 87
+Total: 30724
+------------------------------------------------------------
+Processing: 49ftonethree9
+Only numbers: 49139
+Line Number: 49
+Total: 30773
+------------------------------------------------------------
+Processing: eighttwo5
+Only numbers: 825
+Line Number: 85
+Total: 30858
+------------------------------------------------------------
+Processing: 9pdzqxgpone11ggnksvvcgg9seven
+Only numbers: 911197
+Line Number: 97
+Total: 30955
+------------------------------------------------------------
+Processing: jjljrfmdxg1fivetwo2kglgxjbjvznrb7rklzlhnpbn
+Only numbers: 15227
+Line Number: 17
+Total: 30972
+------------------------------------------------------------
+Processing: srkrbfseighttwo8
+Only numbers: 828
+Line Number: 88
+Total: 31060
+------------------------------------------------------------
+Processing: dsjxggrzsnnine1one1
+Only numbers: 9111
+Line Number: 91
+Total: 31151
+------------------------------------------------------------
+Processing: 798xgsix9two
+Only numbers: 798692
+Line Number: 72
+Total: 31223
+------------------------------------------------------------
+Processing: 956six
+Only numbers: 9566
+Line Number: 96
+Total: 31319
+------------------------------------------------------------
+Processing: 5pnprseventhree
+Only numbers: 573
+Line Number: 53
+Total: 31372
+------------------------------------------------------------
+Processing: 46cpjgjxs
+Only numbers: 46
+Line Number: 46
+Total: 31418
+------------------------------------------------------------
+Processing: 7kpxxmmbrvm8ptwoneqht
+Only numbers: 7821
+Line Number: 71
+Total: 31489
+------------------------------------------------------------
+Processing: 3lfghbcksg
+Only numbers: 3
+Line Number: 33
+Total: 31522
+------------------------------------------------------------
+Processing: 72cdcznmtsg2fiveone
+Only numbers: 72251
+Line Number: 71
+Total: 31593
+------------------------------------------------------------
+Processing: sevendvkzjsmsb8vmcdrxgvjv8fivenineeight
+Only numbers: 788598
+Line Number: 78
+Total: 31671
+------------------------------------------------------------
+Processing: 3xvdjgnz17
+Only numbers: 317
+Line Number: 37
+Total: 31708
+------------------------------------------------------------
+Processing: zkss7nztwo97oneightnj
+Only numbers: 729718
+Line Number: 78
+Total: 31786
+------------------------------------------------------------
+Processing: ctgseven5nineccmbmdkgxmeight6four
+Only numbers: 759864
+Line Number: 74
+Total: 31860
+------------------------------------------------------------
+Processing: five3mfkrhbzvf
+Only numbers: 53
+Line Number: 53
+Total: 31913
+------------------------------------------------------------
+Processing: 5one55vjsgpszbz
+Only numbers: 5155
+Line Number: 55
+Total: 31968
+------------------------------------------------------------
+Processing: zjbzghrbjh8fourrlpcfrxc
+Only numbers: 84
+Line Number: 84
+Total: 32052
+------------------------------------------------------------
+Processing: sevengndftmqsxfjdzkjzvtwohzx83
+Only numbers: 7283
+Line Number: 73
+Total: 32125
+------------------------------------------------------------
+Processing: 7xpqmfninesevenfdeight6fivexqfj
+Only numbers: 797865
+Line Number: 75
+Total: 32200
+------------------------------------------------------------
+Processing: hfpbkh325xg
+Only numbers: 325
+Line Number: 35
+Total: 32235
+------------------------------------------------------------
+Processing: ninefivekcsxrvjvvc7twogqxhddnine
+Only numbers: 95729
+Line Number: 99
+Total: 32334
+------------------------------------------------------------
+Processing: ssvfgvmmv8seven799bnmn
+Only numbers: 87799
+Line Number: 89
+Total: 32423
+------------------------------------------------------------
+Processing: fournhvbhhx9
+Only numbers: 49
+Line Number: 49
+Total: 32472
+------------------------------------------------------------
+Processing: sixfour8hbzdbkmzqj6three1
+Only numbers: 648631
+Line Number: 61
+Total: 32533
+------------------------------------------------------------
+Processing: fivemxhmgvxfpsxm4
+Only numbers: 54
+Line Number: 54
+Total: 32587
+------------------------------------------------------------
+Processing: sevenseven1srh7
+Only numbers: 7717
+Line Number: 77
+Total: 32664
+------------------------------------------------------------
+Processing: eight4pnsnh
+Only numbers: 84
+Line Number: 84
+Total: 32748
+------------------------------------------------------------
+Processing: 4gbskpjhlptkflkjgzxlxrfskxxlrxvf
+Only numbers: 4
+Line Number: 44
+Total: 32792
+------------------------------------------------------------
+Processing: xmj7cngxjrnzcstrbrjsixfmqxnqnljqthreexsnfptpvd
+Only numbers: 763
+Line Number: 73
+Total: 32865
+------------------------------------------------------------
+Processing: qceightcplznbthree6
+Only numbers: 836
+Line Number: 86
+Total: 32951
+------------------------------------------------------------
+Processing: ninebmqthreesixxfl3one4
+Only numbers: 936314
+Line Number: 94
+Total: 33045
+------------------------------------------------------------
+Processing: fivelb8four2one
+Only numbers: 58421
+Line Number: 51
+Total: 33096
+------------------------------------------------------------
+Processing: 9one5jpfourfour37
+Only numbers: 9154437
+Line Number: 97
+Total: 33193
+------------------------------------------------------------
+Processing: sevenfourtwo6zknqzv
+Only numbers: 7426
+Line Number: 76
+Total: 33269
+------------------------------------------------------------
+Processing: twovbcltvfcv1ninechcjrc
+Only numbers: 219
+Line Number: 29
+Total: 33298
+------------------------------------------------------------
+Processing: seventwo1five8mdxhv3three
+Only numbers: 7215833
+Line Number: 73
+Total: 33371
+------------------------------------------------------------
+Processing: rqtgxztqntznineghqqkhfzvhmf1
+Only numbers: 91
+Line Number: 91
+Total: 33462
+------------------------------------------------------------
+Processing: rloneightseven88
+Only numbers: 18788
+Line Number: 18
+Total: 33480
+------------------------------------------------------------
+Processing: 7five81one7
+Only numbers: 758117
+Line Number: 77
+Total: 33557
+------------------------------------------------------------
+Processing: ninepgnzpfktsslpmbonej6d
+Only numbers: 916
+Line Number: 96
+Total: 33653
+------------------------------------------------------------
+Processing: ktwoseven78jhsdkkbptptwop
+Only numbers: 27782
+Line Number: 22
+Total: 33675
+------------------------------------------------------------
+Processing: six7nineoneninenine
+Only numbers: 679199
+Line Number: 69
+Total: 33744
+------------------------------------------------------------
+Processing: jtcqdt1
+Only numbers: 1
+Line Number: 11
+Total: 33755
+------------------------------------------------------------
+Processing: 8fivetcqdglbnbxone
+Only numbers: 851
+Line Number: 81
+Total: 33836
+------------------------------------------------------------
+Processing: 92sdvljhqdt6zgmgsznfchjnpn1
+Only numbers: 9261
+Line Number: 91
+Total: 33927
+------------------------------------------------------------
+Processing: threefour73threefive1
+Only numbers: 3473351
+Line Number: 31
+Total: 33958
+------------------------------------------------------------
+Processing: jbhqh8phjqmm
+Only numbers: 8
+Line Number: 88
+Total: 34046
+------------------------------------------------------------
+Processing: 4jlpncphmjjtthreethreesixpmpttpd
+Only numbers: 4336
+Line Number: 46
+Total: 34092
+------------------------------------------------------------
+Processing: tzxpfds4two4one7sevenjbblnlsl
+Only numbers: 424177
+Line Number: 47
+Total: 34139
+------------------------------------------------------------
+Processing: fxthhmseven4eighttwo
+Only numbers: 7482
+Line Number: 72
+Total: 34211
+------------------------------------------------------------
+Processing: 2csbxskpqzqkktsv2
+Only numbers: 22
+Line Number: 22
+Total: 34233
+------------------------------------------------------------
+Processing: xjfjmvtkjfoursevenone9xbrl7
+Only numbers: 47197
+Line Number: 47
+Total: 34280
+------------------------------------------------------------
+Processing: 3ninekgg
+Only numbers: 39
+Line Number: 39
+Total: 34319
+------------------------------------------------------------
+Processing: 8fkmzjqdntzone43fivethree2
+Only numbers: 8143532
+Line Number: 82
+Total: 34401
+------------------------------------------------------------
+Processing: 4nine2blkhpjgpnone
+Only numbers: 4921
+Line Number: 41
+Total: 34442
+------------------------------------------------------------
+Processing: 3six66foursix
+Only numbers: 366646
+Line Number: 36
+Total: 34478
+------------------------------------------------------------
+Processing: 9one1
+Only numbers: 911
+Line Number: 91
+Total: 34569
+------------------------------------------------------------
+Processing: 4mz
+Only numbers: 4
+Line Number: 44
+Total: 34613
+------------------------------------------------------------
+Processing: 2fourfourone
+Only numbers: 2441
+Line Number: 21
+Total: 34634
+------------------------------------------------------------
+Processing: 33six2fourfoursix
+Only numbers: 3362446
+Line Number: 36
+Total: 34670
+------------------------------------------------------------
+Processing: 8j
+Only numbers: 8
+Line Number: 88
+Total: 34758
+------------------------------------------------------------
+Processing: 59trgvlblqbk35gjeightnine
+Only numbers: 593589
+Line Number: 59
+Total: 34817
+------------------------------------------------------------
+Processing: fdtvfddzfourfivepnrvpr2two3
+Only numbers: 45223
+Line Number: 43
+Total: 34860
+------------------------------------------------------------
+Processing: ctninetdv26seven
+Only numbers: 9267
+Line Number: 97
+Total: 34957
+------------------------------------------------------------
+Processing: crjtlxgcbgfr8sevensix
+Only numbers: 876
+Line Number: 86
+Total: 35043
+------------------------------------------------------------
+Processing: fourfourhckrdsqkq8eight
+Only numbers: 4488
+Line Number: 48
+Total: 35091
+------------------------------------------------------------
+Processing: two24kdqkzgffpxkjngj8657
+Only numbers: 2248657
+Line Number: 27
+Total: 35118
+------------------------------------------------------------
+Processing: foursdss33seven9zcl
+Only numbers: 43379
+Line Number: 49
+Total: 35167
+------------------------------------------------------------
+Processing: bhl2clcfsqnhpsixjxonefour5
+Only numbers: 26145
+Line Number: 25
+Total: 35192
+------------------------------------------------------------
+Processing: 545vksixeight
+Only numbers: 54568
+Line Number: 58
+Total: 35250
+------------------------------------------------------------
+Processing: three35five7two
+Only numbers: 335572
+Line Number: 32
+Total: 35282
+------------------------------------------------------------
+Processing: sevenmkddhdvqmsthree2five
+Only numbers: 7325
+Line Number: 75
+Total: 35357
+------------------------------------------------------------
+Processing: 7zmxsix2ckskqcglhtgthree59
+Only numbers: 762359
+Line Number: 79
+Total: 35436
+------------------------------------------------------------
+Processing: xvsthree9
+Only numbers: 39
+Line Number: 39
+Total: 35475
+------------------------------------------------------------
+Processing: 22q
+Only numbers: 22
+Line Number: 22
+Total: 35497
+------------------------------------------------------------
+Processing: ninetwo3threenineeight8dzfrf4
+Only numbers: 92339884
+Line Number: 94
+Total: 35591
+------------------------------------------------------------
+Processing: cqnbzgtjthreed2
+Only numbers: 32
+Line Number: 32
+Total: 35623
+------------------------------------------------------------
+Processing: 76jkpnonepbvhcdpfd8
+Only numbers: 7618
+Line Number: 78
+Total: 35701
+------------------------------------------------------------
+Processing: sevensevenmjrzvbkkknkfbq2seven5vms5
+Only numbers: 772755
+Line Number: 75
+Total: 35776
+------------------------------------------------------------
+Processing: threedeight8znlvhlzpbzvhvxxmgdt
+Only numbers: 388
+Line Number: 38
+Total: 35814
+------------------------------------------------------------
+Processing: cndxthxtvztwonlcqcshvnclzvxmsdrtn1
+Only numbers: 21
+Line Number: 21
+Total: 35835
+------------------------------------------------------------
+Processing: hcz8vnkrrkmgpbxk2nine
+Only numbers: 829
+Line Number: 89
+Total: 35924
+------------------------------------------------------------
+Processing: 5h5oneeight3
+Only numbers: 55183
+Line Number: 53
+Total: 35977
+------------------------------------------------------------
+Processing: 5m1five99six62
+Only numbers: 51599662
+Line Number: 52
+Total: 36029
+------------------------------------------------------------
+Processing: l1eighttwofour
+Only numbers: 1824
+Line Number: 14
+Total: 36043
+------------------------------------------------------------
+Processing: 2ccxhrlhjbr
+Only numbers: 2
+Line Number: 22
+Total: 36065
+------------------------------------------------------------
+Processing: tfpzvqj4gs9
+Only numbers: 49
+Line Number: 49
+Total: 36114
+------------------------------------------------------------
+Processing: 6twosixfivenine1
+Only numbers: 626591
+Line Number: 61
+Total: 36175
+------------------------------------------------------------
+Processing: 8zjsixqnrzlfxdhm8fvpfnnjxhhpggjtjnsix
+Only numbers: 8686
+Line Number: 86
+Total: 36261
+------------------------------------------------------------
+Processing: jzmgdcptone3hqbhthree
+Only numbers: 133
+Line Number: 13
+Total: 36274
+------------------------------------------------------------
+Processing: jvqmsixone2hlqseven7
+Only numbers: 61277
+Line Number: 67
+Total: 36341
+------------------------------------------------------------
+Processing: f9eightqkdpqlctcmmzx
+Only numbers: 98
+Line Number: 98
+Total: 36439
+------------------------------------------------------------
+Processing: 98fivethreexgl9
+Only numbers: 98539
+Line Number: 99
+Total: 36538
+------------------------------------------------------------
+Processing: 4bvztrtwo
+Only numbers: 42
+Line Number: 42
+Total: 36580
+------------------------------------------------------------
+Processing: fivetnrqt8twokfxrsftsnfour
+Only numbers: 5824
+Line Number: 54
+Total: 36634
+------------------------------------------------------------
+Processing: onetwo33threenvng
+Only numbers: 12333
+Line Number: 13
+Total: 36647
+------------------------------------------------------------
+Processing: sixvznvnt3scseveneight81qjdbj
+Only numbers: 637881
+Line Number: 61
+Total: 36708
+------------------------------------------------------------
+Processing: threenine1
+Only numbers: 391
+Line Number: 31
+Total: 36739
+------------------------------------------------------------
+Processing: 47rjklmqqpnthreeninehcslqslrbjtwoeight
+Only numbers: 473928
+Line Number: 48
+Total: 36787
+------------------------------------------------------------
+Processing: 8one1twotlsgf
+Only numbers: 8112
+Line Number: 82
+Total: 36869
+------------------------------------------------------------
+Processing: qpzvxrb242sevenrlssthreethreem
+Only numbers: 242733
+Line Number: 23
+Total: 36892
+------------------------------------------------------------
+Processing: eightthreethreeeightxxrz3gjmccv
+Only numbers: 83383
+Line Number: 83
+Total: 36975
+------------------------------------------------------------
+Processing: 862seventhree5one
+Only numbers: 8627351
+Line Number: 81
+Total: 37056
+------------------------------------------------------------
+Processing: hjjx3threegsmggrfb
+Only numbers: 33
+Line Number: 33
+Total: 37089
+------------------------------------------------------------
+Processing: twonc4eightfour43r
+Only numbers: 248443
+Line Number: 23
+Total: 37112
+------------------------------------------------------------
+Processing: 7cblplgthnineone1
+Only numbers: 7911
+Line Number: 71
+Total: 37183
+------------------------------------------------------------
+Processing: fxzjsnfn2xrzfhrsq
+Only numbers: 2
+Line Number: 22
+Total: 37205
+------------------------------------------------------------
+Processing: one4xbvtvtxvqqmgnm9jdjxbmdjlldrqtzhrsxqseven
+Only numbers: 1497
+Line Number: 17
+Total: 37222
+------------------------------------------------------------
+Processing: lmgtwogqghh9five3seventwott
+Only numbers: 295372
+Line Number: 22
+Total: 37244
+------------------------------------------------------------
+Processing: oneeight2b
+Only numbers: 182
+Line Number: 12
+Total: 37256
+------------------------------------------------------------
+Processing: 4five2525fivembnftdmkxzmq
+Only numbers: 4525255
+Line Number: 45
+Total: 37301
+------------------------------------------------------------
+Processing: 3m4ninefoureight6ttxrcdgnine
+Only numbers: 3494869
+Line Number: 39
+Total: 37340
+------------------------------------------------------------
+Processing: threeeighthcnxpqfgsvv12rkd
+Only numbers: 3812
+Line Number: 32
+Total: 37372
+------------------------------------------------------------
+Processing: gntcxfth588
+Only numbers: 588
+Line Number: 58
+Total: 37430
+------------------------------------------------------------
+Processing: sclktwofivesnxkfq7twoxdvlxgvtzjtlgfspzk
+Only numbers: 2572
+Line Number: 22
+Total: 37452
+------------------------------------------------------------
+Processing: rg7
+Only numbers: 7
+Line Number: 77
+Total: 37529
+------------------------------------------------------------
+Processing: 3vbrgrsevenzgncpj55nine6
+Only numbers: 375596
+Line Number: 36
+Total: 37565
+------------------------------------------------------------
+Processing: seventhreefiveshlrnfnqjvd21tldlrkjmtwo
+Only numbers: 735212
+Line Number: 72
+Total: 37637
+------------------------------------------------------------
+Processing: 8scjnkfpklljchzszvvfourjpvmvmgr6
+Only numbers: 846
+Line Number: 86
+Total: 37723
+------------------------------------------------------------
+Processing: 8fivepdlqzrsllkqkqnine9four1lqgjz
+Only numbers: 859941
+Line Number: 81
+Total: 37804
+------------------------------------------------------------
+Processing: qmtwone7six2one5
+Only numbers: 2176215
+Line Number: 25
+Total: 37829
+------------------------------------------------------------
+Processing: xrvhsvkvjb2nineleightwob
+Only numbers: 2982
+Line Number: 22
+Total: 37851
+------------------------------------------------------------
+Processing: ninefourhkdzxrgxxhfmsninedlddz5nine
+Only numbers: 94959
+Line Number: 99
+Total: 37950
+------------------------------------------------------------
+Processing: 1sevenhslkkjfxz
+Only numbers: 17
+Line Number: 17
+Total: 37967
+------------------------------------------------------------
+Processing: seven5six94ninemjvv
+Only numbers: 756949
+Line Number: 79
+Total: 38046
+------------------------------------------------------------
+Processing: nine4three
+Only numbers: 943
+Line Number: 93
+Total: 38139
+------------------------------------------------------------
+Processing: onesktp3szmp
+Only numbers: 13
+Line Number: 13
+Total: 38152
+------------------------------------------------------------
+Processing: cqconetwoninek4sevensix
+Only numbers: 129476
+Line Number: 16
+Total: 38168
+------------------------------------------------------------
+Processing: nine892fouronegxhscsn
+Only numbers: 989241
+Line Number: 91
+Total: 38259
+------------------------------------------------------------
+Processing: 4mvzntcldzjxbmrrtzsheighteightbhtknp9
+Only numbers: 4889
+Line Number: 49
+Total: 38308
+------------------------------------------------------------
+Processing: 4nineoneightfl
+Only numbers: 4918
+Line Number: 48
+Total: 38356
+------------------------------------------------------------
+Processing: 17kdhhcnvnnq
+Only numbers: 17
+Line Number: 17
+Total: 38373
+------------------------------------------------------------
+Processing: ckmqgt16gs
+Only numbers: 16
+Line Number: 16
+Total: 38389
+------------------------------------------------------------
+Processing: threefivefour9
+Only numbers: 3549
+Line Number: 39
+Total: 38428
+------------------------------------------------------------
+Processing: 3twofoursbzpbdqlj5
+Only numbers: 3245
+Line Number: 35
+Total: 38463
+------------------------------------------------------------
+Processing: qdxzfxdfnsgj3twofour8fivefour
+Only numbers: 324854
+Line Number: 34
+Total: 38497
+------------------------------------------------------------
+Processing: 4xninesixzxkbqsgvpf
+Only numbers: 496
+Line Number: 46
+Total: 38543
+------------------------------------------------------------
+Processing: fourqthree1nine
+Only numbers: 4319
+Line Number: 49
+Total: 38592
+------------------------------------------------------------
+Processing: one6fivenine2txbfgfkxzfmshmzhv4eight
+Only numbers: 1659248
+Line Number: 18
+Total: 38610
+------------------------------------------------------------
+Processing: 9lhdxrmvfive
+Only numbers: 95
+Line Number: 95
+Total: 38705
+------------------------------------------------------------
+Processing: xktdxtwo71
+Only numbers: 271
+Line Number: 21
+Total: 38726
+------------------------------------------------------------
+Processing: 225two
+Only numbers: 2252
+Line Number: 22
+Total: 38748
+------------------------------------------------------------
+Processing: two3csjhrszsfdkqmxcc3ctlhlbk4nine
+Only numbers: 23349
+Line Number: 29
+Total: 38777
+------------------------------------------------------------
+Processing: bfspnrjxsgoneftk1665
+Only numbers: 11665
+Line Number: 15
+Total: 38792
+------------------------------------------------------------
+Processing: 4fivefivecsbqnljgrk
+Only numbers: 455
+Line Number: 45
+Total: 38837
+------------------------------------------------------------
+Processing: 8xmkhgonefivethreethreenine4zbh
+Only numbers: 8153394
+Line Number: 84
+Total: 38921
+------------------------------------------------------------
+Processing: nineone3twofour
+Only numbers: 91324
+Line Number: 94
+Total: 39015
+------------------------------------------------------------
+Processing: pflpcxx7two1jkzqmthreefive
+Only numbers: 72135
+Line Number: 75
+Total: 39090
+------------------------------------------------------------
+Processing: ksnjdtfhrnvcp2six
+Only numbers: 26
+Line Number: 26
+Total: 39116
+------------------------------------------------------------
+Processing: sixrfsrqfbdvn1c
+Only numbers: 61
+Line Number: 61
+Total: 39177
+------------------------------------------------------------
+Processing: sixlfmqfsnnnzhmqbngct2
+Only numbers: 62
+Line Number: 62
+Total: 39239
+------------------------------------------------------------
+Processing: x9x7sevenqjn
+Only numbers: 977
+Line Number: 97
+Total: 39336
+------------------------------------------------------------
+Processing: eightninethreeqttkfm1seven
+Only numbers: 89317
+Line Number: 87
+Total: 39423
+------------------------------------------------------------
+Processing: 59zx923six
+Only numbers: 599236
+Line Number: 56
+Total: 39479
+------------------------------------------------------------
+Processing: 5rnrdbmpddjldqjnrxsdsrgpfive8
+Only numbers: 558
+Line Number: 58
+Total: 39537
+------------------------------------------------------------
+Processing: one38432spgsfkjzeightxxk
+Only numbers: 1384328
+Line Number: 18
+Total: 39555
+------------------------------------------------------------
+Processing: 95csptxbnmdfourmzqccclqjzntftgmskvf9
+Only numbers: 9549
+Line Number: 99
+Total: 39654
+------------------------------------------------------------
+Processing: tlbbjckfnine6mssscphp4rzndb5three
+Only numbers: 96453
+Line Number: 93
+Total: 39747
+------------------------------------------------------------
+Processing: 4sixnineeightztjdssbflnine
+Only numbers: 46989
+Line Number: 49
+Total: 39796
+------------------------------------------------------------
+Processing: dzdftgcnvvrx669
+Only numbers: 669
+Line Number: 69
+Total: 39865
+------------------------------------------------------------
+Processing: 6six7threeh
+Only numbers: 6673
+Line Number: 63
+Total: 39928
+------------------------------------------------------------
+Processing: eight7onelsrkgtkgdkgsntwosixonedn
+Only numbers: 871261
+Line Number: 81
+Total: 40009
+------------------------------------------------------------
+Processing: 4fourfourninenine1
+Only numbers: 444991
+Line Number: 41
+Total: 40050
+------------------------------------------------------------
+Processing: rtwonegfzmbhjbmbsvf3seven1
+Only numbers: 21371
+Line Number: 21
+Total: 40071
+------------------------------------------------------------
+Processing: 3czkzzzvqbt5rmdskr
+Only numbers: 35
+Line Number: 35
+Total: 40106
+------------------------------------------------------------
+Processing: 9bmponetwo
+Only numbers: 912
+Line Number: 92
+Total: 40198
+------------------------------------------------------------
+Processing: ltvcjgvkqqmfivethreeeight1jls8
+Only numbers: 53818
+Line Number: 58
+Total: 40256
+------------------------------------------------------------
+Processing: 14oneeight3qtkgbpsnseveneight2
+Only numbers: 14183782
+Line Number: 12
+Total: 40268
+------------------------------------------------------------
+Processing: dmrgm4
+Only numbers: 4
+Line Number: 44
+Total: 40312
+------------------------------------------------------------
+Processing: twodlxpltlcxxks5
+Only numbers: 25
+Line Number: 25
+Total: 40337
+------------------------------------------------------------
+Processing: tdxfeight3pqdsz35
+Only numbers: 8335
+Line Number: 85
+Total: 40422
+------------------------------------------------------------
+Processing: 6hvfbrqccktfqhnnineone7btwovmgssfts
+Only numbers: 69172
+Line Number: 62
+Total: 40484
+------------------------------------------------------------
+Processing: 66threedrsbtwo
+Only numbers: 6632
+Line Number: 62
+Total: 40546
+------------------------------------------------------------
+Processing: prbsfivetwo21ccqb5qhxz
+Only numbers: 52215
+Line Number: 55
+Total: 40601
+------------------------------------------------------------
+Processing: nineninebkzq829fzkd5
+Only numbers: 998295
+Line Number: 95
+Total: 40696
+------------------------------------------------------------
+Processing: pddtlrsj7twonine5two61seven
+Only numbers: 72952617
+Line Number: 77
+Total: 40773
+------------------------------------------------------------
+Processing: threeeightctnkhjnqm5sevenvdjqsjpknmmslmdb
+Only numbers: 3857
+Line Number: 37
+Total: 40810
+------------------------------------------------------------
+Processing: 76nqxdvzrninefszr31
+Only numbers: 76931
+Line Number: 71
+Total: 40881
+------------------------------------------------------------
+Processing: 3gvgclgxbvs5eight68sixnmppfhcqhbmzq
+Only numbers: 358686
+Line Number: 36
+Total: 40917
+------------------------------------------------------------
+Processing: 1eightrkninefive9four
+Only numbers: 189594
+Line Number: 14
+Total: 40931
+------------------------------------------------------------
+Processing: 3hfour375three
+Only numbers: 343753
+Line Number: 33
+Total: 40964
+------------------------------------------------------------
+Processing: eightthree54sixninenggbmckqk
+Only numbers: 835469
+Line Number: 89
+Total: 41053
+------------------------------------------------------------
+Processing: zbtqlmfqmbdxllqpffeight9
+Only numbers: 89
+Line Number: 89
+Total: 41142
+------------------------------------------------------------
+Processing: 1threehxmlj1czzlphp
+Only numbers: 131
+Line Number: 11
+Total: 41153
+------------------------------------------------------------
+Processing: 4four7stfrr7
+Only numbers: 4477
+Line Number: 47
+Total: 41200
+------------------------------------------------------------
+Processing: four6htkfsfx3qlk41seven
+Only numbers: 463417
+Line Number: 47
+Total: 41247
+------------------------------------------------------------
+Processing: qsixndconehconenine12
+Only numbers: 611912
+Line Number: 62
+Total: 41309
+------------------------------------------------------------
+Processing: sqvvptnzbqdmgjlmctqzhlldmzthreefour8
+Only numbers: 348
+Line Number: 38
+Total: 41347
+------------------------------------------------------------
+Processing: f6ssgkone
+Only numbers: 61
+Line Number: 61
+Total: 41408
+------------------------------------------------------------
+Processing: twofive8kqs
+Only numbers: 258
+Line Number: 28
+Total: 41436
+------------------------------------------------------------
+Processing: foursevenxj6two
+Only numbers: 4762
+Line Number: 42
+Total: 41478
+------------------------------------------------------------
+Processing: rqlqljzzdrzq4
+Only numbers: 4
+Line Number: 44
+Total: 41522
+------------------------------------------------------------
+Processing: one3ninefiveonesixpgjsnrvnine
+Only numbers: 1395169
+Line Number: 19
+Total: 41541
+------------------------------------------------------------
+Processing: jktfqdxpfive3bhhczvnfive
+Only numbers: 535
+Line Number: 55
+Total: 41596
+------------------------------------------------------------
+Processing: fivedtcgstrzg7five7seveneight48
+Only numbers: 57577848
+Line Number: 58
+Total: 41654
+------------------------------------------------------------
+Processing: 7sevendnqnine54fivecvhzf1
+Only numbers: 7795451
+Line Number: 71
+Total: 41725
+------------------------------------------------------------
+Processing: 9fivebseven
+Only numbers: 957
+Line Number: 97
+Total: 41822
+------------------------------------------------------------
+Processing: nine9mjbjmmfkpxdjhch87hpzx
+Only numbers: 9987
+Line Number: 97
+Total: 41919
+------------------------------------------------------------
+Processing: fivejdqrrx71sixbone6v
+Only numbers: 571616
+Line Number: 56
+Total: 41975
+------------------------------------------------------------
+Processing: 2qkkng5
+Only numbers: 25
+Line Number: 25
+Total: 42000
+------------------------------------------------------------
+Processing: fiveksvzs3threenine
+Only numbers: 5339
+Line Number: 59
+Total: 42059
+------------------------------------------------------------
+Processing: prtllbkjhxjhg4
+Only numbers: 4
+Line Number: 44
+Total: 42103
+------------------------------------------------------------
+Processing: fctmfcrmqgq78rckrfq99d
+Only numbers: 7899
+Line Number: 79
+Total: 42182
+------------------------------------------------------------
+Processing: 9seventnsrsbxftwothreefgpzznbjcxh
+Only numbers: 9723
+Line Number: 93
+Total: 42275
+------------------------------------------------------------
+Processing: three34two
+Only numbers: 3342
+Line Number: 32
+Total: 42307
+------------------------------------------------------------
+Processing: ggvr32sbmseven4gjfhqstzq
+Only numbers: 3274
+Line Number: 34
+Total: 42341
+------------------------------------------------------------
+Processing: threefour4three
+Only numbers: 3443
+Line Number: 33
+Total: 42374
+------------------------------------------------------------
+Processing: two6sevenpzdvjdlninesevenfour
+Only numbers: 267974
+Line Number: 24
+Total: 42398
+------------------------------------------------------------
+Processing: pgneight692vqlnhmndjvlj
+Only numbers: 8692
+Line Number: 82
+Total: 42480
+------------------------------------------------------------
+Processing: six8sixqclbkscndtsfczqxhzt9bsf
+Only numbers: 6869
+Line Number: 69
+Total: 42549
+------------------------------------------------------------
+Processing: fivefourdlrjnbvbnine3six72five
+Only numbers: 54936725
+Line Number: 55
+Total: 42604
+------------------------------------------------------------
+Processing: 4fivefiveglchzczdstone
+Only numbers: 4551
+Line Number: 41
+Total: 42645
+------------------------------------------------------------
+Processing: six4two
+Only numbers: 642
+Line Number: 62
+Total: 42707
+------------------------------------------------------------
+Processing: 7threefoureighteight
+Only numbers: 73488
+Line Number: 78
+Total: 42785
+------------------------------------------------------------
+Processing: ngjpztzcshbksbzlbdnqnine4gbdsbthreetwo2
+Only numbers: 94322
+Line Number: 92
+Total: 42877
+------------------------------------------------------------
+Processing: 39sevenseven
+Only numbers: 3977
+Line Number: 37
+Total: 42914
+------------------------------------------------------------
+Processing: sxcxnqrskgzkzmrkkdbxjthone3
+Only numbers: 13
+Line Number: 13
+Total: 42927
+------------------------------------------------------------
+Processing: 1lf9onebg
+Only numbers: 191
+Line Number: 11
+Total: 42938
+------------------------------------------------------------
+Processing: 9lgfxnfffh9qbdxdl65fqlsjgdljrcn
+Only numbers: 9965
+Line Number: 95
+Total: 43033
+------------------------------------------------------------
+Processing: 37three1twofourfive
+Only numbers: 3731245
+Line Number: 35
+Total: 43068
+------------------------------------------------------------
+Processing: 92onegdcczrfrkztxttftv
+Only numbers: 921
+Line Number: 91
+Total: 43159
+------------------------------------------------------------
+Processing: fxzkfnrmh7fiveggfour
+Only numbers: 754
+Line Number: 74
+Total: 43233
+------------------------------------------------------------
+Processing: 14fivetwoflrr59
+Only numbers: 145259
+Line Number: 19
+Total: 43252
+------------------------------------------------------------
+Processing: 7sixtzfpxrfrtnqxvkcgtc
+Only numbers: 76
+Line Number: 76
+Total: 43328
+------------------------------------------------------------
+Processing: drmjeight1sixthreeeightrxqjknmql6vzz
+Only numbers: 816386
+Line Number: 86
+Total: 43414
+------------------------------------------------------------
+Processing: bsmbtp2
+Only numbers: 2
+Line Number: 22
+Total: 43436
+------------------------------------------------------------
+Processing: ninetworfour7vgtvfvbv
+Only numbers: 9247
+Line Number: 97
+Total: 43533
+------------------------------------------------------------
+Processing: ninethreesccxmtmbnnine2eight1five
+Only numbers: 9392815
+Line Number: 95
+Total: 43628
+------------------------------------------------------------
+Processing: 47twothreethreeonethree7
+Only numbers: 47233137
+Line Number: 47
+Total: 43675
+------------------------------------------------------------
+Processing: ftqjtwo7dbcnfdprnn335
+Only numbers: 27335
+Line Number: 25
+Total: 43700
+------------------------------------------------------------
+Processing: d5three5b
+Only numbers: 535
+Line Number: 55
+Total: 43755
+------------------------------------------------------------
+Processing: 5eightfivevnf4one
+Only numbers: 58541
+Line Number: 51
+Total: 43806
+------------------------------------------------------------
+Processing: 1dgtwojfxnqpc
+Only numbers: 12
+Line Number: 12
+Total: 43818
+------------------------------------------------------------
+Processing: sixsixone7cpxpnzgeightbvx
+Only numbers: 66178
+Line Number: 68
+Total: 43886
+------------------------------------------------------------
+Processing: 33
+Only numbers: 33
+Line Number: 33
+Total: 43919
+------------------------------------------------------------
+Processing: 7sixtwo4zjb
+Only numbers: 7624
+Line Number: 74
+Total: 43993
+------------------------------------------------------------
+Processing: pzfxv57one9fourfour
+Only numbers: 571944
+Line Number: 54
+Total: 44047
+------------------------------------------------------------
+Processing: 9two8
+Only numbers: 928
+Line Number: 98
+Total: 44145
+------------------------------------------------------------
+Processing: 5nineone1
+Only numbers: 5911
+Line Number: 51
+Total: 44196
+------------------------------------------------------------
+Processing: one6five9twotwo2vtnqjtpxxr
+Only numbers: 1659222
+Line Number: 12
+Total: 44208
+------------------------------------------------------------
+Processing: 6threehhrmtfsgld
+Only numbers: 63
+Line Number: 63
+Total: 44271
+------------------------------------------------------------
+Processing: lbdjsslmqpspxrxqtp186rzjfour
+Only numbers: 1864
+Line Number: 14
+Total: 44285
+------------------------------------------------------------
+Processing: six4qd32dczd3
+Only numbers: 64323
+Line Number: 63
+Total: 44348
+------------------------------------------------------------
+Processing: six5sevensix6dhlgzlfvgkthree4
+Only numbers: 6576634
+Line Number: 64
+Total: 44412
+------------------------------------------------------------
+Processing: rmgdbsvqqnt7five
+Only numbers: 75
+Line Number: 75
+Total: 44487
+------------------------------------------------------------
+Processing: 8slpfjnhtggzpqr7q8three3
+Only numbers: 87833
+Line Number: 83
+Total: 44570
+------------------------------------------------------------
+Processing: fivecmsjjhxhh6rmvsnlfive
+Only numbers: 565
+Line Number: 55
+Total: 44625
+------------------------------------------------------------
+Processing: 2onejrnnkpkf7sixsixthreetqkfbk
+Only numbers: 217663
+Line Number: 23
+Total: 44648
+------------------------------------------------------------
+Processing: ltwonejvqkzsltnine5fivemftvx
+Only numbers: 21955
+Line Number: 25
+Total: 44673
+------------------------------------------------------------
+Processing: fourtwolkxrtzdsninenine5pznzrqbcmnph
+Only numbers: 42995
+Line Number: 45
+Total: 44718
+------------------------------------------------------------
+Processing: 3rzkfvqfnine
+Only numbers: 39
+Line Number: 39
+Total: 44757
+------------------------------------------------------------
+Processing: 6xbninefourszjltwo6
+Only numbers: 69426
+Line Number: 66
+Total: 44823
+------------------------------------------------------------
+Processing: 59qkf96twofour
+Only numbers: 599624
+Line Number: 54
+Total: 44877
+------------------------------------------------------------
+Processing: fivecp37
+Only numbers: 537
+Line Number: 57
+Total: 44934
+------------------------------------------------------------
+Processing: bcpmljn5
+Only numbers: 5
+Line Number: 55
+Total: 44989
+------------------------------------------------------------
+Processing: 7stthfdseven2threefourcrbxjjfnzbfqsfmqjlts1
+Only numbers: 772341
+Line Number: 71
+Total: 45060
+------------------------------------------------------------
+Processing: cpvsczrlrgnfpqbfbgh415five
+Only numbers: 4155
+Line Number: 45
+Total: 45105
+------------------------------------------------------------
+Processing: seventhree6
+Only numbers: 736
+Line Number: 76
+Total: 45181
+------------------------------------------------------------
+Processing: tworqbfj7114clslxks9
+Only numbers: 271149
+Line Number: 29
+Total: 45210
+------------------------------------------------------------
+Processing: six5eightjtnq
+Only numbers: 658
+Line Number: 68
+Total: 45278
+------------------------------------------------------------
+Processing: 7six9llnsseventfmflxsjkdgq
+Only numbers: 7697
+Line Number: 77
+Total: 45355
+------------------------------------------------------------
+Processing: six8tznfvz3
+Only numbers: 683
+Line Number: 63
+Total: 45418
+------------------------------------------------------------
+Processing: fourpnmbqdbj23
+Only numbers: 423
+Line Number: 43
+Total: 45461
+------------------------------------------------------------
+Processing: 2ninexltrcbkjlb
+Only numbers: 29
+Line Number: 29
+Total: 45490
+------------------------------------------------------------
+Processing: 665fourptmcdj
+Only numbers: 6654
+Line Number: 64
+Total: 45554
+------------------------------------------------------------
+Processing: seven4mkvn1tkthree8s
+Only numbers: 74138
+Line Number: 78
+Total: 45632
+------------------------------------------------------------
+Processing: eight84one
+Only numbers: 8841
+Line Number: 81
+Total: 45713
+------------------------------------------------------------
+Processing: rhskrpddrmbgg7eight
+Only numbers: 78
+Line Number: 78
+Total: 45791
+------------------------------------------------------------
+Processing: qgbtqls7fd63xngfvcgdp8kkffgxdcs
+Only numbers: 7638
+Line Number: 78
+Total: 45869
+------------------------------------------------------------
+Processing: 9seventhree
+Only numbers: 973
+Line Number: 93
+Total: 45962
+------------------------------------------------------------
+Processing: lslprchqthree13fourkdfsrtfrthree2
+Only numbers: 313432
+Line Number: 32
+Total: 45994
+------------------------------------------------------------
+Processing: 246eight
+Only numbers: 2468
+Line Number: 28
+Total: 46022
+------------------------------------------------------------
+Processing: 5ldnrqhhqmvtwojhtjhflzczsb9kklbkldvc
+Only numbers: 529
+Line Number: 59
+Total: 46081
+------------------------------------------------------------
+Processing: 36fivebgn3vzgvjffckfour
+Only numbers: 36534
+Line Number: 34
+Total: 46115
+------------------------------------------------------------
+Processing: vbxqnvhvmsix9lthree6zvmr8
+Only numbers: 69368
+Line Number: 68
+Total: 46183
+------------------------------------------------------------
+Processing: eighttwo23
+Only numbers: 8223
+Line Number: 83
+Total: 46266
+------------------------------------------------------------
+Processing: flqbvc23
+Only numbers: 23
+Line Number: 23
+Total: 46289
+------------------------------------------------------------
+Processing: loneightsix9two
+Only numbers: 18692
+Line Number: 12
+Total: 46301
+------------------------------------------------------------
+Processing: xkzvpttgfourfive6rnngs
+Only numbers: 456
+Line Number: 46
+Total: 46347
+------------------------------------------------------------
+Processing: threeseven6one5
+Only numbers: 37615
+Line Number: 35
+Total: 46382
+------------------------------------------------------------
+Processing: sixthree5rgklgfxllqzk4onetwo
+Only numbers: 635412
+Line Number: 62
+Total: 46444
+------------------------------------------------------------
+Processing: one15dhhtcsx
+Only numbers: 115
+Line Number: 15
+Total: 46459
+------------------------------------------------------------
+Processing: zdmhgtnsjs22fjfourqzdsvcbgq
+Only numbers: 224
+Line Number: 24
+Total: 46483
+------------------------------------------------------------
+Processing: 4four5
+Only numbers: 445
+Line Number: 45
+Total: 46528
+------------------------------------------------------------
+Processing: hfjrsqjvtjkseven4kqcqbmbseven
+Only numbers: 747
+Line Number: 77
+Total: 46605
+------------------------------------------------------------
+Processing: 241lgrtbsh
+Only numbers: 241
+Line Number: 21
+Total: 46626
+------------------------------------------------------------
+Processing: fiveptwo9sevenfpxpbfdoneightzj
+Only numbers: 529718
+Line Number: 58
+Total: 46684
+------------------------------------------------------------
+Processing: 9eight923xnxgndjfg
+Only numbers: 98923
+Line Number: 93
+Total: 46777
+------------------------------------------------------------
+Processing: two8fivenine9cqcqqssbfc
+Only numbers: 28599
+Line Number: 29
+Total: 46806
+------------------------------------------------------------
+Processing: fivetwosevenlgrvqvtsv5tcmsvbmggvfqqg7
+Only numbers: 52757
+Line Number: 57
+Total: 46863
+------------------------------------------------------------
+Processing: 5mgkmn6ninetwo
+Only numbers: 5692
+Line Number: 52
+Total: 46915
+------------------------------------------------------------
+Processing: mzsncqkbtq45r
+Only numbers: 45
+Line Number: 45
+Total: 46960
+------------------------------------------------------------
+Processing: fivefivegxzjvnxcbq8ptrzpjm5three
+Only numbers: 55853
+Line Number: 53
+Total: 47013
+------------------------------------------------------------
+Processing: 8ngzppeight646seven3oneightf
+Only numbers: 886467318
+Line Number: 88
+Total: 47101
+------------------------------------------------------------
+Processing: sevenvcsix8
+Only numbers: 768
+Line Number: 78
+Total: 47179
+------------------------------------------------------------
+Processing: vxkmqgpsixgs2
+Only numbers: 62
+Line Number: 62
+Total: 47241
+------------------------------------------------------------
+Processing: 9jv9
+Only numbers: 99
+Line Number: 99
+Total: 47340
+------------------------------------------------------------
+Processing: 17jzmvgzc
+Only numbers: 17
+Line Number: 17
+Total: 47357
+------------------------------------------------------------
+Processing: 6dz9
+Only numbers: 69
+Line Number: 69
+Total: 47426
+------------------------------------------------------------
+Processing: sevenzzvone86twothreeonesktlhbks
+Only numbers: 7186231
+Line Number: 71
+Total: 47497
+------------------------------------------------------------
+Processing: three57vmlrfhcqkvlttzhcbtgqxgtbxb
+Only numbers: 357
+Line Number: 37
+Total: 47534
+------------------------------------------------------------
+Processing: fiveeighteighttwotwotdtfncfjn8pkxdvkfgr
+Only numbers: 588228
+Line Number: 58
+Total: 47592
+------------------------------------------------------------
+Processing: 8k5dsrxlvtmvdsixtwo
+Only numbers: 8562
+Line Number: 82
+Total: 47674
+------------------------------------------------------------
+Processing: nine2fivernnckm
+Only numbers: 925
+Line Number: 95
+Total: 47769
+------------------------------------------------------------
+Processing: fpngdckp48onepbslnjdm2zbthxqp
+Only numbers: 4812
+Line Number: 42
+Total: 47811
+------------------------------------------------------------
+Processing: nhrl8two
+Only numbers: 82
+Line Number: 82
+Total: 47893
+------------------------------------------------------------
+Processing: eightczdrdrxninesdqlqhhvq7twoz
+Only numbers: 8972
+Line Number: 82
+Total: 47975
+------------------------------------------------------------
+Processing: sevenssmdflds6
+Only numbers: 76
+Line Number: 76
+Total: 48051
+------------------------------------------------------------
+Processing: 8sglqfive7p6threeqrdkmg
+Only numbers: 85763
+Line Number: 83
+Total: 48134
+------------------------------------------------------------
+Processing: 4brkbn
+Only numbers: 4
+Line Number: 44
+Total: 48178
+------------------------------------------------------------
+Processing: t4onepvf9three
+Only numbers: 4193
+Line Number: 43
+Total: 48221
+------------------------------------------------------------
+Processing: mdfnjqjdl2lsb2btsj
+Only numbers: 22
+Line Number: 22
+Total: 48243
+------------------------------------------------------------
+Processing: tthreeljckhjqxbcjvmvx27jrffive
+Only numbers: 3275
+Line Number: 35
+Total: 48278
+------------------------------------------------------------
+Processing: fiveqldglnp2six9vqvdcqxbdznghqcrnbxm99
+Only numbers: 526999
+Line Number: 59
+Total: 48337
+------------------------------------------------------------
+Processing: 9pmkfmr6sevenlfjbvxqdbstwonine
+Only numbers: 96729
+Line Number: 99
+Total: 48436
+------------------------------------------------------------
+Processing: threeninezmhc8three
+Only numbers: 3983
+Line Number: 33
+Total: 48469
+------------------------------------------------------------
+Processing: one4nine4vc
+Only numbers: 1494
+Line Number: 14
+Total: 48483
+------------------------------------------------------------
+Processing: 8nqtgvnvcttpsrpsfive
+Only numbers: 85
+Line Number: 85
+Total: 48568
+------------------------------------------------------------
+Processing: pjjkmpfjpjzsbhzrgrkk96snqbtkkkd
+Only numbers: 96
+Line Number: 96
+Total: 48664
+------------------------------------------------------------
+Processing: 6four58fourtworg
+Only numbers: 645842
+Line Number: 62
+Total: 48726
+------------------------------------------------------------
+Processing: 4fivekrjgx4
+Only numbers: 454
+Line Number: 44
+Total: 48770
+------------------------------------------------------------
+Processing: mqrzmhhvlvknzdknine9
+Only numbers: 99
+Line Number: 99
+Total: 48869
+------------------------------------------------------------
+Processing: one8seven2qd5
+Only numbers: 18725
+Line Number: 15
+Total: 48884
+------------------------------------------------------------
+Processing: pjhkthxm4
+Only numbers: 4
+Line Number: 44
+Total: 48928
+------------------------------------------------------------
+Processing: sixjmbljdchjsrs3bvvnzqcqmjcm3eightwoc
+Only numbers: 63382
+Line Number: 62
+Total: 48990
+------------------------------------------------------------
+Processing: 8ninekrb5vxhbhdtdfd7
+Only numbers: 8957
+Line Number: 87
+Total: 49077
+------------------------------------------------------------
+Processing: 7eightvlrsklsbpc3
+Only numbers: 783
+Line Number: 73
+Total: 49150
+------------------------------------------------------------
+Processing: 2onethree1
+Only numbers: 2131
+Line Number: 21
+Total: 49171
+------------------------------------------------------------
+Processing: 4nine6qvfive2dlhvfour1
+Only numbers: 4965241
+Line Number: 41
+Total: 49212
+------------------------------------------------------------
+Processing: threedkvnvvsmlthree149
+Only numbers: 33149
+Line Number: 39
+Total: 49251
+------------------------------------------------------------
+Processing: szseight88fourlfcvbzmone1dnzbnkq
+Only numbers: 888411
+Line Number: 81
+Total: 49332
+------------------------------------------------------------
+Processing: onekxnsfour7
+Only numbers: 147
+Line Number: 17
+Total: 49349
+------------------------------------------------------------
+Processing: onefivefivefive6rmpjhdvk2
+Only numbers: 155562
+Line Number: 12
+Total: 49361
+------------------------------------------------------------
+Processing: two75
+Only numbers: 275
+Line Number: 25
+Total: 49386
+------------------------------------------------------------
+Processing: xrxzfmnqrvrtflqscnhlbh14vf
+Only numbers: 14
+Line Number: 14
+Total: 49400
+------------------------------------------------------------
+Processing: hsplmrdxtknine7tqtlk
+Only numbers: 97
+Line Number: 97
+Total: 49497
+------------------------------------------------------------
+Processing: sncgfpvz43lvjmvrpv
+Only numbers: 43
+Line Number: 43
+Total: 49540
+------------------------------------------------------------
+Processing: rdhoneightdxrvxhnthsevenfour72dxcdbmpbfd
+Only numbers: 187472
+Line Number: 12
+Total: 49552
+------------------------------------------------------------
+Processing: six2oneonethree1xdszcmstmq
+Only numbers: 621131
+Line Number: 61
+Total: 49613
+------------------------------------------------------------
+Processing: seven1one
+Only numbers: 711
+Line Number: 71
+Total: 49684
+------------------------------------------------------------
+Processing: 12fourbtnxmsrvbnn6
+Only numbers: 1246
+Line Number: 16
+Total: 49700
+------------------------------------------------------------
+Processing: qfive7twomcmcsgsseven9
+Only numbers: 57279
+Line Number: 59
+Total: 49759
+------------------------------------------------------------
+Processing: five1nine7
+Only numbers: 5197
+Line Number: 57
+Total: 49816
+------------------------------------------------------------
+Processing: qcntzlp8one
+Only numbers: 81
+Line Number: 81
+Total: 49897
+------------------------------------------------------------
+Processing: qgpeightwosix8lbclbpknfive4ksqvptntmonevlrtrcs
+Only numbers: 8268541
+Line Number: 81
+Total: 49978
+------------------------------------------------------------
+Processing: nxmff91hzscmcthreesh
+Only numbers: 913
+Line Number: 93
+Total: 50071
+------------------------------------------------------------
+Processing: 6three16
+Only numbers: 6316
+Line Number: 66
+Total: 50137
+------------------------------------------------------------
+Processing: hrlgqhzhqone14fivenine
+Only numbers: 11459
+Line Number: 19
+Total: 50156
+------------------------------------------------------------
+Processing: fournrvxrxsmvsskdnbzs5zgmfh1m
+Only numbers: 451
+Line Number: 41
+Total: 50197
+------------------------------------------------------------
+Processing: four67one8drnprkbgt
+Only numbers: 46718
+Line Number: 48
+Total: 50245
+------------------------------------------------------------
+Processing: 81brchsdqdlk5fourseven2three
+Only numbers: 8154723
+Line Number: 83
+Total: 50328
+------------------------------------------------------------
+Processing: ninefoureightfjtmvsnine9onefive
+Only numbers: 9489915
+Line Number: 95
+Total: 50423
+------------------------------------------------------------
+Processing: two7rnl6three9
+Only numbers: 27639
+Line Number: 29
+Total: 50452
+------------------------------------------------------------
+Processing: eightseven2threethreenineqtwonezkq
+Only numbers: 87233921
+Line Number: 81
+Total: 50533
+------------------------------------------------------------
+Processing: eightcfkglfmzqjgrns99seven
+Only numbers: 8997
+Line Number: 87
+Total: 50620
+------------------------------------------------------------
+Processing: dbzvbkslvthreefiveeight141gcklzxrzms9
+Only numbers: 3581419
+Line Number: 39
+Total: 50659
+------------------------------------------------------------
+Processing: 4frfvf6fourgnsm
+Only numbers: 464
+Line Number: 44
+Total: 50703
+------------------------------------------------------------
+Processing: 7hcgjbbpbl9qbzzhfq
+Only numbers: 79
+Line Number: 79
+Total: 50782
+------------------------------------------------------------
+Processing: mnfllkcqgkninefive9
+Only numbers: 959
+Line Number: 99
+Total: 50881
+------------------------------------------------------------
+Processing: 4qdld5hqgrthreeeight2
+Only numbers: 45382
+Line Number: 42
+Total: 50923
+------------------------------------------------------------
+Processing: xlnnine6lksthree
+Only numbers: 963
+Line Number: 93
+Total: 51016
+------------------------------------------------------------
+Processing: lkvcnntznk33three4nine
+Only numbers: 33349
+Line Number: 39
+Total: 51055
+------------------------------------------------------------
+Processing: 8five2twonem
+Only numbers: 85221
+Line Number: 81
+Total: 51136
+------------------------------------------------------------
+Processing: 695mzfnhtlbhpvn1dfour4
+Only numbers: 695144
+Line Number: 64
+Total: 51200
+------------------------------------------------------------
+Processing: 47seven811tzhqrrshdm
+Only numbers: 477811
+Line Number: 41
+Total: 51241
+------------------------------------------------------------
+Processing: vgoneightnsr3fivethreetwornvbz
+Only numbers: 183532
+Line Number: 12
+Total: 51253
+------------------------------------------------------------
+Processing: gc2
+Only numbers: 2
+Line Number: 22
+Total: 51275
+------------------------------------------------------------
+Processing: 3sevenxvmzbpknnqninetwofourtwosbpmqk
+Only numbers: 379242
+Line Number: 32
+Total: 51307
+------------------------------------------------------------
+Processing: 4seven8
+Only numbers: 478
+Line Number: 48
+Total: 51355
+------------------------------------------------------------
+Processing: 2fivegk47gsqtvdms
+Only numbers: 2547
+Line Number: 27
+Total: 51382
+------------------------------------------------------------
+Processing: 1jqgxbmgs4zxkrtvvtsjf1nfsdgtqrmthreeeight
+Only numbers: 14138
+Line Number: 18
+Total: 51400
+------------------------------------------------------------
+Processing: vbvjdlnfiveninefive162nine
+Only numbers: 5951629
+Line Number: 59
+Total: 51459
+------------------------------------------------------------
+Processing: jqqsfqbfq2clfmfxz
+Only numbers: 2
+Line Number: 22
+Total: 51481
+------------------------------------------------------------
+Processing: 2hmn1v2twofour16
+Only numbers: 2122416
+Line Number: 26
+Total: 51507
+------------------------------------------------------------
+Processing: phchfbxz3one
+Only numbers: 31
+Line Number: 31
+Total: 51538
+------------------------------------------------------------
+Processing: zdcqgg34vqkhlbkc96six7
+Only numbers: 349667
+Line Number: 37
+Total: 51575
+------------------------------------------------------------
+Processing: 5eightbghcktjjninermkpmbpk
+Only numbers: 589
+Line Number: 59
+Total: 51634
+------------------------------------------------------------
+Processing: 4zctvpqqfxqdpf
+Only numbers: 4
+Line Number: 44
+Total: 51678
+------------------------------------------------------------
+Processing: six5onebljkhvlzfour3vf7
+Only numbers: 651437
+Line Number: 67
+Total: 51745
+------------------------------------------------------------
+Processing: three7sevenspczxeight3
+Only numbers: 37783
+Line Number: 33
+Total: 51778
+------------------------------------------------------------
+Processing: eightsjxdbgcjllvpxn5ninehrhlp
+Only numbers: 859
+Line Number: 89
+Total: 51867
+------------------------------------------------------------
+Processing: r4
+Only numbers: 4
+Line Number: 44
+Total: 51911
+------------------------------------------------------------
+Processing: vtkqxmmdfkmbxbvgr633
+Only numbers: 633
+Line Number: 63
+Total: 51974
+------------------------------------------------------------
+Processing: nrtfbqdthb1974jsdfive7jc
+Only numbers: 197457
+Line Number: 17
+Total: 51991
+------------------------------------------------------------
+Processing: twothreenineeight3
+Only numbers: 23983
+Line Number: 23
+Total: 52014
+------------------------------------------------------------
+Processing: seven9c9
+Only numbers: 799
+Line Number: 79
+Total: 52093
+------------------------------------------------------------
+Processing: l4rmngrjjl8phsftfrtwoninethree
+Only numbers: 48293
+Line Number: 43
+Total: 52136
+------------------------------------------------------------
+Processing: 8hptpqbfltv6twovcz5twothreethree
+Only numbers: 8625233
+Line Number: 83
+Total: 52219
+------------------------------------------------------------
+Processing: hncsxnxrbx174dbsddg9n
+Only numbers: 1749
+Line Number: 19
+Total: 52238
+------------------------------------------------------------
+Processing: 7fpvztb
+Only numbers: 7
+Line Number: 77
+Total: 52315
+------------------------------------------------------------
+Processing: eightnineq5kkd1seven
+Only numbers: 89517
+Line Number: 87
+Total: 52402
+------------------------------------------------------------
+Processing: gbj8rvvqjkbp
+Only numbers: 8
+Line Number: 88
+Total: 52490
+------------------------------------------------------------
+Processing: sevenninecjrxhfsevenfivembxm1nkjrdtrllqrglrrxxj
+Only numbers: 79751
+Line Number: 71
+Total: 52561
+------------------------------------------------------------
+Processing: 21eightfive84mkdnzone
+Only numbers: 2185841
+Line Number: 21
+Total: 52582
+------------------------------------------------------------
+Processing: 3rqjlbfzjninesncjnxxqnine9
+Only numbers: 3999
+Line Number: 39
+Total: 52621
+------------------------------------------------------------
+Processing: cvtwone2k1zmp65
+Only numbers: 212165
+Line Number: 25
+Total: 52646
+------------------------------------------------------------
+Processing: 1v
+Only numbers: 1
+Line Number: 11
+Total: 52657
+------------------------------------------------------------
+Processing: one7eighteightsixqkfsm
+Only numbers: 17886
+Line Number: 16
+Total: 52673
+------------------------------------------------------------
+Processing: 44jkrsmcthreekktxlnnzjdslhfsmzl
+Only numbers: 443
+Line Number: 43
+Total: 52716
+------------------------------------------------------------
+Processing: dmhxlbsixh35
+Only numbers: 635
+Line Number: 65
+Total: 52781
+------------------------------------------------------------
+Processing: four8ninetwofour864
+Only numbers: 48924864
+Line Number: 44
+Total: 52825
+------------------------------------------------------------
+Processing: 5threezmcq
+Only numbers: 53
+Line Number: 53
+Total: 52878
+------------------------------------------------------------
+Processing: 6ninefive7
+Only numbers: 6957
+Line Number: 67
+Total: 52945
+------------------------------------------------------------
+Processing: 4nine9twooneeightwoz
+Only numbers: 4992182
+Line Number: 42
+Total: 52987
+------------------------------------------------------------
+Processing: 5klvpcfxpkhdhx717
+Only numbers: 5717
+Line Number: 57
+Total: 53044
+------------------------------------------------------------
+Processing: 6stgznine4vhnsnhts9
+Only numbers: 6949
+Line Number: 69
+Total: 53113
+------------------------------------------------------------
+Processing: 9threeone98seven1vnnvgxslf
+Only numbers: 9319871
+Line Number: 91
+Total: 53204
+------------------------------------------------------------
+Processing: sixeighteightztpdhvt2zqjstmzmtzgsfthreezzhhdr
+Only numbers: 68823
+Line Number: 63
+Total: 53267
+------------------------------------------------------------
+Processing: twodtbkqsjgtwohfnsqcrmpjfourhkpnsfdkfive6four
+Only numbers: 224564
+Line Number: 24
+Total: 53291
+------------------------------------------------------------
+Processing: ggrxkrdzmthree3
+Only numbers: 33
+Line Number: 33
+Total: 53324
+------------------------------------------------------------
+Processing: sixlflcmmjrs5fivenine488
+Only numbers: 6559488
+Line Number: 68
+Total: 53392
+------------------------------------------------------------
+Processing: four94hmhvlczssonedvgchseven6
+Only numbers: 494176
+Line Number: 46
+Total: 53438
+------------------------------------------------------------
+Processing: ssoneightfbfctjqv43psixsevenslqsfpkb1
+Only numbers: 1843671
+Line Number: 11
+Total: 53449
+------------------------------------------------------------
+Processing: bdpnkb9eightnvtwojxbztssqfmninethree
+Only numbers: 98293
+Line Number: 93
+Total: 53542
+------------------------------------------------------------
+Processing: cpcnkvdbrqrxtfnmzbqgffivesix91fivehgrv
+Only numbers: 56915
+Line Number: 55
+Total: 53597
+------------------------------------------------------------
+Processing: five5495eight2
+Only numbers: 5549582
+Line Number: 52
+Total: 53649
+------------------------------------------------------------
+Processing: 7foursix93seventwonbhtmfrbqgq
+Only numbers: 7469372
+Line Number: 72
+Total: 53721
+------------------------------------------------------------
+Processing: tpqhxqqxpcnmlhqhkz123ninefive
+Only numbers: 12395
+Line Number: 15
+Total: 53736
+------------------------------------------------------------
+Processing: knqxmrrmninegr4
+Only numbers: 94
+Line Number: 94
+Total: 53830
+------------------------------------------------------------
+Processing: 14qhlbkthreellvnqpfpbb
+Only numbers: 143
+Line Number: 13
+Total: 53843
+------------------------------------------------------------
+Processing: 7eightcrlb6eightthree7
+Only numbers: 786837
+Line Number: 77
+Total: 53920
+------------------------------------------------------------
+Processing: twom3
+Only numbers: 23
+Line Number: 23
+Total: 53943
+------------------------------------------------------------
+Processing: gtzdljfdzpdg4zbnzbnxmpcpfsevennine3
+Only numbers: 4793
+Line Number: 43
+Total: 53986
+------------------------------------------------------------
+Processing: svfjvnninefourpqsdmjcfhvccnjkpf8
+Only numbers: 948
+Line Number: 98
+Total: 54084
+------------------------------------------------------------
+Processing: dzmoneighttwovk5tvpnmxfive
+Only numbers: 18255
+Line Number: 15
+Total: 54099
+------------------------------------------------------------
+Processing: 88msthvt4vbmnbrzjone
+Only numbers: 8841
+Line Number: 81
+Total: 54180
+------------------------------------------------------------
+Processing: nbgcs8nine
+Only numbers: 89
+Line Number: 89
+Total: 54269
+------------------------------------------------------------
+Processing: 4three53pczsx1sevenmzmtrzz
+Only numbers: 435317
+Line Number: 47
+Total: 54316
+------------------------------------------------------------
+Processing: four24qphdrxfsf
+Only numbers: 424
+Line Number: 44
+Total: 54360
+------------------------------------------------------------
+Processing: gdgj3f
+Only numbers: 3
+Line Number: 33
+Total: 54393
+------------------------------------------------------------
+Processing: hthphptmmtwo7sixsevenoneightls
+Only numbers: 276718
+Line Number: 28
+Total: 54421
+------------------------------------------------------------
+Processing: qxbhjmmqsixfkfn36three6
+Only numbers: 63636
+Line Number: 66
+Total: 54487
+------------------------------------------------------------
+Processing: eightmkmdtvkctkvptsbckzpnkhpskdmp3
+Only numbers: 83
+Line Number: 83
+Total: 54570
+------------------------------------------------------------
+Processing: six2twobgzsfsptlqnine42xtmdprjqc
+Only numbers: 622942
+Line Number: 62
+Total: 54632
+------------------------------------------------------------
+Processing: pxreightwo7
+Only numbers: 827
+Line Number: 87
+Total: 54719
