@@ -1,6 +1,6 @@
 <?php
 
-// Day 2: https://adventofcode.com/2023/day/2
+// Day 2: https://adventofcode.com/2023/day/3
 $filename = 'input.txt';
 $lines = file($filename, FILE_IGNORE_NEW_LINES);
 
