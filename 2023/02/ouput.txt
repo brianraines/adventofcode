@@ -1,0 +1,6234 @@
+------------------------------------------------------------
+Processing: Game 1: 1 green, 4 blue; 1 blue, 2 green, 1 red; 1 red, 1 green, 2 blue; 1 green, 1 red; 1 green; 1 green, 1 blue, 1 red
+Game Number: 1
+Subsets: Array
+(
+    [0] =>  1 green, 4 blue
+    [1] =>  1 blue, 2 green, 1 red
+    [2] =>  1 red, 1 green, 2 blue
+    [3] =>  1 green, 1 red
+    [4] =>  1 green
+    [5] =>  1 green, 1 blue, 1 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 2
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 1
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 2
+    [blue] => 4
+    [red] => 1
+)
+
+Game Power: 8
+Total Score: 1
+Total Power: 8
+------------------------------------------------------------
+Processing: Game 2: 2 blue, 2 red, 6 green; 1 red, 6 green, 7 blue; 10 green, 8 blue, 1 red; 2 green, 18 blue, 2 red; 14 blue, 3 green, 1 red; 8 green, 1 red, 9 blue
+Game Number: 2
+Subsets: Array
+(
+    [0] =>  2 blue, 2 red, 6 green
+    [1] =>  1 red, 6 green, 7 blue
+    [2] =>  10 green, 8 blue, 1 red
+    [3] =>  2 green, 18 blue, 2 red
+    [4] =>  14 blue, 3 green, 1 red
+    [5] =>  8 green, 1 red, 9 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 2
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 6
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [blue] => 8
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 18
+    [red] => 2
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 14
+    [green] => 3
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 1
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 18
+    [red] => 2
+    [green] => 10
+)
+
+Game Power: 360
+Total Score: 1
+Total Power: 368
+------------------------------------------------------------
+Processing: Game 3: 6 green, 5 blue, 9 red; 4 blue, 1 green, 13 red; 9 green, 14 red, 1 blue
+Game Number: 3
+Subsets: Array
+(
+    [0] =>  6 green, 5 blue, 9 red
+    [1] =>  4 blue, 1 green, 13 red
+    [2] =>  9 green, 14 red, 1 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [blue] => 5
+    [red] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [green] => 1
+    [red] => 13
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [red] => 14
+    [blue] => 1
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 9
+    [blue] => 5
+    [red] => 14
+)
+
+Game Power: 630
+Total Score: 1
+Total Power: 998
+------------------------------------------------------------
+Processing: Game 4: 14 green, 3 blue, 16 red; 20 red; 4 green, 2 red, 1 blue; 10 blue, 11 green, 18 red; 3 red, 3 blue, 6 green; 2 green, 18 red, 9 blue
+Game Number: 4
+Subsets: Array
+(
+    [0] =>  14 green, 3 blue, 16 red
+    [1] =>  20 red
+    [2] =>  4 green, 2 red, 1 blue
+    [3] =>  10 blue, 11 green, 18 red
+    [4] =>  3 red, 3 blue, 6 green
+    [5] =>  2 green, 18 red, 9 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 14
+    [blue] => 3
+    [red] => 16
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 20
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [green] => 11
+    [red] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 3
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 18
+    [blue] => 9
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 14
+    [blue] => 10
+    [red] => 20
+)
+
+Game Power: 2800
+Total Score: 1
+Total Power: 3798
+------------------------------------------------------------
+Processing: Game 5: 5 green, 4 blue; 1 red, 3 blue, 2 green; 4 green, 2 red, 15 blue; 11 blue, 8 green, 4 red; 4 red, 3 green; 4 red, 3 green, 7 blue
+Game Number: 5
+Subsets: Array
+(
+    [0] =>  5 green, 4 blue
+    [1] =>  1 red, 3 blue, 2 green
+    [2] =>  4 green, 2 red, 15 blue
+    [3] =>  11 blue, 8 green, 4 red
+    [4] =>  4 red, 3 green
+    [5] =>  4 red, 3 green, 7 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 2
+    [blue] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 11
+    [green] => 8
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 3
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 8
+    [blue] => 15
+    [red] => 4
+)
+
+Game Power: 480
+Total Score: 1
+Total Power: 4278
+------------------------------------------------------------
+Processing: Game 6: 6 blue, 10 green; 2 red, 6 green, 2 blue; 4 red, 4 blue, 1 green; 2 blue, 7 green, 2 red
+Game Number: 6
+Subsets: Array
+(
+    [0] =>  6 blue, 10 green
+    [1] =>  2 red, 6 green, 2 blue
+    [2] =>  4 red, 4 blue, 1 green
+    [3] =>  2 blue, 7 green, 2 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [green] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 6
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 4
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 7
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 6
+    [green] => 10
+    [red] => 4
+)
+
+Game Power: 240
+Total Score: 7
+Total Power: 4518
+------------------------------------------------------------
+Processing: Game 7: 14 green, 3 red, 2 blue; 5 blue, 3 green, 2 red; 1 green, 3 blue
+Game Number: 7
+Subsets: Array
+(
+    [0] =>  14 green, 3 red, 2 blue
+    [1] =>  5 blue, 3 green, 2 red
+    [2] =>  1 green, 3 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 14
+    [red] => 3
+    [blue] => 2
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [green] => 3
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 14
+    [red] => 3
+    [blue] => 5
+)
+
+Game Power: 210
+Total Score: 7
+Total Power: 4728
+------------------------------------------------------------
+Processing: Game 8: 7 red; 3 blue, 9 red, 1 green; 5 green, 5 blue, 7 red; 1 red, 2 blue
+Game Number: 8
+Subsets: Array
+(
+    [0] =>  7 red
+    [1] =>  3 blue, 9 red, 1 green
+    [2] =>  5 green, 5 blue, 7 red
+    [3] =>  1 red, 2 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 9
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 5
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 9
+    [blue] => 5
+    [green] => 5
+)
+
+Game Power: 225
+Total Score: 15
+Total Power: 4953
+------------------------------------------------------------
+Processing: Game 9: 3 green, 4 blue, 1 red; 3 blue, 12 green, 18 red; 7 green, 9 red, 8 blue; 2 blue, 10 red, 12 green; 4 blue, 1 red, 1 green; 4 blue, 6 green, 6 red
+Game Number: 9
+Subsets: Array
+(
+    [0] =>  3 green, 4 blue, 1 red
+    [1] =>  3 blue, 12 green, 18 red
+    [2] =>  7 green, 9 red, 8 blue
+    [3] =>  2 blue, 10 red, 12 green
+    [4] =>  4 blue, 1 red, 1 green
+    [5] =>  4 blue, 6 green, 6 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 4
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 12
+    [red] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 9
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 10
+    [green] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 1
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [green] => 6
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 12
+    [blue] => 8
+    [red] => 18
+)
+
+Game Power: 1728
+Total Score: 15
+Total Power: 6681
+------------------------------------------------------------
+Processing: Game 10: 2 blue, 4 green, 2 red; 7 green, 4 red; 5 red, 8 green
+Game Number: 10
+Subsets: Array
+(
+    [0] =>  2 blue, 4 green, 2 red
+    [1] =>  7 green, 4 red
+    [2] =>  5 red, 8 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 4
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 2
+    [green] => 8
+    [red] => 5
+)
+
+Game Power: 80
+Total Score: 25
+Total Power: 6761
+------------------------------------------------------------
+Processing: Game 11: 1 blue, 10 green, 15 red; 1 blue, 2 green, 2 red; 5 green, 10 blue, 8 red; 13 red, 7 blue; 1 red, 9 green, 4 blue; 9 blue, 9 red, 8 green
+Game Number: 11
+Subsets: Array
+(
+    [0] =>  1 blue, 10 green, 15 red
+    [1] =>  1 blue, 2 green, 2 red
+    [2] =>  5 green, 10 blue, 8 red
+    [3] =>  13 red, 7 blue
+    [4] =>  1 red, 9 green, 4 blue
+    [5] =>  9 blue, 9 red, 8 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 10
+    [red] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 2
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 10
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [blue] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 9
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [red] => 9
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 10
+    [green] => 10
+    [red] => 15
+)
+
+Game Power: 1500
+Total Score: 25
+Total Power: 8261
+------------------------------------------------------------
+Processing: Game 12: 1 green, 10 red, 3 blue; 14 red, 1 green, 4 blue; 6 red, 3 green, 12 blue; 13 blue, 1 green, 18 red; 4 green, 14 red, 7 blue
+Game Number: 12
+Subsets: Array
+(
+    [0] =>  1 green, 10 red, 3 blue
+    [1] =>  14 red, 1 green, 4 blue
+    [2] =>  6 red, 3 green, 12 blue
+    [3] =>  13 blue, 1 green, 18 red
+    [4] =>  4 green, 14 red, 7 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 10
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 14
+    [green] => 1
+    [blue] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 3
+    [blue] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [green] => 1
+    [red] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 14
+    [blue] => 7
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 4
+    [red] => 18
+    [blue] => 13
+)
+
+Game Power: 936
+Total Score: 25
+Total Power: 9197
+------------------------------------------------------------
+Processing: Game 13: 1 red, 3 green; 2 green, 1 red, 5 blue; 1 blue; 1 green, 7 blue, 1 red; 1 red, 2 green, 7 blue
+Game Number: 13
+Subsets: Array
+(
+    [0] =>  1 red, 3 green
+    [1] =>  2 green, 1 red, 5 blue
+    [2] =>  1 blue
+    [3] =>  1 green, 7 blue, 1 red
+    [4] =>  1 red, 2 green, 7 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 1
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 7
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 2
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 1
+    [green] => 3
+    [blue] => 7
+)
+
+Game Power: 21
+Total Score: 38
+Total Power: 9218
+------------------------------------------------------------
+Processing: Game 14: 7 blue, 9 red, 1 green; 8 red, 2 blue; 11 red, 18 blue, 4 green; 2 blue, 3 green, 1 red; 1 green, 8 red, 9 blue; 2 blue, 8 red, 1 green
+Game Number: 14
+Subsets: Array
+(
+    [0] =>  7 blue, 9 red, 1 green
+    [1] =>  8 red, 2 blue
+    [2] =>  11 red, 18 blue, 4 green
+    [3] =>  2 blue, 3 green, 1 red
+    [4] =>  1 green, 8 red, 9 blue
+    [5] =>  2 blue, 8 red, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [red] => 9
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 11
+    [blue] => 18
+    [green] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 3
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 8
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 8
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 18
+    [red] => 11
+    [green] => 4
+)
+
+Game Power: 792
+Total Score: 38
+Total Power: 10010
+------------------------------------------------------------
+Processing: Game 15: 8 blue, 3 green, 15 red; 13 red, 10 blue; 2 red
+Game Number: 15
+Subsets: Array
+(
+    [0] =>  8 blue, 3 green, 15 red
+    [1] =>  13 red, 10 blue
+    [2] =>  2 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [green] => 3
+    [red] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [blue] => 10
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 10
+    [green] => 3
+    [red] => 15
+)
+
+Game Power: 450
+Total Score: 38
+Total Power: 10460
+------------------------------------------------------------
+Processing: Game 16: 1 green, 1 red; 1 blue, 2 green, 2 red; 1 blue, 4 red, 1 green; 3 green; 2 blue, 3 green, 4 red
+Game Number: 16
+Subsets: Array
+(
+    [0] =>  1 green, 1 red
+    [1] =>  1 blue, 2 green, 2 red
+    [2] =>  1 blue, 4 red, 1 green
+    [3] =>  3 green
+    [4] =>  2 blue, 3 green, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 2
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 4
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 3
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 3
+    [red] => 4
+    [blue] => 2
+)
+
+Game Power: 24
+Total Score: 54
+Total Power: 10484
+------------------------------------------------------------
+Processing: Game 17: 1 green, 3 red, 14 blue; 1 red, 2 blue, 2 green; 3 red
+Game Number: 17
+Subsets: Array
+(
+    [0] =>  1 green, 3 red, 14 blue
+    [1] =>  1 red, 2 blue, 2 green
+    [2] =>  3 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 3
+    [blue] => 14
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 2
+    [red] => 3
+    [blue] => 14
+)
+
+Game Power: 84
+Total Score: 71
+Total Power: 10568
+------------------------------------------------------------
+Processing: Game 18: 1 red, 2 green, 8 blue; 2 blue, 14 red; 4 blue, 2 red, 2 green; 6 red
+Game Number: 18
+Subsets: Array
+(
+    [0] =>  1 red, 2 green, 8 blue
+    [1] =>  2 blue, 14 red
+    [2] =>  4 blue, 2 red, 2 green
+    [3] =>  6 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 2
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 14
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 14
+    [green] => 2
+    [blue] => 8
+)
+
+Game Power: 224
+Total Score: 71
+Total Power: 10792
+------------------------------------------------------------
+Processing: Game 19: 2 red, 11 blue, 18 green; 3 red, 6 green, 3 blue; 7 green, 1 red, 10 blue
+Game Number: 19
+Subsets: Array
+(
+    [0] =>  2 red, 11 blue, 18 green
+    [1] =>  3 red, 6 green, 3 blue
+    [2] =>  7 green, 1 red, 10 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 11
+    [green] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [green] => 6
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 1
+    [blue] => 10
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 3
+    [blue] => 11
+    [green] => 18
+)
+
+Game Power: 594
+Total Score: 71
+Total Power: 11386
+------------------------------------------------------------
+Processing: Game 20: 10 red, 1 blue, 4 green; 4 green, 3 blue; 10 green, 13 red, 4 blue; 2 red, 7 green; 4 red, 3 blue, 5 green; 13 red, 1 green, 4 blue
+Game Number: 20
+Subsets: Array
+(
+    [0] =>  10 red, 1 blue, 4 green
+    [1] =>  4 green, 3 blue
+    [2] =>  10 green, 13 red, 4 blue
+    [3] =>  2 red, 7 green
+    [4] =>  4 red, 3 blue, 5 green
+    [5] =>  13 red, 1 green, 4 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 10
+    [blue] => 1
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [red] => 13
+    [blue] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 3
+    [green] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [green] => 1
+    [blue] => 4
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 13
+    [blue] => 4
+    [green] => 10
+)
+
+Game Power: 520
+Total Score: 71
+Total Power: 11906
+------------------------------------------------------------
+Processing: Game 21: 20 red, 4 green, 5 blue; 10 red, 11 green, 4 blue; 1 red, 8 blue, 14 green; 11 green, 8 blue, 15 red; 8 blue, 2 green, 13 red
+Game Number: 21
+Subsets: Array
+(
+    [0] =>  20 red, 4 green, 5 blue
+    [1] =>  10 red, 11 green, 4 blue
+    [2] =>  1 red, 8 blue, 14 green
+    [3] =>  11 green, 8 blue, 15 red
+    [4] =>  8 blue, 2 green, 13 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 20
+    [green] => 4
+    [blue] => 5
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 10
+    [green] => 11
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 8
+    [green] => 14
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [blue] => 8
+    [red] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [green] => 2
+    [red] => 13
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 20
+    [green] => 14
+    [blue] => 8
+)
+
+Game Power: 2240
+Total Score: 71
+Total Power: 14146
+------------------------------------------------------------
+Processing: Game 22: 2 red, 11 blue, 4 green; 1 blue, 3 red, 6 green; 6 green, 1 red, 1 blue; 4 green, 7 blue, 3 red; 11 blue, 6 green, 4 red
+Game Number: 22
+Subsets: Array
+(
+    [0] =>  2 red, 11 blue, 4 green
+    [1] =>  1 blue, 3 red, 6 green
+    [2] =>  6 green, 1 red, 1 blue
+    [3] =>  4 green, 7 blue, 3 red
+    [4] =>  11 blue, 6 green, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 11
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 3
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 1
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 7
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 11
+    [green] => 6
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 4
+    [blue] => 11
+    [green] => 6
+)
+
+Game Power: 264
+Total Score: 93
+Total Power: 14410
+------------------------------------------------------------
+Processing: Game 23: 6 green, 3 red, 1 blue; 17 green, 11 red; 1 red, 2 blue, 13 green; 13 green, 19 red
+Game Number: 23
+Subsets: Array
+(
+    [0] =>  6 green, 3 red, 1 blue
+    [1] =>  17 green, 11 red
+    [2] =>  1 red, 2 blue, 13 green
+    [3] =>  13 green, 19 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 3
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 17
+    [red] => 11
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 2
+    [green] => 13
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 13
+    [red] => 19
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 17
+    [red] => 19
+    [blue] => 2
+)
+
+Game Power: 646
+Total Score: 93
+Total Power: 15056
+------------------------------------------------------------
+Processing: Game 24: 1 blue; 12 red, 1 blue; 1 red; 12 red, 1 green, 1 blue; 11 red, 1 blue; 12 red, 1 green
+Game Number: 24
+Subsets: Array
+(
+    [0] =>  1 blue
+    [1] =>  12 red, 1 blue
+    [2] =>  1 red
+    [3] =>  12 red, 1 green, 1 blue
+    [4] =>  11 red, 1 blue
+    [5] =>  12 red, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [green] => 1
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 11
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 1
+    [red] => 12
+    [green] => 1
+)
+
+Game Power: 12
+Total Score: 117
+Total Power: 15068
+------------------------------------------------------------
+Processing: Game 25: 12 blue, 6 red, 3 green; 8 green, 14 blue; 11 green, 5 blue, 6 red; 4 red, 12 blue, 8 green
+Game Number: 25
+Subsets: Array
+(
+    [0] =>  12 blue, 6 red, 3 green
+    [1] =>  8 green, 14 blue
+    [2] =>  11 green, 5 blue, 6 red
+    [3] =>  4 red, 12 blue, 8 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 12
+    [red] => 6
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [blue] => 14
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [blue] => 5
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 12
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 14
+    [red] => 6
+    [green] => 11
+)
+
+Game Power: 924
+Total Score: 142
+Total Power: 15992
+------------------------------------------------------------
+Processing: Game 26: 15 red, 13 green, 9 blue; 9 blue, 8 green, 7 red; 2 green, 6 red, 3 blue; 1 blue, 7 red, 3 green; 13 blue, 4 green, 18 red
+Game Number: 26
+Subsets: Array
+(
+    [0] =>  15 red, 13 green, 9 blue
+    [1] =>  9 blue, 8 green, 7 red
+    [2] =>  2 green, 6 red, 3 blue
+    [3] =>  1 blue, 7 red, 3 green
+    [4] =>  13 blue, 4 green, 18 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 15
+    [green] => 13
+    [blue] => 9
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [green] => 8
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 6
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 7
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [green] => 4
+    [red] => 18
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 18
+    [green] => 13
+    [blue] => 13
+)
+
+Game Power: 3042
+Total Score: 142
+Total Power: 19034
+------------------------------------------------------------
+Processing: Game 27: 9 blue, 5 red; 15 red, 12 blue, 3 green; 12 red, 12 blue, 1 green
+Game Number: 27
+Subsets: Array
+(
+    [0] =>  9 blue, 5 red
+    [1] =>  15 red, 12 blue, 3 green
+    [2] =>  12 red, 12 blue, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 15
+    [blue] => 12
+    [green] => 3
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [blue] => 12
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 12
+    [red] => 15
+    [green] => 3
+)
+
+Game Power: 540
+Total Score: 142
+Total Power: 19574
+------------------------------------------------------------
+Processing: Game 28: 18 red, 4 green; 4 green, 6 red; 1 blue, 6 green, 19 red; 9 green, 17 red; 4 green, 5 blue, 18 red
+Game Number: 28
+Subsets: Array
+(
+    [0] =>  18 red, 4 green
+    [1] =>  4 green, 6 red
+    [2] =>  1 blue, 6 green, 19 red
+    [3] =>  9 green, 17 red
+    [4] =>  4 green, 5 blue, 18 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 18
+    [green] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 6
+    [red] => 19
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [red] => 17
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 5
+    [red] => 18
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 19
+    [green] => 9
+    [blue] => 5
+)
+
+Game Power: 855
+Total Score: 142
+Total Power: 20429
+------------------------------------------------------------
+Processing: Game 29: 7 green, 6 red, 6 blue; 6 blue, 19 red, 4 green; 4 green, 4 blue, 13 red; 5 blue, 15 red, 10 green; 2 green, 6 blue, 5 red; 8 red, 10 green, 6 blue
+Game Number: 29
+Subsets: Array
+(
+    [0] =>  7 green, 6 red, 6 blue
+    [1] =>  6 blue, 19 red, 4 green
+    [2] =>  4 green, 4 blue, 13 red
+    [3] =>  5 blue, 15 red, 10 green
+    [4] =>  2 green, 6 blue, 5 red
+    [5] =>  8 red, 10 green, 6 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 6
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [red] => 19
+    [green] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 4
+    [red] => 13
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 15
+    [green] => 10
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 6
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [green] => 10
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 10
+    [red] => 19
+    [blue] => 6
+)
+
+Game Power: 1140
+Total Score: 142
+Total Power: 21569
+------------------------------------------------------------
+Processing: Game 30: 1 green, 13 red, 12 blue; 1 red, 2 blue; 11 blue, 1 red, 1 green
+Game Number: 30
+Subsets: Array
+(
+    [0] =>  1 green, 13 red, 12 blue
+    [1] =>  1 red, 2 blue
+    [2] =>  11 blue, 1 red, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 13
+    [blue] => 12
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 11
+    [red] => 1
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 1
+    [red] => 13
+    [blue] => 12
+)
+
+Game Power: 156
+Total Score: 142
+Total Power: 21725
+------------------------------------------------------------
+Processing: Game 31: 8 green, 18 blue, 17 red; 4 red, 8 green, 6 blue; 9 blue, 7 green; 3 green, 1 blue, 12 red; 5 red, 10 blue, 11 green
+Game Number: 31
+Subsets: Array
+(
+    [0] =>  8 green, 18 blue, 17 red
+    [1] =>  4 red, 8 green, 6 blue
+    [2] =>  9 blue, 7 green
+    [3] =>  3 green, 1 blue, 12 red
+    [4] =>  5 red, 10 blue, 11 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [blue] => 18
+    [red] => 17
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 8
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 1
+    [red] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [blue] => 10
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 11
+    [blue] => 18
+    [red] => 17
+)
+
+Game Power: 3366
+Total Score: 142
+Total Power: 25091
+------------------------------------------------------------
+Processing: Game 32: 17 red, 17 green, 7 blue; 18 red, 16 green; 1 blue
+Game Number: 32
+Subsets: Array
+(
+    [0] =>  17 red, 17 green, 7 blue
+    [1] =>  18 red, 16 green
+    [2] =>  1 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 17
+    [green] => 17
+    [blue] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 18
+    [green] => 16
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 18
+    [green] => 17
+    [blue] => 7
+)
+
+Game Power: 2142
+Total Score: 142
+Total Power: 27233
+------------------------------------------------------------
+Processing: Game 33: 16 blue, 3 red; 9 blue, 1 red, 2 green; 3 green, 7 blue; 1 green, 4 red; 3 green, 1 red, 8 blue; 5 blue
+Game Number: 33
+Subsets: Array
+(
+    [0] =>  16 blue, 3 red
+    [1] =>  9 blue, 1 red, 2 green
+    [2] =>  3 green, 7 blue
+    [3] =>  1 green, 4 red
+    [4] =>  3 green, 1 red, 8 blue
+    [5] =>  5 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 16
+    [red] => 3
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [red] => 1
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 1
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 16
+    [red] => 4
+    [green] => 3
+)
+
+Game Power: 192
+Total Score: 142
+Total Power: 27425
+------------------------------------------------------------
+Processing: Game 34: 5 blue, 8 red, 1 green; 9 red, 10 blue, 7 green; 1 green, 14 blue; 8 blue, 4 red, 10 green; 15 blue, 8 green, 7 red; 2 red, 6 green, 3 blue
+Game Number: 34
+Subsets: Array
+(
+    [0] =>  5 blue, 8 red, 1 green
+    [1] =>  9 red, 10 blue, 7 green
+    [2] =>  1 green, 14 blue
+    [3] =>  8 blue, 4 red, 10 green
+    [4] =>  15 blue, 8 green, 7 red
+    [5] =>  2 red, 6 green, 3 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 8
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 10
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 14
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [red] => 4
+    [green] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 15
+    [green] => 8
+    [red] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 6
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 15
+    [red] => 9
+    [green] => 10
+)
+
+Game Power: 1350
+Total Score: 142
+Total Power: 28775
+------------------------------------------------------------
+Processing: Game 35: 13 red, 9 blue; 7 blue, 16 red, 10 green; 4 red, 6 blue; 3 blue, 12 green, 7 red; 8 blue, 6 red; 10 blue, 3 green, 2 red
+Game Number: 35
+Subsets: Array
+(
+    [0] =>  13 red, 9 blue
+    [1] =>  7 blue, 16 red, 10 green
+    [2] =>  4 red, 6 blue
+    [3] =>  3 blue, 12 green, 7 red
+    [4] =>  8 blue, 6 red
+    [5] =>  10 blue, 3 green, 2 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [blue] => 9
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [red] => 16
+    [green] => 10
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 12
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [green] => 3
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 16
+    [blue] => 10
+    [green] => 12
+)
+
+Game Power: 1920
+Total Score: 142
+Total Power: 30695
+------------------------------------------------------------
+Processing: Game 36: 1 blue, 9 red, 2 green; 11 red, 3 blue, 2 green; 2 green, 6 red; 8 green, 11 red, 3 blue; 4 green, 7 blue, 11 red; 9 green, 8 red, 2 blue
+Game Number: 36
+Subsets: Array
+(
+    [0] =>  1 blue, 9 red, 2 green
+    [1] =>  11 red, 3 blue, 2 green
+    [2] =>  2 green, 6 red
+    [3] =>  8 green, 11 red, 3 blue
+    [4] =>  4 green, 7 blue, 11 red
+    [5] =>  9 green, 8 red, 2 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 9
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 11
+    [blue] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 11
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 7
+    [red] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [red] => 8
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 7
+    [red] => 11
+    [green] => 9
+)
+
+Game Power: 693
+Total Score: 178
+Total Power: 31388
+------------------------------------------------------------
+Processing: Game 37: 8 green, 3 blue, 4 red; 14 blue, 10 green, 3 red; 19 green, 2 blue, 7 red
+Game Number: 37
+Subsets: Array
+(
+    [0] =>  8 green, 3 blue, 4 red
+    [1] =>  14 blue, 10 green, 3 red
+    [2] =>  19 green, 2 blue, 7 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [blue] => 3
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 14
+    [green] => 10
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 19
+    [blue] => 2
+    [red] => 7
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 19
+    [blue] => 14
+    [red] => 7
+)
+
+Game Power: 1862
+Total Score: 178
+Total Power: 33250
+------------------------------------------------------------
+Processing: Game 38: 2 green, 3 red, 3 blue; 3 green, 9 red; 13 blue, 8 red; 6 red, 5 green, 13 blue
+Game Number: 38
+Subsets: Array
+(
+    [0] =>  2 green, 3 red, 3 blue
+    [1] =>  3 green, 9 red
+    [2] =>  13 blue, 8 red
+    [3] =>  6 red, 5 green, 13 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 3
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 5
+    [blue] => 13
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 5
+    [red] => 9
+    [blue] => 13
+)
+
+Game Power: 585
+Total Score: 216
+Total Power: 33835
+------------------------------------------------------------
+Processing: Game 39: 8 red, 5 blue; 4 green, 5 blue, 3 red; 18 red, 2 green, 6 blue; 2 green, 5 blue, 17 red; 1 green, 2 red; 5 green, 6 blue
+Game Number: 39
+Subsets: Array
+(
+    [0] =>  8 red, 5 blue
+    [1] =>  4 green, 5 blue, 3 red
+    [2] =>  18 red, 2 green, 6 blue
+    [3] =>  2 green, 5 blue, 17 red
+    [4] =>  1 green, 2 red
+    [5] =>  5 green, 6 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 5
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 18
+    [green] => 2
+    [blue] => 6
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 5
+    [red] => 17
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 18
+    [blue] => 6
+    [green] => 5
+)
+
+Game Power: 540
+Total Score: 216
+Total Power: 34375
+------------------------------------------------------------
+Processing: Game 40: 12 red, 4 blue, 1 green; 11 green, 20 blue, 4 red; 10 blue, 4 red
+Game Number: 40
+Subsets: Array
+(
+    [0] =>  12 red, 4 blue, 1 green
+    [1] =>  11 green, 20 blue, 4 red
+    [2] =>  10 blue, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [blue] => 4
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [blue] => 20
+    [red] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 12
+    [blue] => 20
+    [green] => 11
+)
+
+Game Power: 2640
+Total Score: 216
+Total Power: 37015
+------------------------------------------------------------
+Processing: Game 41: 2 green, 2 blue; 2 red, 2 green; 2 green, 2 blue, 10 red
+Game Number: 41
+Subsets: Array
+(
+    [0] =>  2 green, 2 blue
+    [1] =>  2 red, 2 green
+    [2] =>  2 green, 2 blue, 10 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 2
+    [red] => 10
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 2
+    [blue] => 2
+    [red] => 10
+)
+
+Game Power: 40
+Total Score: 257
+Total Power: 37055
+------------------------------------------------------------
+Processing: Game 42: 6 green, 3 blue; 2 red, 2 green, 1 blue; 3 blue, 5 green, 6 red; 6 red; 1 blue, 6 green, 12 red
+Game Number: 42
+Subsets: Array
+(
+    [0] =>  6 green, 3 blue
+    [1] =>  2 red, 2 green, 1 blue
+    [2] =>  3 blue, 5 green, 6 red
+    [3] =>  6 red
+    [4] =>  1 blue, 6 green, 12 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 5
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 6
+    [red] => 12
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 6
+    [blue] => 3
+    [red] => 12
+)
+
+Game Power: 216
+Total Score: 299
+Total Power: 37271
+------------------------------------------------------------
+Processing: Game 43: 1 blue, 4 green; 1 blue; 2 blue, 8 red, 2 green; 2 blue, 1 red, 4 green; 1 blue, 4 red, 4 green; 4 green, 7 red
+Game Number: 43
+Subsets: Array
+(
+    [0] =>  1 blue, 4 green
+    [1] =>  1 blue
+    [2] =>  2 blue, 8 red, 2 green
+    [3] =>  2 blue, 1 red, 4 green
+    [4] =>  1 blue, 4 red, 4 green
+    [5] =>  4 green, 7 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 8
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 1
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 4
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 2
+    [green] => 4
+    [red] => 8
+)
+
+Game Power: 64
+Total Score: 342
+Total Power: 37335
+------------------------------------------------------------
+Processing: Game 44: 8 green, 9 red; 1 red, 2 blue, 13 green; 4 blue, 8 green, 17 red; 13 red, 13 green; 1 red, 9 green; 19 red, 3 green, 3 blue
+Game Number: 44
+Subsets: Array
+(
+    [0] =>  8 green, 9 red
+    [1] =>  1 red, 2 blue, 13 green
+    [2] =>  4 blue, 8 green, 17 red
+    [3] =>  13 red, 13 green
+    [4] =>  1 red, 9 green
+    [5] =>  19 red, 3 green, 3 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 2
+    [green] => 13
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [green] => 8
+    [red] => 17
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [green] => 13
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 19
+    [green] => 3
+    [blue] => 3
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 13
+    [red] => 19
+    [blue] => 4
+)
+
+Game Power: 988
+Total Score: 342
+Total Power: 38323
+------------------------------------------------------------
+Processing: Game 45: 10 blue, 2 red, 1 green; 6 green, 5 red, 8 blue; 3 blue, 1 red; 4 green, 10 blue, 4 red
+Game Number: 45
+Subsets: Array
+(
+    [0] =>  10 blue, 2 red, 1 green
+    [1] =>  6 green, 5 red, 8 blue
+    [2] =>  3 blue, 1 red
+    [3] =>  4 green, 10 blue, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [red] => 2
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 5
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 10
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 10
+    [red] => 5
+    [green] => 6
+)
+
+Game Power: 300
+Total Score: 387
+Total Power: 38623
+------------------------------------------------------------
+Processing: Game 46: 3 red, 8 blue; 6 blue, 7 green, 6 red; 6 green, 1 blue, 7 red; 8 red, 1 green, 5 blue; 9 red, 12 blue, 10 green; 7 green, 5 red, 1 blue
+Game Number: 46
+Subsets: Array
+(
+    [0] =>  3 red, 8 blue
+    [1] =>  6 blue, 7 green, 6 red
+    [2] =>  6 green, 1 blue, 7 red
+    [3] =>  8 red, 1 green, 5 blue
+    [4] =>  9 red, 12 blue, 10 green
+    [5] =>  7 green, 5 red, 1 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [green] => 7
+    [red] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [blue] => 1
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [green] => 1
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 12
+    [green] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 5
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 9
+    [blue] => 12
+    [green] => 10
+)
+
+Game Power: 1080
+Total Score: 433
+Total Power: 39703
+------------------------------------------------------------
+Processing: Game 47: 5 red; 2 blue, 2 green, 5 red; 3 green, 7 red; 14 red, 3 green, 2 blue
+Game Number: 47
+Subsets: Array
+(
+    [0] =>  5 red
+    [1] =>  2 blue, 2 green, 5 red
+    [2] =>  3 green, 7 red
+    [3] =>  14 red, 3 green, 2 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 2
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 14
+    [green] => 3
+    [blue] => 2
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 14
+    [blue] => 2
+    [green] => 3
+)
+
+Game Power: 84
+Total Score: 433
+Total Power: 39787
+------------------------------------------------------------
+Processing: Game 48: 7 blue, 12 green, 2 red; 11 green, 10 blue, 1 red; 1 red, 13 blue, 2 green; 14 green, 2 red, 9 blue; 2 red, 12 green, 3 blue; 2 red, 7 blue
+Game Number: 48
+Subsets: Array
+(
+    [0] =>  7 blue, 12 green, 2 red
+    [1] =>  11 green, 10 blue, 1 red
+    [2] =>  1 red, 13 blue, 2 green
+    [3] =>  14 green, 2 red, 9 blue
+    [4] =>  2 red, 12 green, 3 blue
+    [5] =>  2 red, 7 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [green] => 12
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [blue] => 10
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 13
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 14
+    [red] => 2
+    [blue] => 9
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 12
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 13
+    [green] => 14
+    [red] => 2
+)
+
+Game Power: 364
+Total Score: 433
+Total Power: 40151
+------------------------------------------------------------
+Processing: Game 49: 4 green, 5 blue; 9 blue; 10 blue, 5 green, 2 red; 10 blue, 2 red, 2 green; 1 red, 1 green, 4 blue; 2 blue
+Game Number: 49
+Subsets: Array
+(
+    [0] =>  4 green, 5 blue
+    [1] =>  9 blue
+    [2] =>  10 blue, 5 green, 2 red
+    [3] =>  10 blue, 2 red, 2 green
+    [4] =>  1 red, 1 green, 4 blue
+    [5] =>  2 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [green] => 5
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [red] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 1
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 5
+    [blue] => 10
+    [red] => 2
+)
+
+Game Power: 100
+Total Score: 482
+Total Power: 40251
+------------------------------------------------------------
+Processing: Game 50: 2 red, 2 blue, 7 green; 7 red, 9 green, 3 blue; 5 red, 10 green
+Game Number: 50
+Subsets: Array
+(
+    [0] =>  2 red, 2 blue, 7 green
+    [1] =>  7 red, 9 green, 3 blue
+    [2] =>  5 red, 10 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 2
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 9
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [green] => 10
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 7
+    [blue] => 3
+    [green] => 10
+)
+
+Game Power: 210
+Total Score: 532
+Total Power: 40461
+------------------------------------------------------------
+Processing: Game 51: 15 red, 9 blue, 4 green; 5 red, 2 blue, 15 green; 4 blue, 3 green, 20 red; 12 green, 1 red, 10 blue; 10 green, 5 blue, 13 red; 9 red, 10 green, 11 blue
+Game Number: 51
+Subsets: Array
+(
+    [0] =>  15 red, 9 blue, 4 green
+    [1] =>  5 red, 2 blue, 15 green
+    [2] =>  4 blue, 3 green, 20 red
+    [3] =>  12 green, 1 red, 10 blue
+    [4] =>  10 green, 5 blue, 13 red
+    [5] =>  9 red, 10 green, 11 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 15
+    [blue] => 9
+    [green] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [blue] => 2
+    [green] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [green] => 3
+    [red] => 20
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 12
+    [red] => 1
+    [blue] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [blue] => 5
+    [red] => 13
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [green] => 10
+    [blue] => 11
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 20
+    [blue] => 11
+    [green] => 15
+)
+
+Game Power: 3300
+Total Score: 532
+Total Power: 43761
+------------------------------------------------------------
+Processing: Game 52: 3 blue, 12 green, 1 red; 6 green; 1 red, 8 green; 1 blue, 1 green, 1 red
+Game Number: 52
+Subsets: Array
+(
+    [0] =>  3 blue, 12 green, 1 red
+    [1] =>  6 green
+    [2] =>  1 red, 8 green
+    [3] =>  1 blue, 1 green, 1 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 12
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 3
+    [green] => 12
+    [red] => 1
+)
+
+Game Power: 36
+Total Score: 584
+Total Power: 43797
+------------------------------------------------------------
+Processing: Game 53: 10 green, 7 red, 12 blue; 9 blue, 6 green, 2 red; 8 green, 5 blue, 5 red; 7 blue, 16 green, 11 red; 6 red, 8 blue, 13 green
+Game Number: 53
+Subsets: Array
+(
+    [0] =>  10 green, 7 red, 12 blue
+    [1] =>  9 blue, 6 green, 2 red
+    [2] =>  8 green, 5 blue, 5 red
+    [3] =>  7 blue, 16 green, 11 red
+    [4] =>  6 red, 8 blue, 13 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [red] => 7
+    [blue] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [green] => 6
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [blue] => 5
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [green] => 16
+    [red] => 11
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [blue] => 8
+    [green] => 13
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 16
+    [red] => 11
+    [blue] => 12
+)
+
+Game Power: 2112
+Total Score: 584
+Total Power: 45909
+------------------------------------------------------------
+Processing: Game 54: 10 green, 6 blue, 3 red; 6 green, 2 red, 8 blue; 9 blue, 11 green, 2 red; 10 green, 1 blue, 3 red
+Game Number: 54
+Subsets: Array
+(
+    [0] =>  10 green, 6 blue, 3 red
+    [1] =>  6 green, 2 red, 8 blue
+    [2] =>  9 blue, 11 green, 2 red
+    [3] =>  10 green, 1 blue, 3 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [blue] => 6
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 2
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [green] => 11
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [blue] => 1
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 11
+    [blue] => 9
+    [red] => 3
+)
+
+Game Power: 297
+Total Score: 638
+Total Power: 46206
+------------------------------------------------------------
+Processing: Game 55: 4 blue, 1 red; 3 red, 7 blue; 12 red, 4 green, 8 blue; 3 green, 5 blue, 1 red; 13 blue, 12 red, 1 green
+Game Number: 55
+Subsets: Array
+(
+    [0] =>  4 blue, 1 red
+    [1] =>  3 red, 7 blue
+    [2] =>  12 red, 4 green, 8 blue
+    [3] =>  3 green, 5 blue, 1 red
+    [4] =>  13 blue, 12 red, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [green] => 4
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 5
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [red] => 12
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 13
+    [red] => 12
+    [green] => 4
+)
+
+Game Power: 624
+Total Score: 693
+Total Power: 46830
+------------------------------------------------------------
+Processing: Game 56: 12 blue, 15 green; 1 green, 7 red, 11 blue; 5 green, 9 blue, 1 red; 8 red, 5 green, 6 blue
+Game Number: 56
+Subsets: Array
+(
+    [0] =>  12 blue, 15 green
+    [1] =>  1 green, 7 red, 11 blue
+    [2] =>  5 green, 9 blue, 1 red
+    [3] =>  8 red, 5 green, 6 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 12
+    [green] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 7
+    [blue] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 9
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [green] => 5
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 12
+    [green] => 15
+    [red] => 8
+)
+
+Game Power: 1440
+Total Score: 693
+Total Power: 48270
+------------------------------------------------------------
+Processing: Game 57: 4 green, 11 blue, 18 red; 14 blue, 14 red, 16 green; 7 red, 15 green, 3 blue; 18 red, 20 green, 8 blue; 12 blue, 9 red, 16 green
+Game Number: 57
+Subsets: Array
+(
+    [0] =>  4 green, 11 blue, 18 red
+    [1] =>  14 blue, 14 red, 16 green
+    [2] =>  7 red, 15 green, 3 blue
+    [3] =>  18 red, 20 green, 8 blue
+    [4] =>  12 blue, 9 red, 16 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 11
+    [red] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 14
+    [red] => 14
+    [green] => 16
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 15
+    [blue] => 3
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 18
+    [green] => 20
+    [blue] => 8
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 12
+    [red] => 9
+    [green] => 16
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 20
+    [blue] => 14
+    [red] => 18
+)
+
+Game Power: 5040
+Total Score: 693
+Total Power: 53310
+------------------------------------------------------------
+Processing: Game 58: 10 blue, 9 green, 8 red; 13 green, 6 blue, 8 red; 8 green, 4 red; 4 blue, 1 red, 18 green; 7 red, 10 green, 10 blue; 15 blue, 10 green, 3 red
+Game Number: 58
+Subsets: Array
+(
+    [0] =>  10 blue, 9 green, 8 red
+    [1] =>  13 green, 6 blue, 8 red
+    [2] =>  8 green, 4 red
+    [3] =>  4 blue, 1 red, 18 green
+    [4] =>  7 red, 10 green, 10 blue
+    [5] =>  15 blue, 10 green, 3 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [green] => 9
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 13
+    [blue] => 6
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 1
+    [green] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 10
+    [blue] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 15
+    [green] => 10
+    [red] => 3
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [blue] => 15
+    [green] => 18
+    [red] => 8
+)
+
+Game Power: 2160
+Total Score: 693
+Total Power: 55470
+------------------------------------------------------------
+Processing: Game 59: 17 green, 2 blue, 2 red; 2 blue, 1 red, 8 green; 14 green, 1 red, 1 blue; 15 green, 3 blue, 2 red; 2 blue, 8 green, 1 red; 1 blue, 1 red, 8 green
+Game Number: 59
+Subsets: Array
+(
+    [0] =>  17 green, 2 blue, 2 red
+    [1] =>  2 blue, 1 red, 8 green
+    [2] =>  14 green, 1 red, 1 blue
+    [3] =>  15 green, 3 blue, 2 red
+    [4] =>  2 blue, 8 green, 1 red
+    [5] =>  1 blue, 1 red, 8 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 17
+    [blue] => 2
+    [red] => 2
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 1
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 14
+    [red] => 1
+    [blue] => 1
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 15
+    [blue] => 3
+    [red] => 2
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 8
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 1
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 17
+    [blue] => 3
+    [red] => 2
+)
+
+Game Power: 102
+Total Score: 693
+Total Power: 55572
+------------------------------------------------------------
+Processing: Game 60: 1 green, 1 blue, 1 red; 4 blue, 3 red, 2 green; 13 green; 2 blue, 2 red, 8 green; 4 red, 12 green, 4 blue; 4 green, 4 blue, 4 red
+Game Number: 60
+Subsets: Array
+(
+    [0] =>  1 green, 1 blue, 1 red
+    [1] =>  4 blue, 3 red, 2 green
+    [2] =>  13 green
+    [3] =>  2 blue, 2 red, 8 green
+    [4] =>  4 red, 12 green, 4 blue
+    [5] =>  4 green, 4 blue, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 13
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 2
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 12
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 4
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 13
+    [blue] => 4
+    [red] => 4
+)
+
+Game Power: 208
+Total Score: 753
+Total Power: 55780
+------------------------------------------------------------
+Processing: Game 61: 3 blue, 7 red; 5 blue, 8 red, 1 green; 1 blue, 8 red; 10 blue, 2 red, 1 green; 1 green, 5 blue, 2 red
+Game Number: 61
+Subsets: Array
+(
+    [0] =>  3 blue, 7 red
+    [1] =>  5 blue, 8 red, 1 green
+    [2] =>  1 blue, 8 red
+    [3] =>  10 blue, 2 red, 1 green
+    [4] =>  1 green, 5 blue, 2 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 8
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [red] => 2
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 5
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 10
+    [red] => 8
+    [green] => 1
+)
+
+Game Power: 80
+Total Score: 814
+Total Power: 55860
+------------------------------------------------------------
+Processing: Game 62: 10 red, 2 green; 8 blue, 7 red, 2 green; 4 green, 2 blue, 10 red
+Game Number: 62
+Subsets: Array
+(
+    [0] =>  10 red, 2 green
+    [1] =>  8 blue, 7 red, 2 green
+    [2] =>  4 green, 2 blue, 10 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 10
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [red] => 7
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 2
+    [red] => 10
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 10
+    [green] => 4
+    [blue] => 8
+)
+
+Game Power: 320
+Total Score: 876
+Total Power: 56180
+------------------------------------------------------------
+Processing: Game 63: 1 green, 3 blue, 5 red; 6 green, 5 blue, 2 red; 3 blue, 7 red
+Game Number: 63
+Subsets: Array
+(
+    [0] =>  1 green, 3 blue, 5 red
+    [1] =>  6 green, 5 blue, 2 red
+    [2] =>  3 blue, 7 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 3
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [blue] => 5
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 6
+    [blue] => 5
+    [red] => 7
+)
+
+Game Power: 210
+Total Score: 939
+Total Power: 56390
+------------------------------------------------------------
+Processing: Game 64: 6 red, 20 blue; 4 red, 3 blue, 2 green; 3 green, 19 blue, 6 red; 2 green, 6 blue, 3 red; 13 blue, 5 green, 5 red
+Game Number: 64
+Subsets: Array
+(
+    [0] =>  6 red, 20 blue
+    [1] =>  4 red, 3 blue, 2 green
+    [2] =>  3 green, 19 blue, 6 red
+    [3] =>  2 green, 6 blue, 3 red
+    [4] =>  13 blue, 5 green, 5 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [blue] => 20
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 19
+    [red] => 6
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 6
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [green] => 5
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 6
+    [blue] => 20
+    [green] => 5
+)
+
+Game Power: 600
+Total Score: 939
+Total Power: 56990
+------------------------------------------------------------
+Processing: Game 65: 6 red, 9 blue, 20 green; 6 red, 16 green, 4 blue; 12 red, 6 green, 5 blue
+Game Number: 65
+Subsets: Array
+(
+    [0] =>  6 red, 9 blue, 20 green
+    [1] =>  6 red, 16 green, 4 blue
+    [2] =>  12 red, 6 green, 5 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [blue] => 9
+    [green] => 20
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 16
+    [blue] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 12
+    [green] => 6
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 12
+    [blue] => 9
+    [green] => 20
+)
+
+Game Power: 2160
+Total Score: 939
+Total Power: 59150
+------------------------------------------------------------
+Processing: Game 66: 2 blue, 5 red, 4 green; 13 blue, 2 green; 1 green, 6 blue
+Game Number: 66
+Subsets: Array
+(
+    [0] =>  2 blue, 5 red, 4 green
+    [1] =>  13 blue, 2 green
+    [2] =>  1 green, 6 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 5
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 13
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 13
+    [red] => 5
+    [green] => 4
+)
+
+Game Power: 260
+Total Score: 1005
+Total Power: 59410
+------------------------------------------------------------
+Processing: Game 67: 4 green, 5 blue, 2 red; 1 red, 14 blue, 6 green; 1 green, 14 red, 5 blue; 18 red, 16 blue; 15 blue, 8 red, 18 green; 1 green, 18 red, 6 blue
+Game Number: 67
+Subsets: Array
+(
+    [0] =>  4 green, 5 blue, 2 red
+    [1] =>  1 red, 14 blue, 6 green
+    [2] =>  1 green, 14 red, 5 blue
+    [3] =>  18 red, 16 blue
+    [4] =>  15 blue, 8 red, 18 green
+    [5] =>  1 green, 18 red, 6 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 5
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 14
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 14
+    [blue] => 5
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 18
+    [blue] => 16
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 15
+    [red] => 8
+    [green] => 18
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 18
+    [blue] => 6
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 18
+    [blue] => 16
+    [red] => 18
+)
+
+Game Power: 5184
+Total Score: 1005
+Total Power: 64594
+------------------------------------------------------------
+Processing: Game 68: 1 blue, 9 red, 7 green; 7 red, 1 blue, 6 green; 5 green, 1 blue, 8 red
+Game Number: 68
+Subsets: Array
+(
+    [0] =>  1 blue, 9 red, 7 green
+    [1] =>  7 red, 1 blue, 6 green
+    [2] =>  5 green, 1 blue, 8 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 9
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [blue] => 1
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 1
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 1
+    [red] => 9
+    [green] => 7
+)
+
+Game Power: 63
+Total Score: 1073
+Total Power: 64657
+------------------------------------------------------------
+Processing: Game 69: 12 green, 3 blue, 4 red; 9 green, 8 red, 7 blue; 4 blue, 5 red, 10 green; 4 red, 5 green, 7 blue; 9 green, 4 red, 2 blue; 3 green, 13 blue, 1 red
+Game Number: 69
+Subsets: Array
+(
+    [0] =>  12 green, 3 blue, 4 red
+    [1] =>  9 green, 8 red, 7 blue
+    [2] =>  4 blue, 5 red, 10 green
+    [3] =>  4 red, 5 green, 7 blue
+    [4] =>  9 green, 4 red, 2 blue
+    [5] =>  3 green, 13 blue, 1 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 12
+    [blue] => 3
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [red] => 8
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 5
+    [green] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 5
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [red] => 4
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 13
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 12
+    [blue] => 13
+    [red] => 8
+)
+
+Game Power: 1248
+Total Score: 1142
+Total Power: 65905
+------------------------------------------------------------
+Processing: Game 70: 9 red, 1 green, 8 blue; 11 green, 13 blue, 12 red; 3 blue, 5 green, 8 red; 1 red, 14 blue
+Game Number: 70
+Subsets: Array
+(
+    [0] =>  9 red, 1 green, 8 blue
+    [1] =>  11 green, 13 blue, 12 red
+    [2] =>  3 blue, 5 green, 8 red
+    [3] =>  1 red, 14 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [green] => 1
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [blue] => 13
+    [red] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 5
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [blue] => 14
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 12
+    [green] => 11
+    [blue] => 14
+)
+
+Game Power: 1848
+Total Score: 1212
+Total Power: 67753
+------------------------------------------------------------
+Processing: Game 71: 10 blue; 2 green, 8 blue, 9 red; 5 red, 1 blue
+Game Number: 71
+Subsets: Array
+(
+    [0] =>  10 blue
+    [1] =>  2 green, 8 blue, 9 red
+    [2] =>  5 red, 1 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 8
+    [red] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 10
+    [green] => 2
+    [red] => 9
+)
+
+Game Power: 180
+Total Score: 1283
+Total Power: 67933
+------------------------------------------------------------
+Processing: Game 72: 3 green, 5 blue, 5 red; 1 blue, 1 red, 2 green; 4 red, 4 blue, 1 green; 5 blue, 4 red, 1 green; 6 blue, 3 green, 5 red; 5 blue, 1 red, 4 green
+Game Number: 72
+Subsets: Array
+(
+    [0] =>  3 green, 5 blue, 5 red
+    [1] =>  1 blue, 1 red, 2 green
+    [2] =>  4 red, 4 blue, 1 green
+    [3] =>  5 blue, 4 red, 1 green
+    [4] =>  6 blue, 3 green, 5 red
+    [5] =>  5 blue, 1 red, 4 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 5
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 1
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 4
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 4
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [green] => 3
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 1
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 4
+    [blue] => 6
+    [red] => 5
+)
+
+Game Power: 120
+Total Score: 1355
+Total Power: 68053
+------------------------------------------------------------
+Processing: Game 73: 3 red, 1 green, 1 blue; 7 green, 2 red, 1 blue; 2 green, 1 blue, 3 red; 1 red, 4 green, 1 blue; 3 red, 5 green
+Game Number: 73
+Subsets: Array
+(
+    [0] =>  3 red, 1 green, 1 blue
+    [1] =>  7 green, 2 red, 1 blue
+    [2] =>  2 green, 1 blue, 3 red
+    [3] =>  1 red, 4 green, 1 blue
+    [4] =>  3 red, 5 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [green] => 1
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [red] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 1
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 4
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [green] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 3
+    [green] => 7
+    [blue] => 1
+)
+
+Game Power: 21
+Total Score: 1428
+Total Power: 68074
+------------------------------------------------------------
+Processing: Game 74: 5 blue, 1 red, 4 green; 3 red, 2 green; 4 red, 6 blue; 2 red, 2 blue; 1 green, 4 red, 8 blue; 5 blue, 4 red
+Game Number: 74
+Subsets: Array
+(
+    [0] =>  5 blue, 1 red, 4 green
+    [1] =>  3 red, 2 green
+    [2] =>  4 red, 6 blue
+    [3] =>  2 red, 2 blue
+    [4] =>  1 green, 4 red, 8 blue
+    [5] =>  5 blue, 4 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 1
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 4
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 8
+    [red] => 4
+    [green] => 4
+)
+
+Game Power: 128
+Total Score: 1502
+Total Power: 68202
+------------------------------------------------------------
+Processing: Game 75: 3 red, 5 blue, 3 green; 9 green, 6 blue, 7 red; 2 green, 3 red, 12 blue; 14 green, 4 blue, 10 red
+Game Number: 75
+Subsets: Array
+(
+    [0] =>  3 red, 5 blue, 3 green
+    [1] =>  9 green, 6 blue, 7 red
+    [2] =>  2 green, 3 red, 12 blue
+    [3] =>  14 green, 4 blue, 10 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 5
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [blue] => 6
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 3
+    [blue] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 14
+    [blue] => 4
+    [red] => 10
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 10
+    [blue] => 12
+    [green] => 14
+)
+
+Game Power: 1680
+Total Score: 1502
+Total Power: 69882
+------------------------------------------------------------
+Processing: Game 76: 1 blue, 7 red, 1 green; 6 red, 1 blue, 2 green; 4 red, 2 green; 3 red, 1 blue; 16 red, 1 green
+Game Number: 76
+Subsets: Array
+(
+    [0] =>  1 blue, 7 red, 1 green
+    [1] =>  6 red, 1 blue, 2 green
+    [2] =>  4 red, 2 green
+    [3] =>  3 red, 1 blue
+    [4] =>  16 red, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 7
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [blue] => 1
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 16
+    [green] => 1
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [blue] => 1
+    [red] => 16
+    [green] => 2
+)
+
+Game Power: 32
+Total Score: 1502
+Total Power: 69914
+------------------------------------------------------------
+Processing: Game 77: 3 red, 10 blue, 1 green; 4 red, 7 blue, 3 green; 7 blue, 6 green, 7 red; 5 green, 15 blue, 7 red; 12 green, 5 red
+Game Number: 77
+Subsets: Array
+(
+    [0] =>  3 red, 10 blue, 1 green
+    [1] =>  4 red, 7 blue, 3 green
+    [2] =>  7 blue, 6 green, 7 red
+    [3] =>  5 green, 15 blue, 7 red
+    [4] =>  12 green, 5 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 10
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 4
+    [blue] => 7
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [green] => 6
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 15
+    [red] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 12
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 7
+    [blue] => 15
+    [green] => 12
+)
+
+Game Power: 1260
+Total Score: 1502
+Total Power: 71174
+------------------------------------------------------------
+Processing: Game 78: 6 red, 10 blue, 15 green; 6 green, 11 red, 4 blue; 6 blue, 8 red; 4 blue, 7 red, 2 green; 11 green, 7 red, 11 blue; 3 blue, 14 green, 6 red
+Game Number: 78
+Subsets: Array
+(
+    [0] =>  6 red, 10 blue, 15 green
+    [1] =>  6 green, 11 red, 4 blue
+    [2] =>  6 blue, 8 red
+    [3] =>  4 blue, 7 red, 2 green
+    [4] =>  11 green, 7 red, 11 blue
+    [5] =>  3 blue, 14 green, 6 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [blue] => 10
+    [green] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 11
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 7
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+    [red] => 7
+    [blue] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 14
+    [red] => 6
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 11
+    [blue] => 11
+    [green] => 15
+)
+
+Game Power: 1815
+Total Score: 1502
+Total Power: 72989
+------------------------------------------------------------
+Processing: Game 79: 14 red, 6 green, 4 blue; 13 red, 6 blue; 6 red, 13 green, 4 blue
+Game Number: 79
+Subsets: Array
+(
+    [0] =>  14 red, 6 green, 4 blue
+    [1] =>  13 red, 6 blue
+    [2] =>  6 red, 13 green, 4 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 14
+    [green] => 6
+    [blue] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 13
+    [blue] => 6
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 13
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 14
+    [green] => 13
+    [blue] => 6
+)
+
+Game Power: 1092
+Total Score: 1502
+Total Power: 74081
+------------------------------------------------------------
+Processing: Game 80: 8 red, 2 blue, 8 green; 6 red, 10 green, 4 blue; 3 red, 9 green; 2 green, 8 blue, 7 red; 7 blue, 3 red, 11 green; 1 red, 12 green, 8 blue
+Game Number: 80
+Subsets: Array
+(
+    [0] =>  8 red, 2 blue, 8 green
+    [1] =>  6 red, 10 green, 4 blue
+    [2] =>  3 red, 9 green
+    [3] =>  2 green, 8 blue, 7 red
+    [4] =>  7 blue, 3 red, 11 green
+    [5] =>  1 red, 12 green, 8 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [blue] => 2
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 10
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [green] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 8
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [red] => 3
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 12
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 8
+    [blue] => 8
+    [green] => 12
+)
+
+Game Power: 768
+Total Score: 1582
+Total Power: 74849
+------------------------------------------------------------
+Processing: Game 81: 9 red, 4 blue, 11 green; 1 blue, 4 red, 2 green; 5 red; 3 blue, 2 red, 2 green; 14 red, 12 green
+Game Number: 81
+Subsets: Array
+(
+    [0] =>  9 red, 4 blue, 11 green
+    [1] =>  1 blue, 4 red, 2 green
+    [2] =>  5 red
+    [3] =>  3 blue, 2 red, 2 green
+    [4] =>  14 red, 12 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 4
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 4
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 14
+    [green] => 12
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 14
+    [blue] => 4
+    [green] => 12
+)
+
+Game Power: 672
+Total Score: 1582
+Total Power: 75521
+------------------------------------------------------------
+Processing: Game 82: 5 green; 2 blue; 2 red; 1 blue, 2 red, 11 green; 8 green, 2 red, 1 blue
+Game Number: 82
+Subsets: Array
+(
+    [0] =>  5 green
+    [1] =>  2 blue
+    [2] =>  2 red
+    [3] =>  1 blue, 2 red, 11 green
+    [4] =>  8 green, 2 red, 1 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 2
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 11
+    [blue] => 2
+    [red] => 2
+)
+
+Game Power: 44
+Total Score: 1664
+Total Power: 75565
+------------------------------------------------------------
+Processing: Game 83: 3 green, 7 red, 6 blue; 7 red, 7 green, 11 blue; 7 blue, 13 green, 7 red; 12 blue, 10 red, 2 green; 1 green, 11 red, 7 blue; 12 blue, 9 red, 9 green
+Game Number: 83
+Subsets: Array
+(
+    [0] =>  3 green, 7 red, 6 blue
+    [1] =>  7 red, 7 green, 11 blue
+    [2] =>  7 blue, 13 green, 7 red
+    [3] =>  12 blue, 10 red, 2 green
+    [4] =>  1 green, 11 red, 7 blue
+    [5] =>  12 blue, 9 red, 9 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 7
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 7
+    [blue] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [green] => 13
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 12
+    [red] => 10
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 11
+    [blue] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 12
+    [red] => 9
+    [green] => 9
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 13
+    [red] => 11
+    [blue] => 12
+)
+
+Game Power: 1716
+Total Score: 1747
+Total Power: 77281
+------------------------------------------------------------
+Processing: Game 84: 5 blue, 1 green; 16 green, 4 blue, 8 red; 7 red, 5 blue, 16 green
+Game Number: 84
+Subsets: Array
+(
+    [0] =>  5 blue, 1 green
+    [1] =>  16 green, 4 blue, 8 red
+    [2] =>  7 red, 5 blue, 16 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 16
+    [blue] => 4
+    [red] => 8
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [blue] => 5
+    [green] => 16
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [blue] => 5
+    [green] => 16
+    [red] => 8
+)
+
+Game Power: 640
+Total Score: 1747
+Total Power: 77921
+------------------------------------------------------------
+Processing: Game 85: 9 green, 20 blue, 7 red; 19 blue, 14 red, 2 green; 10 green, 2 red, 10 blue
+Game Number: 85
+Subsets: Array
+(
+    [0] =>  9 green, 20 blue, 7 red
+    [1] =>  19 blue, 14 red, 2 green
+    [2] =>  10 green, 2 red, 10 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [blue] => 20
+    [red] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 19
+    [red] => 14
+    [green] => 2
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 10
+    [red] => 2
+    [blue] => 10
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 10
+    [blue] => 20
+    [red] => 14
+)
+
+Game Power: 2800
+Total Score: 1747
+Total Power: 80721
+------------------------------------------------------------
+Processing: Game 86: 1 green, 3 red, 5 blue; 9 red, 2 blue, 6 green; 8 green, 14 red, 3 blue; 18 green, 2 blue, 7 red; 2 blue, 10 red, 14 green; 17 green, 4 blue, 12 red
+Game Number: 86
+Subsets: Array
+(
+    [0] =>  1 green, 3 red, 5 blue
+    [1] =>  9 red, 2 blue, 6 green
+    [2] =>  8 green, 14 red, 3 blue
+    [3] =>  18 green, 2 blue, 7 red
+    [4] =>  2 blue, 10 red, 14 green
+    [5] =>  17 green, 4 blue, 12 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 3
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 2
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 8
+    [red] => 14
+    [blue] => 3
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 18
+    [blue] => 2
+    [red] => 7
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 10
+    [green] => 14
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 17
+    [blue] => 4
+    [red] => 12
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [green] => 18
+    [red] => 14
+    [blue] => 5
+)
+
+Game Power: 1260
+Total Score: 1747
+Total Power: 81981
+------------------------------------------------------------
+Processing: Game 87: 4 green, 8 red, 13 blue; 7 red, 13 blue, 4 green; 1 green, 8 blue
+Game Number: 87
+Subsets: Array
+(
+    [0] =>  4 green, 8 red, 13 blue
+    [1] =>  7 red, 13 blue, 4 green
+    [2] =>  1 green, 8 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 8
+    [blue] => 13
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [blue] => 13
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [blue] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 4
+    [red] => 8
+    [blue] => 13
+)
+
+Game Power: 416
+Total Score: 1834
+Total Power: 82397
+------------------------------------------------------------
+Processing: Game 88: 9 blue, 11 red; 5 green, 7 blue, 12 red; 10 red, 2 green, 1 blue; 2 blue, 5 red, 5 green; 7 red, 6 green, 9 blue; 1 green, 10 red, 5 blue
+Game Number: 88
+Subsets: Array
+(
+    [0] =>  9 blue, 11 red
+    [1] =>  5 green, 7 blue, 12 red
+    [2] =>  10 red, 2 green, 1 blue
+    [3] =>  2 blue, 5 red, 5 green
+    [4] =>  7 red, 6 green, 9 blue
+    [5] =>  1 green, 10 red, 5 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 9
+    [red] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 7
+    [red] => 12
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 10
+    [green] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 5
+    [green] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 6
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 1
+    [red] => 10
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 9
+    [red] => 12
+    [green] => 6
+)
+
+Game Power: 648
+Total Score: 1922
+Total Power: 83045
+------------------------------------------------------------
+Processing: Game 89: 7 red, 2 green, 1 blue; 1 blue, 2 green; 6 red, 1 green; 7 red, 1 blue; 3 green, 3 red
+Game Number: 89
+Subsets: Array
+(
+    [0] =>  7 red, 2 green, 1 blue
+    [1] =>  1 blue, 2 green
+    [2] =>  6 red, 1 green
+    [3] =>  7 red, 1 blue
+    [4] =>  3 green, 3 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 2
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 7
+    [green] => 3
+    [blue] => 1
+)
+
+Game Power: 21
+Total Score: 2011
+Total Power: 83066
+------------------------------------------------------------
+Processing: Game 90: 8 blue, 2 red, 3 green; 9 green, 4 blue, 3 red; 7 green, 11 blue, 2 red; 13 green, 12 blue, 8 red; 10 blue, 2 green; 5 green, 1 red, 9 blue
+Game Number: 90
+Subsets: Array
+(
+    [0] =>  8 blue, 2 red, 3 green
+    [1] =>  9 green, 4 blue, 3 red
+    [2] =>  7 green, 11 blue, 2 red
+    [3] =>  13 green, 12 blue, 8 red
+    [4] =>  10 blue, 2 green
+    [5] =>  5 green, 1 red, 9 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 8
+    [red] => 2
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 9
+    [blue] => 4
+    [red] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 7
+    [blue] => 11
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 13
+    [blue] => 12
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 10
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [red] => 1
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 12
+    [red] => 8
+    [green] => 13
+)
+
+Game Power: 1248
+Total Score: 2101
+Total Power: 84314
+------------------------------------------------------------
+Processing: Game 91: 2 red, 2 green, 4 blue; 5 blue, 2 red, 16 green; 11 green; 3 blue, 2 red, 8 green; 4 green, 3 blue
+Game Number: 91
+Subsets: Array
+(
+    [0] =>  2 red, 2 green, 4 blue
+    [1] =>  5 blue, 2 red, 16 green
+    [2] =>  11 green
+    [3] =>  3 blue, 2 red, 8 green
+    [4] =>  4 green, 3 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 2
+    [blue] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 5
+    [red] => 2
+    [green] => 16
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 2
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 2
+    [green] => 16
+    [blue] => 5
+)
+
+Game Power: 160
+Total Score: 2101
+Total Power: 84474
+------------------------------------------------------------
+Processing: Game 92: 8 red, 12 blue, 3 green; 11 red, 10 blue, 6 green; 14 red, 8 green, 14 blue
+Game Number: 92
+Subsets: Array
+(
+    [0] =>  8 red, 12 blue, 3 green
+    [1] =>  11 red, 10 blue, 6 green
+    [2] =>  14 red, 8 green, 14 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [blue] => 12
+    [green] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 11
+    [blue] => 10
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 14
+    [green] => 8
+    [blue] => 14
+)
+
+Is Subset Possible: No
+Game Max Dice: Array
+(
+    [red] => 14
+    [blue] => 14
+    [green] => 8
+)
+
+Game Power: 1568
+Total Score: 2101
+Total Power: 86042
+------------------------------------------------------------
+Processing: Game 93: 3 green, 2 red, 3 blue; 3 green, 3 red, 1 blue; 2 blue, 16 red, 3 green; 2 green; 5 green, 2 blue, 2 red
+Game Number: 93
+Subsets: Array
+(
+    [0] =>  3 green, 2 red, 3 blue
+    [1] =>  3 green, 3 red, 1 blue
+    [2] =>  2 blue, 16 red, 3 green
+    [3] =>  2 green
+    [4] =>  5 green, 2 blue, 2 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 2
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [red] => 3
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 16
+    [green] => 3
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 5
+    [blue] => 2
+    [red] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [green] => 5
+    [red] => 16
+    [blue] => 3
+)
+
+Game Power: 240
+Total Score: 2101
+Total Power: 86282
+------------------------------------------------------------
+Processing: Game 94: 5 red, 2 green; 9 red, 3 blue; 2 green, 2 blue, 5 red; 3 blue, 8 red, 2 green; 8 red, 1 blue, 1 green
+Game Number: 94
+Subsets: Array
+(
+    [0] =>  5 red, 2 green
+    [1] =>  9 red, 3 blue
+    [2] =>  2 green, 2 blue, 5 red
+    [3] =>  3 blue, 8 red, 2 green
+    [4] =>  8 red, 1 blue, 1 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 3
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 2
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 8
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 8
+    [blue] => 1
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 9
+    [green] => 2
+    [blue] => 3
+)
+
+Game Power: 54
+Total Score: 2195
+Total Power: 86336
+------------------------------------------------------------
+Processing: Game 95: 3 blue, 4 green, 7 red; 7 red, 1 green, 15 blue; 6 blue, 2 green, 7 red
+Game Number: 95
+Subsets: Array
+(
+    [0] =>  3 blue, 4 green, 7 red
+    [1] =>  7 red, 1 green, 15 blue
+    [2] =>  6 blue, 2 green, 7 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [green] => 4
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 7
+    [green] => 1
+    [blue] => 15
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 6
+    [green] => 2
+    [red] => 7
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 15
+    [green] => 4
+    [red] => 7
+)
+
+Game Power: 420
+Total Score: 2195
+Total Power: 86756
+------------------------------------------------------------
+Processing: Game 96: 2 blue, 1 red, 6 green; 7 blue, 8 green; 1 red, 7 green; 2 green, 14 blue, 1 red; 3 blue, 1 red, 7 green; 4 blue, 11 green
+Game Number: 96
+Subsets: Array
+(
+    [0] =>  2 blue, 1 red, 6 green
+    [1] =>  7 blue, 8 green
+    [2] =>  1 red, 7 green
+    [3] =>  2 green, 14 blue, 1 red
+    [4] =>  3 blue, 1 red, 7 green
+    [5] =>  4 blue, 11 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [red] => 1
+    [green] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 7
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 1
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [blue] => 14
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 3
+    [red] => 1
+    [green] => 7
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [green] => 11
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 14
+    [red] => 1
+    [green] => 11
+)
+
+Game Power: 154
+Total Score: 2291
+Total Power: 86910
+------------------------------------------------------------
+Processing: Game 97: 2 red, 9 blue, 8 green; 3 green, 5 blue; 6 green, 1 red, 9 blue; 2 red, 13 green, 1 blue; 2 green, 2 red, 2 blue
+Game Number: 97
+Subsets: Array
+(
+    [0] =>  2 red, 9 blue, 8 green
+    [1] =>  3 green, 5 blue
+    [2] =>  6 green, 1 red, 9 blue
+    [3] =>  2 red, 13 green, 1 blue
+    [4] =>  2 green, 2 red, 2 blue
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [blue] => 9
+    [green] => 8
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 3
+    [blue] => 5
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 6
+    [red] => 1
+    [blue] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 2
+    [green] => 13
+    [blue] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [green] => 2
+    [red] => 2
+    [blue] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 2
+    [blue] => 9
+    [green] => 13
+)
+
+Game Power: 234
+Total Score: 2388
+Total Power: 87144
+------------------------------------------------------------
+Processing: Game 98: 2 blue, 1 green, 1 red; 4 blue, 5 red, 1 green; 4 blue, 3 red, 2 green
+Game Number: 98
+Subsets: Array
+(
+    [0] =>  2 blue, 1 green, 1 red
+    [1] =>  4 blue, 5 red, 1 green
+    [2] =>  4 blue, 3 red, 2 green
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 1
+    [red] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 5
+    [green] => 1
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 4
+    [red] => 3
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [blue] => 4
+    [green] => 2
+    [red] => 5
+)
+
+Game Power: 40
+Total Score: 2486
+Total Power: 87184
+------------------------------------------------------------
+Processing: Game 99: 17 red, 2 blue, 4 green; 4 green, 8 red, 6 blue; 5 red
+Game Number: 99
+Subsets: Array
+(
+    [0] =>  17 red, 2 blue, 4 green
+    [1] =>  4 green, 8 red, 6 blue
+    [2] =>  5 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 17
+    [blue] => 2
+    [green] => 4
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [green] => 4
+    [red] => 8
+    [blue] => 6
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 5
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 17
+    [blue] => 6
+    [green] => 4
+)
+
+Game Power: 408
+Total Score: 2486
+Total Power: 87592
+------------------------------------------------------------
+Processing: Game 100: 6 red, 4 green; 3 red, 2 blue, 9 green; 1 blue, 5 green, 14 red; 1 blue, 2 red, 2 green; 9 red, 1 blue, 14 green; 2 blue, 11 green, 8 red
+Game Number: 100
+Subsets: Array
+(
+    [0] =>  6 red, 4 green
+    [1] =>  3 red, 2 blue, 9 green
+    [2] =>  1 blue, 5 green, 14 red
+    [3] =>  1 blue, 2 red, 2 green
+    [4] =>  9 red, 1 blue, 14 green
+    [5] =>  2 blue, 11 green, 8 red
+)
+
+------------------------------
+Subset Dice: Array
+(
+    [red] => 6
+    [green] => 4
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 3
+    [blue] => 2
+    [green] => 9
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [green] => 5
+    [red] => 14
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 1
+    [red] => 2
+    [green] => 2
+)
+
+Is Subset Possible: Yes
+------------------------------
+Subset Dice: Array
+(
+    [red] => 9
+    [blue] => 1
+    [green] => 14
+)
+
+Is Subset Possible: No
+------------------------------
+Subset Dice: Array
+(
+    [blue] => 2
+    [green] => 11
+    [red] => 8
+)
+
+Is Subset Possible: Yes
+Game Max Dice: Array
+(
+    [red] => 14
+    [green] => 14
+    [blue] => 2
+)
+
+Game Power: 392
+Total Score: 2486
+Total Power: 87984
