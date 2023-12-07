@@ -145,16 +145,16 @@ function getHandType(string $hand) : string
 function isFiveOfAKind(array $cards = []) : bool
 {
     // where all five cards have the same label: AAAAA
-    if ($cards[0] !== 'J') {
-        $first = $cards[0];
-    } else if ($cards[1] !== 'J') {
-        $first = $cards[1];
-    } else if ($cards[2] !== 'J') {
-        $first = $cards[2];
-    } else if ($cards[3] !== 'J') {
-        $first = $cards[3];
-    } else {
-        $first = $cards[4];
+    $first = false;
+    foreach ($cards as $card) {
+        if ($first === false && $card !== 'J') {
+            $first = $card;
+            break;
+        }
+    }
+
+    if ($first === false) {
+        $first = $cards[4]; // should be J if we get here
     }
 
     foreach ($cards as $card) {
@@ -245,7 +245,7 @@ function isThreeOfAKind(array $cards = []) : bool
 
 function isTwoPair(array $cards = []) : bool
 {
-    echo "Cards: " . implode('', $cards) . "\n";
+    // echo "Cards: " . implode('', $cards) . "\n";
     // 3J94T
     // where two cards share one label, two other cards share a second label, and the remaining card has a third label: 23432
 
@@ -258,7 +258,7 @@ function isTwoPair(array $cards = []) : bool
     }
 
     if ($firstPair !== false) {
-        echo "First pair card: " . $firstPair . "\n";
+        // echo "First pair card: " . $firstPair . "\n";
 
         // remove the first pair cards from the cards array
         $firstIndex = array_search($firstPair, $cards);
@@ -273,7 +273,7 @@ function isTwoPair(array $cards = []) : bool
                 }
             }
 
-            echo "Next Highest card: " . $highestCard . "\n";
+            // echo "Next Highest card: " . $highestCard . "\n";
 
             if ($highestCard !== false) {
                 $secondIndex = array_search($highestCard, $cards);
@@ -288,7 +288,7 @@ function isTwoPair(array $cards = []) : bool
             unset($cards[$secondIndex]);
         }
 
-        echo "Remaining Cards: " . print_r($cards, true) . "\n";
+       // echo "Remaining Cards: " . print_r($cards, true) . "\n";
 
         // look for a second pair
         return isOnePair($cards);
